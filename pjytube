@@ -1,0 +1,113 @@
+#EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
+
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://i.ytimg.com/vi/NMre6IAAAiU/maxresdefault.jpg" tvg-id="", COVID-19 Stats
+https://utube.psrutube.workers.dev/stream/UCDGiCfCZIV5phsoGiPwIcyQ/master.m3u8
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="http://akamaividz.zee5.com/resources/0-9-203/list/386x386/09203polimernews.png" tvg-id="", Polimer News
+https://utube.psrutube.workers.dev/stream/UC8Z-VjXBtDJTvq6aqkIskPg/master.m3u8
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="http://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_797/img_logo_news_7_tamil-2.png" tvg-id="", News7 Tamil
+https://utube.psrutube.workers.dev/stream/UC2f4w_ppqHplvjiNaoTAK9w/master.m3u8
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://i.imgur.com/MulgNRs.jpg" tvg-id="", Puthiya Thalaimurai
+https://utube.psrutube.workers.dev/stream/UCmyKnNRH0wH-r8I-ceP-dsg/master.m3u8
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="http://www.thanthitv.com/Images/TTV-800x800.png" tvg-id="", Thanthi TV
+https://utube.psrutube.workers.dev/stream/UC-JFyL0zDFOsPMpuWu39rPA/master.m3u8
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="http://7starcloud.in/NB.png" tvg-id="", New18 TamilNadu
+https://utube.psrutube.workers.dev/stream/UCat88i6_rELqI_prwvjspRA/master.m3u8
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://e7.pngegg.com/pngimages/25/365/png-clipart-udaya-tv-sun-tv-network-television-channel-udaya-news-others-television-text-thumbnail.png" tvg-id="", Sun News
+https://utube.psrutube.workers.dev/stream/UCYlh4lH762HvHt6mmiecyWQ/master.m3u8
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://i.extraimages.net/images/2021/04/05/logo_login.png" tvg-id="", NewsJ
+https://utube.psrutube.workers.dev/stream/UCsfh2Zb7-m4qzT8jLhK_Fzw/master.m3u8
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/SathiyamFinallogo.png/220px-SathiyamFinallogo.png" tvg-id="", Sathiyamtv
+https://utube.psrutube.workers.dev/stream/UC2ziCMHFPWkFHjocUMXT__Q/master.m3u8
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://i.imgur.com/9KOtLWa.jpg" tvg-id="", Dinamalar (தினமலர் செய்திகள்)
+https://utube.psrutube.workers.dev/stream/UChcR8SrIiSON4KxmtpwfMgw/master.m3u8
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://i.imgur.com/SJBIGOb.png" tvg-id="", Jaya Plus
+https://utube.psrutube.workers.dev/stream/UCOP4Gbw-T1ofcW8vyL89ZDw/master.m3u8
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://i.extraimages.net/images/2021/04/05/5zCwyOg7J4c6f4nVPZKTLFnP9vRlE44COxiWVFHncNnWs1N5TM8B-smWEu20EIFd8g.jpg" tvg-id="", Kalaignar News
+https://utube.psrutube.workers.dev/stream/UCcVF2Fth-qEA4T1Lhn3CgKg/master.m3u8
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://i.imgur.com/RuUvWva.jpg" tvg-id="", Raj News தமிழ்
+https://utube.psrutube.workers.dev/stream/UC1mkFVHzP87YQ87PSMxo9MQ/master.m3u8
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://i.imgur.com/glL5zYr.png" tvg-id="", Captain News
+https://utube.psrutube.workers.dev/stream/UCno6OgN7-NDmRTNBgqWevlw/master.m3u8
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://i.extraimages.net/images/2021/04/05/CNN-News18.png" tvg-id="", CNN News18
+https://utube.psrutube.workers.dev/stream/UCef1-8eOpJgud7szVPlZQAQ/master.m3u8
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/DD_News.png" tvg-id="", DD NEWS 24X7
+https://utube.psrutube.workers.dev/stream/UCKwucPzHZ7zCUIf7If-Wo1g/master.m3u8
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/1280px-NDTV_247.svg.png" tvg-id="", NDTV 24*7
+https://utube.psrutube.workers.dev/stream/UCZFMm1mMw0F81Z37aaEzTUA/master.m3u8
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://i.imgur.com/3Y60xSh.jpg" tvg-id="", IndiaTV
+https://utube.psrutube.workers.dev/stream/UCttspZesZIDEwwpVIgoZtWQ/master.m3u8
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://i.imgur.com/MkLUX70.png" tvg-id="", NewsX
+https://utube.psrutube.workers.dev/stream/UCytSP0M0Jdnw6qIy3Y-nTig/master.m3u8
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://i.imgur.com/mO7gA6S.png" tvg-id="", DW News
+https://utube.psrutube.workers.dev/stream/UCknLrEdhRCp1aegoMqRaCZg/master.m3u8
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://i.imgur.com/3PH7frA.jpg" tvg-id="", WION
+https://utube.psrutube.workers.dev/stream/UC_gUM8rL-Lrg6O3adPW9K1g/master.m3u8
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://media.info/i/lf/300/1504210656/6883.png" tvg-id="", Franceinfo
+https://utube.psrutube.workers.dev/stream/UCO6K_kkdP-lnSCiO3tPx7WA/master.m3u8
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://i.imgur.com/1NHCrPM.png" tvg-id="", FRANCE 24 English
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg/live
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://i.imgur.com/1NHCrPM.png" tvg-id="", FRANCE 24 French
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCCCPCZNChQdGa9EkATeye4g/live
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://i.imgur.com/NCReKGD.png" tvg-id="", NBC News
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCeY0bbntWzzVIaj2z3QigXg/live
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://i.imgur.com/XZKXViS.png" tvg-id="027", Republic World
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCwqusr8YDwM-3mEYTDeJHzw/live
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS9_cPzsdvvrG-A-Sy80N3rFR5WFz4oF1VsN_r3Ng=s176-c-k-c0x00ffffff-no-rj" tvg-id="030", Republic Bharat
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC7wXt18f2iA3EDXeqAVuKng/live
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://yt3.ggpht.com/lMqH7cmFVaVx5EfOPtuD1ntgb9VdILySu3at9dv6FZT1QWtPkzvObcHt-ZsbYSj0SkMJEfi6=s100-c-k-c0x00ffffff-no-rj" tvg-id="", Good News Today
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCQC1wGbOOIoC23fRGxt4kbg/live
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" tvg-id="", ABC News
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/live
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRQUufCNVG3HFPvnXLeywGwm7ULTvpUMAQng-9TNg=s176-c-k-c0x00ffffff-no-rj" tvg-id="", NDTV India
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC9CYT9gSNLevX5ey2_6CK0Q/live
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS6F38gUVFlgqPibPvR34XXRpDMfoGSUzDM2n1tuGo=s176-c-k-c0x00ffffff-no-rj" tvg-id="", TRT World
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw/live
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQuzkdeUxIhS3KWZrYcDf4F8k2VC6SHZt2HlyzCM_c=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Al Jazeera English
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg/live
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://i.imgur.com/1taNs6L.jpg" tvg-id="", TV Derana - Sri Lanka
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCbkMFGQ_RWIf0OiYeOpf6Ng/live
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQl7s5yKvFuKWxYVDMi2jK5EsGCyQmQan_r802urw=s176-c-k-c0x00ffffff-no-rj" tvg-id="", G TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC6XLG5YjZfK1p5oY5MJ3NMw/live
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ5BHyctCylvceej7c9Gcm0v_DFlNBR_kWQTf9IfQ=s176-c-k-c0x00ffffff-no-rj" tvg-id="", News 12 New York
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCFhbonoFqxg2b9FMRzYAwog/live
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://yt3.ggpht.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Sky News
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ/live
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://yt3.ggpht.com/yf11CBlHMr2hTqx-gUoAR_v9W0iRSK7O8PD5Wi5qKIcU7cKKF11Dhwr2KuKZ_SWRnxDVKIct=s176-c-k-c0x00ffffff-no-rj" tvg-id="", euronews
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCSrZ3UV4jOidv8ppoVuvW9Q/live
