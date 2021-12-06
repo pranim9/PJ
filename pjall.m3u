@@ -251,6 +251,114 @@ https://yuppcatchup.akamaized.net/preview/ktvhd/master.m3u8
 
 
 
+#########################--208.86.19.21-#################################
+
+#EXTINF:-1 group-title="208.86.19.21",Zee Bollywood
+http://208.86.19.21:80/701.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Sony SAB HD
+http://208.86.19.21:80/702.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",&Tv
+http://208.86.19.21:80/703.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",&Pictures
+http://208.86.19.21:80/705.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Sony max hd 
+http://208.86.19.21:80/706.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Zee Bangla Cinema
+http://208.86.19.21:80/708.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Star Gold Select HD
+http://208.86.19.21:80/709.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Star Sports 1 HD
+http://208.86.19.21:80/710.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Ten Sports
+http://208.86.19.21:80/711.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Sony ten 2
+http://208.86.19.21:80/712.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Sony Ten 3
+http://208.86.19.21:80/713.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Star Sports 2
+http://208.86.19.21:80/715.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Jalsha Movies HD
+http://208.86.19.21:80/716.stream/index.m3u8
+
+
+#EXTINF:-1 group-title="208.86.19.21",ASTRO CRICKET
+http://208.86.19.21:80/720.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Star bharat 
+http://208.86.19.21:80/721.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",UTV 
+http://208.86.19.21:80/723.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Star Sports 1 HD Hindi
+http://208.86.19.21:80/724.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Sony ten 1
+http://208.86.19.21:80/726.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Zee Action
+http://208.86.19.21:80/728.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Willow HD
+http://208.86.19.21:80/731.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Star Sports 3
+http://208.86.19.21:80/732.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",B4U music
+http://208.86.19.21:80/733.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Colors Cineplex HD
+http://208.86.19.21:80/735.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Star Sports Select 1 HD
+http://208.86.19.21:80/736.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Star Sports Select 2 HD
+http://208.86.19.21:80/737.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Sony Six HD
+http://208.86.19.21:80/740.stream/index.m3u8 
+
+#EXTINF:-1 group-title="208.86.19.21",Ekattor TV
+http://208.86.19.21:80/604.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Colors HD
+http://208.86.19.21:80/605.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Zee tv hd
+http://208.86.19.21:80/606.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Star Plus HD
+http://208.86.19.21:80/607.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",PTV Sports
+http://208.86.19.21:80/610.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Hum tv
+http://208.86.19.21:80/611.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Zee Bangla
+http://208.86.19.21:80/906.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Star Jalsha
+http://208.86.19.21:80/908.stream/index.m3u8
+
+
+
+
 
 #####------------ SonyLiv---------------
 
@@ -308,6 +416,278 @@ https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="SonyLiv",SONY WAH
 https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+
+
+
+
+#####------------ 103.157.201.165 ------------------
+
+
+
+
+#EXTINF:-1 group-title="103.157.201.165",PRIVE HD-
+http://103.157.210.165:8000/play/a01o/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",&flix HD-
+http://103.157.210.165:8000/play/a016/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",&pictures 
+http://103.157.210.165:8000/play/a01i/index.m3u8
+
+
+#EXTINF:-1 group-title="103.157.201.165",ANIMAL PLAN HD
+http://103.157.210.165:8000/play/a01c/index.m3u8
+
+
+#EXTINF:-1 group-title="103.157.201.165",ASIANET NEWs
+http://103.157.210.165:8000/play/a02d/index.m3u8
+
+
+#EXTINF:-1 group-title="103.157.201.165",CARTOON-
+http://103.157.210.165:8000/play/a00p/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",Colors HD-
+http://103.157.210.165:8000/play/a015/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",DISCOVERY Kids
+http://103.157.210.165:8000/play/a00y/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",Discovery HD
+http://103.157.210.165:8000/play/a00m/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",Disney Chan-
+http://103.157.210.165:8000/play/a00r/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",Disney Jr
+http://103.157.210.165:8000/play/a00u/index.m3u8
+
+
+#EXTINF:-1 group-title="103.157.201.165",EuroSports HD-
+http://103.157.210.165:8000/play/a018/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",HISTORY TV18
+http://103.157.210.165:8000/play/a01e/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",Janam TV 
+http://103.157.210.165:8000/play/a02i/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",MAX HD -
+http://103.157.210.165:8000/play/a00c/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",MN+ HD-
+http://103.157.210.165:8000/play/a00i/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",MOVIES NO-
+http://103.157.210.165:8000/play/a010/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",Media one- 
+http://103.157.210.165:8000/play/a02m/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",NAT Geo Wild HD-
+http://103.157.210.165:8000/play/a00d/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",Nat Geo Wild HD
+http://103.157.210.165:8000/play/a028/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",National G HD
+http://103.157.210.165:8000/play/a00l/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",Nick Jr
+http://103.157.210.165:8000/play/a00x/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",OSN | Movies Comedy HD
+http://103.157.210.165:8000/play/a029/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",PIX HD -
+http://103.157.210.165:8000/play/a01h/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",StarMov S HD-
+http://103.157.210.165:8000/play/a00k/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",THANTHI TV-tamil
+http://103.157.210.165:8000/play/a02l/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",TLC HD- 
+http://103.157.210.165:8000/play/a00g/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",WWE Superslam
+http://103.157.210.165:8000/play/a027/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",ZEE CINEMA HD
+http://103.157.210.165:8000/play/a01a/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",ZEE Cafe H-
+http://103.157.210.165:8000/play/a00h/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",ZEE TV HD-
+http://103.157.210.165:8000/play/a014/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",colors INFIN 
+http://103.157.210.165:8000/play/a01m/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",TLC HD- 
+
+#EXTINF:-1 group-title="103.157.201.165",http://103.131.212.138:8000/play/a00s/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",UTV ACTION-
+http://103.131.212.138:8000/play/a00k/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",UTV MOVIES-
+http://103.131.212.138:8000/play/a00j/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",ZEE CINEMA HD-
+http://103.131.212.138:8000/play/a010/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",ZEE Cafe H
+http://103.131.212.138:8000/play/a00t/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",ZEE TV HD
+http://103.131.212.138:8000/play/a01h/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",colors INFIN HD-
+http://103.131.212.138:8000/play/a01c/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",nick HD+- 
+http://103.131.212.138:8000/play/a01d/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",PRIVE HD-Rs 
+http://103.131.212.138:8000/play/a01e/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",&flix HD-
+http://103.131.212.138:8000/play/a01j/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",&pictures HD 
+http://103.131.212.138:8000/play/a018/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",ANIMAL PLAN HD
+http://103.131.212.138:8000/play/a012/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",Animal Plan-
+http://103.131.212.138:8000/play/a009/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",BBC WORLD - 
+http://103.131.212.138:8000/play/a02y/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",CNN INTL - 
+http://103.131.212.138:8000/play/a02x/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",COMEDY CEN-
+http://103.131.212.138:8000/play/a02z/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",Colors HD-
+http://103.131.212.138:8000/play/a01i/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",DD SPORTS-
+http://103.131.212.138:8000/play/a02m/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",Discovery HD-
+http://103.131.212.138:8000/play/a00y/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",Discovery S-
+http://103.131.212.138:8000/play/a007/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",Discovery Tamil
+http://103.131.212.138:8000/play/a008/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",Discovery- 
+http://103.131.212.138:8000/play/a004/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",EUROSPORT India
+http://103.131.212.138:8000/play/a02n/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",EuroSports HD
+http://103.131.212.138:8000/play/a01l/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",FOX Life HD
+http://103.131.212.138:8000/play/a00p/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",HISTORY TV18 
+http://103.131.212.138:8000/play/a014/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",Investigation Discovery-
+http://103.131.212.138:8000/play/a02o/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",MAX HD 
+http://103.131.212.138:8000/play/a02b/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",MN+ HD-
+http://103.131.212.138:8000/play/a00u/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",MNX - 
+http://103.131.212.138:8000/play/a030/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",MOVIES NO-
+http://103.131.212.138:8000/play/a034/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",NAT Geo Wild HD
+http://103.131.212.138:8000/play/a02c/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",National G HD
+http://103.131.212.138:8000/play/a00x/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",PIX HD -
+http://103.131.212.138:8000/play/a017/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",Romedy NOW-
+http://103.131.212.138:8000/play/a035/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",Sony SET HD - 
+http://103.131.212.138:8000/play/a01k/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",SIX HD - 
+http://103.131.212.138:8000/play/a028/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",STAR BHARAT Hd
+http://103.131.212.138:8000/play/a011/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",STAR MOVIES
+http://103.131.212.138:8000/play/a00v/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",STAR WORld
+http://103.131.212.138:8000/play/a023/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",STAR WORLD HD 
+http://103.131.212.138:8000/play/a024/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",Sony BBC EarHD-
+http://103.131.212.138:8000/play/a016/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",Sony Ten 1 HD- 
+http://103.131.212.138:8000/play/a027/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",Sony Ten 2 HD-
+http://103.131.212.138:8000/play/a01b/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",Sony Ten 3 HD- 
+http://103.131.212.138:8000/play/a02q/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",Star GOLD HD 
+http://103.131.212.138:8000/play/a013/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",Star Gold SelHD-
+http://103.131.212.138:8000/play/a015/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",Star Plus HD
+http://103.131.212.138:8000/play/a01g/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",Star S Hin 1 HD- 
+http://103.131.212.138:8000/play/a029/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",Star Spo 1 HD-
+http://103.131.212.138:8000/play/a025/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",Star Spo 2 HD- 
+http://103.131.212.138:8000/play/a026/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",Star Sports S 1 HD-
+http://103.131.212.138:8000/play/a019/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",Star Sports S 2 HD-
+http://103.131.212.138:8000/play/a01a/index.m3u8
+
+#EXTINF:-1 group-title="103.157.201.165",StarMovieS HD-
+http://103.131.212.138:8000/play/a00w/index.m3u8
+
 
 
 
