@@ -204,53 +204,6 @@ http://versewsa.pc.cdn.bitgravity.com/versewsa/live//kalaignar_tv.smil/chunklist
 
 
 
-####-----------------YuppTv--------------------------
-
-
-#EXTINF:-1 group-title="YuppTv",Star VIJAY HD
-https://catchup.yuppcdn.net/amazonv2/20/preview/starvijay/master/master.m3u8
-
-#EXTINF:-1 tvg-id="YuppTv"tvg-name=""tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png"group-title="YuppTv",COLORS TAMIL
-https://catchup.yuppcdn.net/amazonv2/20/preview/colorstamil/master/master.m3u8
-
-#EXTINF:-1 tvg-id="YuppTv"tvg-name=""tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png"group-title="YuppTv",SUN TV
-https://catchup.yuppcdn.net/amazonv2/20/preview/suntvhd/master/master.m3u8
-
-#EXTINF:-1 tvg-id="YuppTv"tvg-name=""tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Life.png"group-title="YuppTv",Sun Life
-https://catchup.yuppcdn.net/amazonv2/20/preview/sunlife/master/master.m3u8
-
-#EXTINF:-1 tvg-id="YuppTv"tvg-name=""tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png"group-title="YuppTv",Sun Music
-https://catchup.yuppcdn.net/amazonv2/20/preview/sunmusichd/master/master.m3u8
-
-#EXTINF:-1 group-title="YuppTv",JAYA MAX
-https://catchup.yuppcdn.net/amazonv2/20/preview/jayamax/master/master.m3u8
- 
-#EXTINF:-1 group-title="YuppTv",J MOViE
-https://catchup.yuppcdn.net/amazonv2/20/preview/jayamovies/master/master.m3u8
-
-#EXTINF:-1 group-title="YuppTv",Jaya TV
-https://catchup.yuppcdn.net/amazonv2/20/preview/jayatv/master/master.m3u8
-
-#EXTINF:-1 tvg-id="YuppTv"tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg"group-title="YuppTv",Kalaignar
-http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
-
-#EXTINF:-1 group-title="YuppTv",Murasu
-https://catchup.yuppcdn.net/amazonv2/20/preview/murasu/master/master.m3u8
-
-#EXTINF:-1 group-title="YuppTv",Captain Tv
-https://catchup.yuppcdn.net/amazonv2/20/preview/captaintv/master/master.m3u8
-
-#EXTINF:-1 tvg-id=""tvg-name=""tvg-logo=""group-title="YuppTv",Chithiram Tv
-https://catchup.yuppcdn.net/amazonv2/20/preview/chithiram/master/master.m3u8
-
-#EXTINF:-1 group-title="YuppTv",Polimer TV
-https://catchup.yuppcdn.net/amazonv2/20/preview/polimertv/master/master.m3u8
-
-#EXTINF:-1 tvg-id="YuppTv"tvg-name=""tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png"group-title="YuppTv",KTV HD tamil
-https://yuppcatchup.akamaized.net/preview/ktvhd/master.m3u8
-
-
-
 #########################--208.86.19.21-#################################
 
 #EXTINF:-1 group-title="208.86.19.21",Zee Bollywood
@@ -424,7 +377,6 @@ https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 
 
 
-
 #EXTINF:-1 group-title="103.157.201.165",PRIVE HD-
 http://103.157.210.165:8000/play/a01o/index.m3u8
 
@@ -526,8 +478,7 @@ http://103.157.210.165:8000/play/a014/index.m3u8
 http://103.157.210.165:8000/play/a01m/index.m3u8
 
 #EXTINF:-1 group-title="103.157.201.165",TLC HD- 
-
-#EXTINF:-1 group-title="103.157.201.165",http://103.131.212.138:8000/play/a00s/index.m3u8
+http://103.131.212.138:8000/play/a00s/index.m3u8
 
 #EXTINF:-1 group-title="103.157.201.165",UTV ACTION-
 http://103.131.212.138:8000/play/a00k/index.m3u8
