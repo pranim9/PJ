@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="0-9-zeetamil" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetamil/list/386x386/09zeetamilzeetamil.png" group-title="Zee5",Zee Tamil
-https://zee.avipatilpro.repl.co/?c=0-9-zeetamil
+http://rstream.me/z/0-9-zeetamil/master.m3u8?t=a8b7bed30d1f436a9e4274df6978cae66fbd34835bff75ef7ce030dfd2a10e91a75f3450596b079f896231598689eabfb94c6820a96457cf819340a2c7955e2cbae9b0|User-Agent=Zee5
 #EXTINF:-1 tvg-id="0-9-224" tvg-logo="https://akamaividz.zee5.com/resources/0-9-224/list/386x386/09224zeethirai_2030446447.png" group-title="Zee5",Zee Thirai
-https://zee.avipatilpro.repl.co/?c=0-9-224
+http://rstream.me/z/0-9-224/master.m3u8?t=a8b7bed30d1f436a9e4274df6978cae66fbd34835bff75ef7ce030dfd2a10e91a75f3450596b079f896231598689eabfb94c6820a96457cf819340a2c7955e2cbae9b0|User-Agent=Zee5
 
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" group-title="Zee5",Zee TV HD
 https://zee.avipatilpro.repl.co/?c=0-9-zeetvhd
