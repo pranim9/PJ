@@ -1,28 +1,28 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="0-9-zeetamil" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetamil/list/386x386/09zeetamilzeetamil.png",Zee Tamil
-http://rstream.me/z/0-9-zeetamil/master.m3u8?t=a8b7bed30d1f436a9e4274df6978cae66fbd34835bff75ef7ce030dfd2a10e91a75f3450596b079f896231598689eabfb94c6820a96457cf819340a2c7955e2cbae9b0
+https://snehtv.in1.bitmana.io/z5api/z5api.php?c=0-9-zeetamil
 
 #EXTINF:-1 tvg-id="0-9-224" tvg-logo="https://akamaividz.zee5.com/resources/0-9-224/list/386x386/09224zeethirai_2030446447.png",Zee Thirai
-http://rstream.me/z/0-9-224/master.m3u8?t=a8b7bed30d1f436a9e4274df6978cae66fbd34835bff75ef7ce030dfd2a10e91a75f3450596b079f896231598689eabfb94c6820a96457cf819340a2c7955e2cbae9b0
+https://snehtv.in1.bitmana.io/z5api/z5api.php?c=0-9-224
 
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png",Zee TV HD
-https://zee.avipatilpro.repl.co/?c=0-9-zeetvhd
+https://snehtv.in1.bitmana.io/z5api/z5api.php?c=0-9-zeetvhd
 #EXTINF:-1 tvg-id="0-9-zeetv" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetv/list/386x386/09zeetvzeetv.png",Zee TV
-https://zee.avipatilpro.repl.co/?c=0-9-zeetv
+https://snehtv.in1.bitmana.io/z5api/z5api.php?c=0-9-zeetv
 #EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png",&TV HD
-https://zee.avipatilpro.repl.co/?c=0-9-tvhd_0
+https://snehtv.in1.bitmana.io/z5api/z5api.php?c=0-9-tvhd_0
 #EXTINF:-1 tvg-id="0-9-209" tvg-logo="https://akamaividz.zee5.com/resources/0-9-209/list/386x386/09209xplorhd.png",&xplorHD
-https://zee.avipatilpro.repl.co/?c=0-9-209
+https://snehtv.in1.bitmana.io/z5api/z5api.php?c=0-9-209
 #EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png",Zee Cinema HD
-https://zee.avipatilpro.repl.co/?c=0-9-zeecinemahd
+https://snehtv.in1.bitmana.io/z5api/z5api.php?c=0-9-zeecinemahd
 #EXTINF:-1 tvg-id="0-9-zeecinema" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinema/list/386x386/09zeecinemazeecinema.png",Zee Cinema
-https://zee.avipatilpro.repl.co/?c=0-9-zeecinema
+https://snehtv.in1.bitmana.io/z5api/z5api.php?c=0-9-zeecinema
 #EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvpictureshd/list/386x386/09tvpictureshdpictureshd.png",&Pictures HD
-https://zee.avipatilpro.repl.co/?c=0-9-tvpictureshd
+https://snehtv.in1.bitmana.io/z5api/z5api.php?c=0-9-tvpictureshd
 #EXTINF:-1 tvg-id="0-9-zing" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zing/list/386x386/09zingzing.png",Zing
-https://zee.avipatilpro.repl.co/?c=0-9-zing
+https://snehtv.in1.bitmana.io/z5api/z5api.php?c=0-9-zing
 #EXTINF:-1 tvg-id="0-9-290" tvg-logo="https://akamaividz.zee5.com/resources/0-9-290/list/386x386/1170x658_zee5kid_983708240.png",ZEE5 Kids
-https://zee.avipatilpro.repl.co/?c=0-9-290
+https://snehtv.in1.bitmana.io/z5api/z5api.php?c=0-9-290
 #EXTINF:-1 tvg-id="0-9-zeeyuva" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeyuva/list/386x386/09zeeyuvazeeyuva.png",Zee Yuva
-https://zee.avipatilpro.repl.co/?c=0-9-zeeyuva
+https://snehtv.in1.bitmana.io/z5api/z5api.php?c=0-9-zeeyuva
