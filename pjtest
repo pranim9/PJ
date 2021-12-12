@@ -1,0 +1,8 @@
+#EXTM3U
+
+
+#EXTINF:-1 ,S cricket
+http://103.157.210.165:8000/play/a024/index.m3u8
+
+#EXTINF:-1 Sky Cricket
+http://103.157.210.165:8000/play/a023/index.m3u8
