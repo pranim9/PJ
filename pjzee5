@@ -278,43 +278,43 @@ http://istreamiptv.gq/api1cdn/zee5/z5theather.m3u8?c=out&e=.m3u8
 #EXTINF:-1 tvg-id="etcpnjbiusa" "tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/alpha-etc-punjabi.png",Alpha ETC Punjabi	
 https://zee.avipatilpro.repl.co/?c=etcpnjbiusa
 
-#EXTINF:-1 tvg-id="zlivingusa" tvg-name=Zee Living USA"group-title="Zee5" tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-living-usa.jpg"parent-code=1234" audio-track="IN",Zee Living USA	
+#EXTINF:-1 tvg-id="zlivingusa" tvg-name=Zee Living USA" tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-living-usa.jpg"parent-code=1234" audio-track="IN",Zee Living USA	
 https://zee.avipatilpro.repl.co/?c=zlivingusa
-#EXTINF:-1 tvg-id="mundohd" tvg-name=Zee Mundo HD"group-title="Zee5" tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-mundo-hd.png"parent-code=1234" audio-track="IN",Zee Mundo HD	
+#EXTINF:-1 tvg-id="mundohd" tvg-name=Zee Mundo HD" tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-mundo-hd.png"parent-code=1234" audio-track="IN",Zee Mundo HD	
 https://zee.avipatilpro.repl.co/?c=mundohd
-#EXTINF:-1 tvg-id="world" tvg-name=ZEE WORLD"group-title="Zee5" tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-world.jpg"parent-code=1234" audio-track="IN",ZEE WORLD	
+#EXTINF:-1 tvg-id="world" tvg-name=ZEE WORLD" tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-world.jpg"parent-code=1234" audio-track="IN",ZEE WORLD	
 https://zee.avipatilpro.repl.co/?c=world
-#EXTINF:-1 tvg-id="ztvsdusa" tvg-name=ZeeTV USA"group-title="Zee5" tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zeetv-usa.jpg"parent-code=1234" audio-track="IN",ZeeTV USA	
+#EXTINF:-1 tvg-id="ztvsdusa" tvg-name=ZeeTV USA" tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zeetv-usa.jpg"parent-code=1234" audio-track="IN",ZeeTV USA	
 https://zee.avipatilpro.repl.co/?c=ztvsdusa
-#EXTINF:-1 tvg-id="ztvhdusa" tvg-name=ZeeTV USA HD"group-title="Zee5" tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zeetv-usa-hd.png"parent-code=1234" audio-track="IN",ZeeTV USA HD	
+#EXTINF:-1 tvg-id="ztvhdusa" tvg-name=ZeeTV USA HD" tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zeetv-usa-hd.png"parent-code=1234" audio-track="IN",ZeeTV USA HD	
 https://zee.avipatilpro.repl.co/?c=ztvhdusa
 
-#EXTINF:-1 tvg-id="andtvhdusa" tvg-name=&Tv HD USA"group-title="Zee5" tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/tv-hd-usa.png"parent-code=1234" audio-track="IN",&Tv HD USA	
+#EXTINF:-1 tvg-id="andtvhdusa" tvg-name=&Tv HD USA" tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/tv-hd-usa.png"parent-code=1234" audio-track="IN",&Tv HD USA	
 https://zee.avipatilpro.repl.co/?c=andtvhdusa
 
-#EXTINF:-1 tvg-id="zingusa" tvg-name=ZING USA"group-title="Zee5" tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zing-usa-vns0vadqz53h.png"parent-code=1234" audio-track="IN",ZING USA	
+#EXTINF:-1 tvg-id="zingusa" tvg-name=ZING USA" tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zing-usa-vns0vadqz53h.png"parent-code=1234" audio-track="IN",ZING USA	
 https://zee.avipatilpro.repl.co/?c=zingusa
 
-#EXTINF:-1 tvg-id="marathiusa" tvg-name=ZEE MARARHI USA"group-title="Zee5" tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-mararhi-usa.png"parent-code=1234" audio-track="IN",ZEE MARARHI USA	
+#EXTINF:-1 tvg-id="marathiusa" tvg-name=ZEE MARARHI USA" tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-mararhi-usa.png"parent-code=1234" audio-track="IN",ZEE MARARHI USA	
 https://zee.avipatilpro.repl.co/?c=marathiusa
 
-#EXTINF:-1 tvg-id="cinemauk" tvg-name=ZEE CINEMA UK"group-title="Zee5" tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-cinema-uk.png"parent-code=1234" audio-track="IN",ZEE CINEMA UK	
+#EXTINF:-1 tvg-id="cinemauk" tvg-name=ZEE CINEMA UK" tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-cinema-uk.png"parent-code=1234" audio-track="IN",ZEE CINEMA UK	
 https://zee.avipatilpro.repl.co/?c=cinemauk
-#EXTINF:-1 tvg-id="cinemausa" tvg-name=ZEE CINEMA USA"group-title="Zee5" tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-cinema-usa.png"parent-code=1234" audio-track="IN",ZEE CINEMA USA	
+#EXTINF:-1 tvg-id="cinemausa" tvg-name=ZEE CINEMA USA" tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-cinema-usa.png"parent-code=1234" audio-track="IN",ZEE CINEMA USA	
 https://zee.avipatilpro.repl.co/?c=cinemausa
 
-#EXTINF:-1 tvg-id="0-9-zing" tvg-name=ZING USA"group-title="Zee5" tvg-logo="	"parent-code=1234" audio-track="IN",ZING USA	
+#EXTINF:-1 tvg-id="0-9-zing" tvg-name=ZING USA" tvg-logo="	"parent-code=1234" audio-track="IN",ZING USA	
 https://tamilcuisine.online/api/z5/zee5@tv.php?c=0-9-zing
 
-#EXTINF:-1 tvg-id="canadahd" tvg-name=ZEE TV CANADA"group-title="Zee5" tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-tv-canada.png"parent-code=1234" audio-track="IN",ZEE TV CANADA	
+#EXTINF:-1 tvg-id="canadahd" tvg-name=ZEE TV CANADA" tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-tv-canada.png"parent-code=1234" audio-track="IN",ZEE TV CANADA	
 https://zee.avipatilpro.repl.co/?c=canadahd
-#EXTINF:-1 tvg-id="apacsea" tvg-name=ZEE TV APAC"group-title="Zee5" tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-tv-apac.png"parent-code=1234" audio-track="IN",ZEE TV APAC	
+#EXTINF:-1 tvg-id="apacsea" tvg-name=ZEE TV APAC" tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-tv-apac.png"parent-code=1234" audio-track="IN",ZEE TV APAC	
 https://zee.avipatilpro.repl.co/?c=apacsea
-#EXTINF:-1 tvg-id="andtvsd" tvg-name=AND TV SD"group-title="Zee5" tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/and-tv-sd.png"parent-code=1234" audio-track="IN",AND TV SD	
+#EXTINF:-1 tvg-id="andtvsd" tvg-name=AND TV SD" tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/and-tv-sd.png"parent-code=1234" audio-track="IN",AND TV SD	
 https://zee.avipatilpro.repl.co/?c=andtvsd
-#EXTINF:-1 tvg-id="smileusa" tvg-name=ZEE SMILE USA"group-title="Zee5" tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-smile-usa.png"parent-code=1234" audio-track="IN",ZEE SMILE USA	
+#EXTINF:-1 tvg-id="smileusa" tvg-name=ZEE SMILE USA" tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-smile-usa.png"parent-code=1234" audio-track="IN",ZEE SMILE USA	
 https://zee.avipatilpro.repl.co/?c=smileusa
-#EXTINF:-1 tvg-id="zzesthd" tvg-name=ZEE SMILE USA"group-title="Zee5" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/75/Zee_Zest.jpg"parent-code=1234" audio-track="IN",ZEE ZEST HD	
+#EXTINF:-1 tvg-id="zzesthd" tvg-name=ZEE SMILE USA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/75/Zee_Zest.jpg"parent-code=1234" audio-track="IN",ZEE ZEST HD	
 https://zee.avipatilpro.repl.co/?c=zzesthd
 #EXTINF:-1 tvg-id="0-9-339" tvg-logo="https://toppng.com/uploads/preview/bbc-news-logo-png-bbc-world-channel-logo-11563049882jqyf96g6u7.png",BBC World News
 https://zee.avipatilpro.repl.co/?c=0-9-339
@@ -327,16 +327,16 @@ https://zee.avipatilpro.repl.co/?c=0-9-346
 #EXTINF:-1 tvg-id="0-9-348" tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-india%2Fcontent%2Fzeezest.jpg",Zee Zest HD
 https://zee.avipatilpro.repl.co/?c=0-9-348
 
-#EXTINF:-1 tvg-id="andflixhd" tvg-name=AND TV SD"group-title="Zee5" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg"parent-code=1234" audio-track="IN",AND FLIX HD	
+#EXTINF:-1 tvg-id="andflixhd" tvg-name=AND TV SD" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg"parent-code=1234" audio-track="IN",AND FLIX HD	
 https://zee.avipatilpro.repl.co/?c=andflixhd
 
-#EXTINF:-1 tvg-id="andprivehd" tvg-name=AND TV SD"group-title="Zee5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg"parent-code=1234" audio-track="IN",AND PRIVE HD
+#EXTINF:-1 tvg-id="andprivehd" tvg-name=AND TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg"parent-code=1234" audio-track="IN",AND PRIVE HD
 https://zee.avipatilpro.repl.co/?c=andprivehd
 #EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/386x386/09channel_2105335046flix.png",&flix HD
 https://zee.avipatilpro.repl.co/?c=0-9-channel_2105335046
 #EXTINF:-1 tvg-id="0-9-privéhd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-privéhd/list/386x386/09privhdprivehd.png",&Prive HD
 https://zee.avipatilpro.repl.co/?c=0-9-privéhd
-#EXTINF:-1 tvg-id="zee talkies" tvg-name=ZEE CINEMA USA"group-title="Zee5" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Zee-Talkies-HD-Logo.png"parent-code=1234" audio-track="IN",ZEE TALK HD	
+#EXTINF:-1 tvg-id="zee talkies" tvg-name=ZEE CINEMA USA" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Zee-Talkies-HD-Logo.png"parent-code=1234" audio-track="IN",ZEE TALK HD	
 https://zee.avipatilpro.repl.co/?c=ztalkieshd
 
 #EXTINF:-1 tvg-id="0-9-353" tvg-logo="https://www.indiantvinfo.com/media/2020/09/Zee-Vajwa-Channel-Logo.png",Zee Vajwa
