@@ -1,5 +1,4 @@
-EXTM3U
-
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png",History TV18 HD Tamil
 https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=History_18_Tamil&q=1200&q=800&e.m3u8
