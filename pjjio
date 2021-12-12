@@ -1,0 +1,89 @@
+#EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
+
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png" group-title="Jio Tamil",History TV18 HD Tamil
+https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=History_18_Tamil&q=1200&q=800&e.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Tamil.png" group-title="Jio Tamil",Sony BBC Earth HD Tamil
+https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=Sony_BBC_Earth_HD_Tamil&q=1200&q=800&e.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="Jio Tamil",Colors Tamil HD
+https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=Colors_Tamil_HD&q=1200&q=800&e.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Jio Tamil",Zee Tamil
+https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=Zee_Tamil&q=1200&q=800&e.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_TV.png" group-title="Jio Tamil",Kalaignar TV
+https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=Kalaignar_TV&q=1200&q=800&e.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="Jio Tamil",Raj TV
+https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=Raj_TV&q=1200&q=800&e.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png" group-title="Jio Tamil",Puthiya Thalimurai
+https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=Puthiya_Thalimurai&q=1200&q=800&e.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png" group-title="Jio Tamil",Vasanth TV
+https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=Vasanth_TV&q=1200&q=800&e.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="Jio Tamil",Jaya Max
+https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=Jaya_Max&q=1200&q=800&e.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title="Jio Tamil",Polimer TV
+https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=Polimer_TV&q=1200&q=800&e.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Thanthi_TV.png" group-title="Jio Tamil",Thanthi TV
+https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=Thanthi_TV&q=1200&q=800&e.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Makkal_TV.png" group-title="Jio Tamil",Makkal TV
+https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=Makkal_TV&q=1200&q=800&e.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Plus.png" group-title="Jio Tamil",Jaya Plus
+https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=Jaya_Plus&q=1200&q=800&e.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" group-title="Jio Tamil",J Movies
+https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=J_Movies&q=1200&q=800&e.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News7_Tamil.png" group-title="Jio Tamil",News7 Tamil
+https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=News7_Tamil&q=1200&q=800&e.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png" group-title="Jio Tamil",Polimer News
+https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=Polimer_News&q=1200&q=800&e.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="Jio Tamil",News 18 Tamilnadu
+https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=News_18_Tamilnadu&q=1200&q=800&e.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_Seithigal_.png" group-title="Jio Tamil",Kalaignar Seithigal 
+https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=Kalaignar_Seithigal_&q=1200&q=800&e.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png" group-title="Jio Tamil"",Raj Digital Plus
+https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=Raj_Digital_Plus&q=1200&q=800&e.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png" group-title="Jio Tamil",Raj Musix
+https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=Raj_Musix&q=1200&q=800&e.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sathiyam.png" group-title="Jio Tamil",Sathiyam TV
+https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=Sathiyam&q=1200&q=800&e.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Captain_News.png" group-title="Jio Tamil",Captain News
+https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=Captain_News&q=1200&q=800&e.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Malai_Murasu.png" group-title="Jio Tamil",Malai Murasu
+https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=Malai_Murasu&q=1200&q=800&e.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Captain_tv.png" group-title="Jio Tamil",Captain tv
+https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=Captain_tv&q=1200&q=800&e.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sahana_Music.png" group-title="Jio Tamil",Sahana Music
+https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=Sahana_Music&q=1200&q=800&e.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nambikkai.png" group-title="Jio Tamil",Nambikkai
+https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=Nambikkai&q=1200&q=800&e.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_Tamil.png" group-title="Jio Tamil",Travel XP Tamil
+https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=Travel_XP_Tamil&q=1200&q=800&e.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vendhar_TV.png" group-title="Jio Tamil",Vendhar TV
+https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=Vendhar_TV&q=1200&q=800&e.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD5_Podhigai.png" group-title="Jio Tamil",DD5 Podhigai
+https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=DD5_Podhigai&q=1200&q=800&e.m3u8
