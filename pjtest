@@ -8,6 +8,22 @@ http://103.157.210.165:8000/play/a024/index.m3u8
 http://103.157.210.165:8000/play/a023/index.m3u8
 
 
+#EXTINF:-1 group-title="Testing",Zee thirai
+http://rstream.me/z/0-9-224/master.m3u8?t=a8b7bed30d1f436a9e4274df6978cae66fbd34835bff75ef7ce030dfd2a10e91a75f3450596b079f896231598689eabfb94c6820a96457cf819340a2c7955e2cbae9b0|User-Agent=Zee5
+
+#EXTINF:-1 group-title="Testing",Zee tamil
+http://rstream.me/z/0-9-zeetamil/master.m3u8?t=a8b7bed30d1f436a9e4274df6978cae66fbd34835bff75ef7ce030dfd2a10e91a75f3450596b079f896231598689eabfb94c6820a96457cf819340a2c7955e2cbae9b0|User-Agent=Zee5
+#EXTINF:-1 group-title="Testing",Animal
+http://rstream.me/j/Animal_Planet_HD_Tamil/master.m3u8?t=a8b7bed30d1f436a9e4274df6978cae66fbd34835bff75ef7ce030dfd2a10e91a75f3450596b079f896231598689eabfb94c6820a96457cf819340a2c7955e2cbae9b0|User-Agent=KAIOS
+#EXTINF:-1 group-title="Testing",Sonypix
+http://rstream.me/j/Sony_Pix_HD/master.m3u8?t=a8b7bed30d1f436a9e4274df6978cae66fbd34835bff75ef7ce030dfd2a10e91a75f3450596b079f896231598689eabfb94c6820a96457cf819340a2c7955e2cbae9b0|User-Agent=KAIOS
+#EXTINF:-1 group-title="Testing",History
+http://rstream.me/j/History_18_Tamil/master.m3u8?t=a8b7bed30d1f436a9e4274df6978cae66fbd34835bff75ef7ce030dfd2a10e91a75f3450596b079f896231598689eabfb94c6820a96457cf819340a2c7955e2cbae9b0|User-Agent=KAIOS
+
+
+
+
+
 
 #########################--208.86.19.21-#################################
 
