@@ -26,7 +26,6 @@ http://139.59.55.243/sunnxt/live.php?c=26567&e=.m3u8
 
 
 
-
 ####----------------------JIO Tamil------------------
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png" group-title="Jio Tamil",History TV18 HD Tamil
@@ -121,8 +120,6 @@ http://rstream.me/j/DD5_Podhigai/master.m3u8?t=a8b7bed30d1f436a9e4274df6978cae66
 
 
 ##########-----Zee5-----------------
-
-
 
 #EXTINF:-1 tvg-id="0-9-zeetamil" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetamil/list/386x386/09zeetamilzeetamil.png" group-title="Zee5",Zee Tamil
 http://rstream.me/z/0-9-224/master.m3u8?t=a8b7bed30d1f436a9e4274df6978cae66fbd34835bff75ef7ce030dfd2a10e91a75f3450596b079f896231598689eabfb94c6820a96457cf819340a2c7955e2cbae9b0|User-Agent=Zee5
@@ -855,3 +852,15 @@ http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8
 #EXTINF:-1 tvg-id="YuppThirai.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/6E8SbCf.png" group-title="Local",Yupp Thirai
 http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
+
+
+
+
+###########-------- Testing----------------------------
+
+
+#EXTINF:-1 group-title="Testing",S cricket
+http://103.157.210.165:8000/play/a024/index.m3u8
+
+#EXTINF:-1 group-title="Testing",Sky Cricket
+http://103.157.210.165:8000/play/a023/index.m3u8
