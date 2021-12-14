@@ -239,7 +239,6 @@ http://208.86.19.21:80/715.stream/index.m3u8
 #EXTINF:-1 group-title="208.86.19.21",Jalsha Movies HD
 http://208.86.19.21:80/716.stream/index.m3u8
 
-
 #EXTINF:-1 group-title="208.86.19.21",ASTRO CRICKET
 http://208.86.19.21:80/720.stream/index.m3u8
 
@@ -304,6 +303,41 @@ http://208.86.19.21:80/906.stream/index.m3u8
 http://208.86.19.21:80/908.stream/index.m3u8
 
 
+
+#########################--185.246.209.207-#################################
+
+#EXTINF:-1 group-title="185.246.209.207",Sun TV
+http://185.246.209.207:80/TAMIL_SUN_TV/index.m3u8?token=test
+
+#EXTINF:-1 group-title="185.246.209.207",Star Vijay TV
+http://185.246.209.207/TAMIL_STAR_VIJAY_HD/mono.m3u8?token=test
+
+#EXTINF:-1 group-title="185.246.209.207",KTV HD 
+http://185.246.209.207:80/TAMIL_KTV_HD/index.m3u8?token=test
+
+#EXTINF:-1 group-title="185.246.209.207",Zee Tamil 
+http://185.246.209.207:80/TAMIL_ZEE_TAMIL/index.m3u8?token=test
+
+#EXTINF:-1 group-title="185.246.209.207",Sun music
+http://185.246.209.207:80/TAMIL_SUN_MUSIC/index.m3u8?token=test
+
+#EXTINF:-1 group-title="185.246.209.207",Jaya TV
+http://185.246.209.207:80/TAMIL_JAYA_TV/index.m3u8?token=test
+
+#EXTINF:-1 group-title="185.246.209.207",Jaya movies
+http://185.246.209.207:80/TAMIL_JAYA_MOVIES/index.m3u8?token=test
+
+#EXTINF:-1 group-title="185.246.209.207",Jaya max
+http://185.246.209.207:80/TAMIL_JAYA_MAX/index.m3u8?token=test
+
+#EXTINF:-1 group-title="185.246.209.207",GEMINI tv
+http://185.246.209.207:80/TELUGU_GEMINI_TV/index.m3u8?token=test
+
+#EXTINF:-1 group-title="185.246.209.207",Gemini music
+http://185.246.209.207:80/TELUGU_GEMINI_MUSIC/index.m3u8?token=test
+
+#EXTINF:-1 group-title="185.246.209.207",Gemini movies
+http://185.246.209.207:80/TELUGU_GEMINI_MOVIES/index.m3u8?token=test
 
 
 
