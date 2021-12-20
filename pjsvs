@@ -722,4 +722,5 @@ http://rstream.me/t/293/master.m3u8?t=a8b7bed30d1f436a9e4274df6978cae66fbd34835b
 #EXTINF:-1 group-title="Testing",Maals2
 http://rstream.me/t/294/master.m3u8?t=a8b7bed30d1f436a9e4274df6978cae66fbd34835bff75ef7ce030dfd2a10e91a75f3450596b079f896231598689eabfb94c6820a96457cf819340a2c7955e2cbae9b0
 
-
+#EXTINF:-1 group-title="Testing",Collss
+http://rstream.me/j/Colors_HD/master.m3u8?t=0dca12217a2a695eaa8bc26e4638ead817d9f7b14d08ec539695bd86361747e4532501ce119d99691c70b90b564aaa3f45cb132e450d2c849730bc81e2833cd40de76a45c55097|User-Agent=KAIOS
