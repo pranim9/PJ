@@ -711,3 +711,15 @@ http://rstream.me/sn/14020/master.m3u8?t=e4452fef005e7b22cc50dd2c1c5988d262d672f
 http://rstream.me/sn/14020/master.m3u8?t=a8b7bed30d1f436a9e4274df6978cae66fbd34835bff75ef7ce030dfd2a10e91a75f3450596b079f896231598689eabfb94c6820a96457cf819340a2c7955e2cbae9b0
 
 
+#EXTINF:-1 group-title="Testing",Maals
+http://rstream.me/t/292/master.m3u8?t=a8b7bed30d1f436a9e4274df6978cae66fbd34835bff75ef7ce030dfd2a10e91a75f3450596b079f896231598689eabfb94c6820a96457cf819340a2c7955e2cbae9b0
+
+
+#EXTINF:-1 group-title="Testing",Maals1
+http://rstream.me/t/293/master.m3u8?t=a8b7bed30d1f436a9e4274df6978cae66fbd34835bff75ef7ce030dfd2a10e91a75f3450596b079f896231598689eabfb94c6820a96457cf819340a2c7955e2cbae9b0
+
+
+#EXTINF:-1 group-title="Testing",Maals2
+http://rstream.me/t/294/master.m3u8?t=a8b7bed30d1f436a9e4274df6978cae66fbd34835bff75ef7ce030dfd2a10e91a75f3450596b079f896231598689eabfb94c6820a96457cf819340a2c7955e2cbae9b0
+
+
