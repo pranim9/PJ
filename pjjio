@@ -6,6 +6,18 @@ https://tvstream.space/jtv/bxb.php?c=History_18_Tamil&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Tamil.png",Sony BBC Earth HD Tamil
 https://tvstream.space/jtv/bxb.php?c=Sony_BBC_Earth_HD_Tamil&q=1200&e=junk.m3u8
 
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png",D Tamil
+https://tvstream.space/jtv/bxb.php?c=Discovery_Channel_Tamil&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png",Animal Planet HD Tamil
+https://tvstream.space/jtv/bxb.php?c=Animal_Planet_HD_Tamil&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_Tamil.png",Travel XP Tamil
+https://tvstream.space/jtv/bxb.php?c=Travel_XP_Tamil&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png",Colors Tamil HD
+https://tvstream.space/jtv/bxb.php?c=Colors_Tamil_HD&q=1200&e=junk.m3u8
+
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",Zee Tamil
 https://tvstream.space/jtv/bxb.php?c=Zee_Tamil&q=1200&e=junk.m3u8
 
@@ -57,9 +69,6 @@ https://tvstream.space/jtv/bxb.php?c=Raj_Digital_Plus&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png",Raj Musix
 https://tvstream.space/jtv/bxb.php?c=Raj_Musix&q=1200&e=junk.m3u8
 
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png",Colors Tamil HD
-https://tvstream.space/jtv/bxb.php?c=Colors_Tamil_HD&q=1200&e=junk.m3u8
-
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sathiyam.png",Sathiyam TV
 https://tvstream.space/jtv/bxb.php?c=Sathiyam&q=1200&e=junk.m3u8
 
@@ -78,20 +87,11 @@ https://tvstream.space/jtv/bxb.php?c=Sahana_Music&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nambikkai.png",Nambikkai
 https://tvstream.space/jtv/bxb.php?c=Nambikkai&q=1200&e=junk.m3u8
 
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_Tamil.png",Travel XP Tamil
-https://tvstream.space/jtv/bxb.php?c=Travel_XP_Tamil&q=1200&e=junk.m3u8
-
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vendhar_TV.png",Vendhar TV
 https://tvstream.space/jtv/bxb.php?c=Vendhar_TV&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD5_Podhigai.png",DD5 Podhigai
 https://tvstream.space/jtv/bxb.php?c=DD5_Podhigai&q=1200&e=junk.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png",D Tamil
-https://tvstream.space/jtv/bxb.php?c=Discovery_Channel_Tamil&q=1200&e=junk.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png",Animal Planet HD Tamil
-https://tvstream.space/jtv/bxb.php?c=Animal_Planet_HD_Tamil&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Tamil.png",CN HD+ Tamil
 https://tvstream.space/jtv/bxb.php?c=CN_HD_Tamil&q=1200&e=junk.m3u8
@@ -113,7 +113,6 @@ https://tvstream.space/jtv/bxb.php?c=Sony_Yay_Tamil&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png",Discovery Kids Tamil
 https://tvstream.space/jtv/bxb.php?c=Discovery_Kids_Tamil&q=1200&e=junk.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png",Colors Cineplex HD
 https://tvstream.space/jtv/bxb.php?c=Colors_Cineplex_HD&q=1200&e=junk.m3u8
