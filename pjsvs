@@ -2,7 +2,6 @@
 
 
 
-
 ###-----------------News--------------------------
 
 #EXTINF:-1 tvg-logo="https://india.mom-rsf.org/typo3temp/_processed_/d/c/csm_16526-1592_import_d84315ad22.png" group-title="News",Polimer News
@@ -367,69 +366,6 @@ http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w1901270032.m3u8
 http://live.wmncdn.net/nambikkaitv/live.stream/index.m3u8
 #EXTINF:-1 group-title="Devotional",Adhisayam
 https://livetv.adhisayamtv.org/adhisayamtv/83a062a18a761b948a73ad2ba7747a8f.sdp/adhisayamtv/adhisayamtv1/chunks.m3u8
-
-
-
-
-
-#####------------------Local---------------------
-
-#EXTINF:-1 tvg-id="3TamilTV.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/WfAU7pB.png" group-title="Local",3 Tamil TV
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="",Moon Tamil
-http://198.144.149.82:8080/MONTAMIL_CINEMA/tracks-v1a1/mono.m3u8?token=GTR
-#EXTINF:-1 tvg-id="7SMusic.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/P5EXpPy.jpg" group-title="Local",7S Music
-http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
-#EXTINF:-1 tvg-id="AathavanTV.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/IgwQ7o5.png" group-title="Local",Aathavan TV
-http://45.77.66.224:1935/athavantv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="AkaramKidz.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/hAgaVPa.jpg" group-title="Local",Akaram Kidz
-http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
-#EXTINF:-1 tvg-id="CaptainTV.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/UXg6sac.png" group-title="Local",Captain TV
-http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
-#EXTINF:-1 tvg-id="EETTV.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/f7J37yv.png" group-title="Local",EET TV
-https://live.streamjo.com/eetlive/eettv.m3u8
-#EXTINF:-1 tvg-id="Imayam.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/CzdM0pg.png" group-title="Local",Imayam
-https://idvd.multitvsolution.com/idvo/imayamtv.m3u8
-#EXTINF:-1 tvg-id="IsaiAruvi.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/radWIeb.png" group-title="Local",Isai Aruvi
-http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
-#EXTINF:-1 tvg-id="Kalaignar.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg" group-title="Local",Kalaignar
-http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
-#EXTINF:-1 tvg-id="KalaignarMurasu.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/ZDXVWVQ.png" group-title="Local",Kalaignar Murasu
-http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8
-#EXTINF:-1 tvg-id="KalaignarSirippoli.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/bqXRXaZ.png" group-title="Local",Kalaignar Sirippoli
-http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
-#EXTINF:-1 tvg-id="MakkalTV.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/Sv4bLGX.png" group-title="Local",Makkal TV
-http://14.199.164.20:4001/play/a0l1/index.m3u8
-#EXTINF:-1 tvg-id="MarutamTV.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/cFNw4Af.png" group-title="Local",Marutam TV
-http://mntv.livebox.co.in/mntvhls/mntv.m3u8
-#EXTINF:-1 tvg-id="MKSix.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/FAytBoW.png" group-title="Local",MK Six
-http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
-#EXTINF:-1 tvg-id="MKTunes.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/m8DPQd6.png" group-title="Local",MK Tunes
-http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
-#EXTINF:-1 tvg-id="MKTV.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/UxxbaR3.png" group-title="Local",MK TV
-http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
-#EXTINF:-1 tvg-id="Peppers.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/xgEQiso.png" group-title="Local",Peppers
-http://103.199.160.85/Content/peppers/Live/Channel(Peppers)/index.m3u8
-#EXTINF:-1 tvg-id="PolimerTV.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/FeLT0mK.jpg" group-title="Local",Polimer Tv
-#EXTVLCOPT:http-user-agent=AsianetMobileTVPlus
-http://cdn.asianetmobiletvplus.com/channels/polimertv_rpvpvdefkpxbafsouzockpitjldtogrr/chunks.m3u8
-#EXTINF:-1 tvg-id="PuthuyugamTV.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/1q1LQQ9.png" group-title="Local",Puthuyugam TV
-http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
-#EXTINF:-1 tvg-id="SanaPlus.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/cA7PpJG.jpg" group-title="Local",Sana Plus
-http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
-#EXTINF:-1 tvg-id="SanaTV.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/D03gyp2.png" group-title="Local",Sana TV
-http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
-#EXTINF:-1 tvg-id="SardariTV.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/6Q844bs.jpg" group-title="Local",Sardari TV
-http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-#EXTINF:-1 tvg-id="SanthoraShortFlim.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/kKFfLMd.jpg" group-title="Local",Santhora Short Flim
-http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
-#EXTINF:-1 tvg-id="TamilVisionInternational.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/TVI_HD_logo.png" group-title="Local",Tamil Vision
-http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-#EXTINF:-1 tvg-id="Tunes6.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/ClpXKNR.png" group-title="Local",Tunes 6
-https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8
-#EXTINF:-1 tvg-id="YuppThirai.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/6E8SbCf.png" group-title="Local",Yupp Thirai
-http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
-
 
 
 
