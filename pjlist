@@ -1,30 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png" tvg-country="IN" tvg-url="" group-title="SunNxt",Sun TV HD
-http://139.59.55.243/sunnxt/live.php?c=14020&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV.png" tvg-country="IN" tvg-url="" group-title="SunNxt",Sun TV SD
-http://139.59.55.243/sunnxt/live.php?c=9016&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png" tvg-country="IN" tvg-url="" group-title="SunNxt",KTV HD
-http://139.59.55.243/sunnxt/live.php?c=26566&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/K_TV.png" tvg-country="IN" tvg-url="" group-title="SunNxt",KTV SD
-http://139.59.55.243/sunnxt/live.php?c=32138&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" tvg-country="IN" tvg-url="" group-title="SunNxt",Sun Music HD
-http://139.59.55.243/sunnxt/live.php?c=9013&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music.png" tvg-country="IN" tvg-url="" group-title="SunNxt",Sun Music SD
-http://139.59.55.243/sunnxt/live.php?c=9025&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Life.png" tvg-country="IN" tvg-url="" group-title="SunNxt",Sun Life
-http://139.59.55.243/sunnxt/live.php?c=26569&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_News.png" tvg-country="IN" tvg-url="" group-title="SunNxt",Sun News
-http://139.59.55.243/sunnxt/live.php?c=38926&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Adithya_TV.png" tvg-country="IN" tvg-url="" group-title="SunNxt",Adithya TV
-http://139.59.55.243/sunnxt/live.php?c=9023&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Chutti_TV.png" tvg-country="IN" tvg-url="" group-title="SunNxt",Chutti Tv
-http://139.59.55.243/sunnxt/live.php?c=26567&e=.m3u8
-
-
-
-
 
 ###-----------------News--------------------------
 
@@ -47,6 +23,280 @@ http://versewsa.pc.cdn.bitgravity.com/versewsa/live//kalaignar_tv.smil/chunklist
 
 
 
+
+####-----------------YuppTv--------------------------
+
+#EXTINF:-1 group-title="YuppTv",Star VIJAY HD
+https://catchup.yuppcdn.net/amazonv2/20/preview/starvijay/master/master.m3u8
+
+#EXTINF:-1 tvg-id="YuppTv"tvg-name=""tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png"group-title="YuppTv",COLORS TAMIL
+https://catchup.yuppcdn.net/amazonv2/20/preview/colorstamil/master/master.m3u8
+
+#EXTINF:-1 tvg-id="YuppTv"tvg-name=""tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png"group-title="YuppTv",SUN TV
+https://catchup.yuppcdn.net/amazonv2/20/preview/suntvhd/master/master.m3u8
+
+#EXTINF:-1 tvg-id="YuppTv"tvg-name=""tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Life.png"group-title="YuppTv",Sun Life
+https://catchup.yuppcdn.net/amazonv2/20/preview/sunlife/master/master.m3u8
+
+#EXTINF:-1 tvg-id="YuppTv"tvg-name=""tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png"group-title="YuppTv",Sun Music
+https://catchup.yuppcdn.net/amazonv2/20/preview/sunmusichd/master/master.m3u8
+
+#EXTINF:-1 group-title="YuppTv",JAYA MAX
+https://catchup.yuppcdn.net/amazonv2/20/preview/jayamax/master/master.m3u8
+ 
+#EXTINF:-1 group-title="YuppTv",J MOViE
+https://catchup.yuppcdn.net/amazonv2/20/preview/jayamovies/master/master.m3u8
+
+#EXTINF:-1 group-title="YuppTv",Jaya TV
+https://catchup.yuppcdn.net/amazonv2/20/preview/jayatv/master/master.m3u8
+
+#EXTINF:-1 tvg-id="YuppTv"tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg"group-title="YuppTv",Kalaignar
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+
+#EXTINF:-1 group-title="YuppTv",Murasu
+https://catchup.yuppcdn.net/amazonv2/20/preview/murasu/master/master.m3u8
+
+#EXTINF:-1 group-title="YuppTv",Captain Tv
+https://catchup.yuppcdn.net/amazonv2/20/preview/captaintv/master/master.m3u8
+
+#EXTINF:-1 tvg-id=""tvg-name=""tvg-logo=""group-title="YuppTv",Chithiram Tv
+https://catchup.yuppcdn.net/amazonv2/20/preview/chithiram/master/master.m3u8
+
+#EXTINF:-1 group-title="YuppTv",Polimer TV
+https://catchup.yuppcdn.net/amazonv2/20/preview/polimertv/master/master.m3u8
+
+#EXTINF:-1 tvg-id="YuppTv"tvg-name=""tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png"group-title="YuppTv",KTV HD tamil
+https://yuppcatchup.akamaized.net/preview/ktvhd/master.m3u8
+
+
+
+#########################--208.86.19.21-#################################
+
+#EXTINF:-1 group-title="208.86.19.21",Zee Bollywood
+http://208.86.19.21:80/701.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Sony SAB HD
+http://208.86.19.21:80/702.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",&Tv
+http://208.86.19.21:80/703.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",&Pictures
+http://208.86.19.21:80/705.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Sony max hd 
+http://208.86.19.21:80/706.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Zee Bangla Cinema
+http://208.86.19.21:80/708.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Star Gold Select HD
+http://208.86.19.21:80/709.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Star Sports 1 HD
+http://208.86.19.21:80/710.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Ten Sports
+http://208.86.19.21:80/711.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Sony ten 2
+http://208.86.19.21:80/712.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Sony Ten 3
+http://208.86.19.21:80/713.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Star Sports 2
+http://208.86.19.21:80/715.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Jalsha Movies HD
+http://208.86.19.21:80/716.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",ASTRO CRICKET
+http://208.86.19.21:80/720.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Star bharat 
+http://208.86.19.21:80/721.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",UTV 
+http://208.86.19.21:80/723.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Star Sports 1 HD Hindi
+http://208.86.19.21:80/724.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Sony ten 1
+http://208.86.19.21:80/726.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Zee Action
+http://208.86.19.21:80/728.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Willow HD
+http://208.86.19.21:80/731.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Star Sports 3
+http://208.86.19.21:80/732.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",B4U music
+http://208.86.19.21:80/733.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Colors Cineplex HD
+http://208.86.19.21:80/735.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Star Sports Select 1 HD
+http://208.86.19.21:80/736.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Star Sports Select 2 HD
+http://208.86.19.21:80/737.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Sony Six HD
+http://208.86.19.21:80/740.stream/index.m3u8 
+
+#EXTINF:-1 group-title="208.86.19.21",Ekattor TV
+http://208.86.19.21:80/604.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Colors HD
+http://208.86.19.21:80/605.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Zee tv hd
+http://208.86.19.21:80/606.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Star Plus HD
+http://208.86.19.21:80/607.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",PTV Sports
+http://208.86.19.21:80/610.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Hum tv
+http://208.86.19.21:80/611.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Zee Bangla
+http://208.86.19.21:80/906.stream/index.m3u8
+
+#EXTINF:-1 group-title="208.86.19.21",Star Jalsha
+http://208.86.19.21:80/908.stream/index.m3u8
+
+
+
+#########################--185.246.209.207-#################################
+
+#EXTINF:-1 group-title="185.246.209.207",Sun TV
+http://185.246.209.207:80/TAMIL_SUN_TV/index.m3u8?token=test
+
+#EXTINF:-1 group-title="185.246.209.207",Star Vijay TV
+http://185.246.209.207/TAMIL_STAR_VIJAY_HD/mono.m3u8?token=test
+
+#EXTINF:-1 group-title="185.246.209.207",KTV HD 
+http://185.246.209.207:80/TAMIL_KTV_HD/index.m3u8?token=test
+
+#EXTINF:-1 group-title="185.246.209.207",Zee Tamil 
+http://185.246.209.207:80/TAMIL_ZEE_TAMIL/index.m3u8?token=test
+
+#EXTINF:-1 group-title="185.246.209.207",Sun music
+http://185.246.209.207:80/TAMIL_SUN_MUSIC/index.m3u8?token=test
+
+#EXTINF:-1 group-title="185.246.209.207",Jaya TV
+http://185.246.209.207:80/TAMIL_JAYA_TV/index.m3u8?token=test
+
+#EXTINF:-1 group-title="185.246.209.207",Jaya movies
+http://185.246.209.207:80/TAMIL_JAYA_MOVIES/index.m3u8?token=test
+
+#EXTINF:-1 group-title="185.246.209.207",Jaya max
+http://185.246.209.207:80/TAMIL_JAYA_MAX/index.m3u8?token=test
+
+#EXTINF:-1 group-title="185.246.209.207",GEMINI tv
+http://185.246.209.207:80/TELUGU_GEMINI_TV/index.m3u8?token=test
+
+#EXTINF:-1 group-title="185.246.209.207",Gemini music
+http://185.246.209.207:80/TELUGU_GEMINI_MUSIC/index.m3u8?token=test
+
+#EXTINF:-1 group-title="185.246.209.207",Gemini movies
+http://185.246.209.207:80/TELUGU_GEMINI_MOVIES/index.m3u8?token=test
+
+
+
+
+
+
+#####------------ 183.178.58.115 ------------------
+
+#EXTINF:-1 group-title="183.178.58.115",Colors TV 
+http://183.178.58.115:8010/0.m3u8
+
+#EXTINF:-1 group-title="183.178.58.115",Star bharat 
+http://183.178.58.115:8011/0.m3u8
+
+#EXTINF:-1 group-title="183.178.58.115",Zee tv
+http://183.178.58.115:8012/0.m3u8
+
+#EXTINF:-1 group-title="183.178.58.115",Star plus 
+http://183.178.58.115:8013/0.m3u8
+
+#EXTINF:-1 group-title="183.178.58.115",Sony set
+http://183.178.58.115:8014/0.m3u8
+
+#EXTINF:-1 group-title="183.178.58.115",&Tv
+http://183.178.58.115:8015/0.m3u8
+
+#EXTINF:-1 group-title="183.178.58.115",Star Sports Hindi
+http://183.178.58.115:8016/0.m3u8
+
+#EXTINF:-1 group-title="183.178.58.115",Zee cafe
+http://183.178.58.115:8017/0.m3u8
+
+#EXTINF:-1 group-title="183.178.58.115",Star sports 2
+http://183.178.58.115:8018/0.m3u8
+
+#EXTINF:-1 group-title="183.178.58.115",Star sports 1 
+http://183.178.58.115:8019/0.m3u8
+
+#EXTINF:-1 group-title="183.178.58.115",Star sports select 1
+http://183.178.58.115:8020/0.m3u8
+
+#EXTINF:-1 group-title="183.178.58.115",Star sports select 2
+http://183.178.58.115:8021/0.m3u8
+
+#EXTINF:-1 group-title="183.178.58.115",BBC earth
+http://183.178.58.115:8022/0.m3u8
+
+#EXTINF:-1 group-title="183.178.58.115",M Tv
+http://183.178.58.115:8023/0.m3u8
+
+#EXTINF:-1 group-title="183.178.58.115",Zee Cinema Hd
+http://183.178.58.115:8024/0.m3u8
+
+#EXTINF:-1 group-title="183.178.58.115",Star Gold
+http://183.178.58.115:8025/0.m3u8
+
+#EXTINF:-1 group-title="183.178.58.115",Star Gold Slect
+http://183.178.58.115:8026/0.m3u8
+
+#EXTINF:-1 group-title="183.178.58.115",Sony max 
+http://183.178.58.115:8027/0.m3u8
+
+#EXTINF:-1 group-title="183.178.58.115",HBO hits
+http://183.178.58.115:8028/0.m3u8
+
+#EXTINF:-1 group-title="183.178.58.115",Cinemax
+http://183.178.58.115:8029/0.m3u8
+
+#EXTINF:-1 group-title="183.178.58.115",&pictures 
+http://183.178.58.115:8030/0.m3u8
+
+#EXTINF:-1 group-title="183.178.58.115",HBO signature
+http://183.178.58.115:8031/0.m3u8
+
+#EXTINF:-1 group-title="183.178.58.115",HBO
+http://183.178.58.115:8032/0.m3u8
+
+#EXTINF:-1 group-title="183.178.58.115",Comedy central
+http://183.178.58.115:8033/0.m3u8
+
+#EXTINF:-1 group-title="183.178.58.115",Sony Sab 
+http://183.178.58.115:8034/0.m3u8
+
+
+
+
+
 ####------------------------Devotional------------------------------
 
 #EXTINF:-1 group-title="Devotional" tvg-logo="https://www.angeltv.org/images/logo.png",Angel TV
@@ -55,3 +305,5 @@ https://wowzaprod270-i.akamaihd.net/hls/live/1007388/e7a2aac8/playlist.m3u8
 http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w1901270032.m3u8
 #EXTINF:-1 group-title="Devotional" tvg-logo="https://lh3.googleusercontent.com/2N9fLnYqenIV03igfzV00ZstC6GOKuLJpKynhqMEL_DksG4vTzRrJZvY2gJ9FKVE7Q",Nambikkai TV
 http://live.wmncdn.net/nambikkaitv/live.stream/index.m3u8
+#EXTINF:-1 group-title="Devotional",Adhisayam
+https://livetv.adhisayamtv.org/adhisayamtv/83a062a18a761b948a73ad2ba7747a8f.sdp/adhisayamtv/adhisayamtv1/chunks.m3u8
