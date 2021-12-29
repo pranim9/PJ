@@ -108,6 +108,3 @@ https://utube.psrutube.workers.dev/stream/UCFhbonoFqxg2b9FMRzYAwog/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Sky News
 https://utube.psrutube.workers.dev/stream/UCoMdktPbSTixAyNGwb-UYkQ/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Makkah_logo.png",Makkah TV
-https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=aQWBPYyJ2Sk
