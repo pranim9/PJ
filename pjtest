@@ -1,8 +1,20 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Testing",S cricket
-http://103.157.210.165:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="Testing",Star Sports 1 HD 
+http://183.178.58.115:8019/0.m3u8?token=@LiveTvLinksForFree
 
-#EXTINF:-1 group-title="Testing",Sky Cricket
-http://103.157.210.165:8000/play/a023/index.m3u8
+
+#EXTINF:-1 group-title="Testing",Star Sports 1 Hindi HD
+http://183.178.58.115:8016/0.m3u8?token=@LiveTvLinksForFree
+
+
+#EXTINF:-1 group-title="Testing",Sky Sports Cricket
+http://93.152.174.144:4000/play/skysports2/index.m3u8
+
+
+#EXTINF:-1 group-title="Testing",720p
+https://prod-fastly-ap-south-1.video.pscp.tv/Transcoding/v1/hls/gqLTGchMoTa7mES5Pq6SkX1fI6ZVlxP7sr40SoeRjGPUpvQdPTyqa8nm53xxi0FcDsdiQnOa2bBOlKkuSlqcVQ/transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+
+#EXTINF:-1 group-title="Testing",Big Bass
+https://sonydaime.akamaized.net/hls/live/2022320/DAI16V2/hdntl=exp=1640764143~acl=%2f*~id=8cc43f4f6a974bb9b10a0d4fcaa11bb5-1640676818558-2011180431149902573~data=hdntl~hmac=ddedeb0ca94b06ae74d7a75b77dccb487710ee9e3f54e20733850574be9728f1/master_2000.m3u8?token=@LiveTvLinksForFree
