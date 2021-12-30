@@ -130,3 +130,34 @@ http://14.199.164.20:4001/play/a0kr/index.m3u8
 https://catchup.yuppcdn.net/amazonv2/20/preview/kbo/master/master.m3u8
 #EXTINF:-1 ,KBO CLASSIC tamil
 https://catchup.yuppcdn.net/amazonv2/20/preview/kboclassic/master/master.m3u8
+
+#EXTINF:-1 ,Rasi Lifestyle
+http://singamcloud.in:1935/rasinetwork/cookings/playlist.m3u8
+#EXTINF:-1 ,SILVERSATTV
+http://7starcloud.com:1935/silversat/silversattv/playlist.m3u8
+#EXTINF:-1 ,SILVERSATMUSIC
+http://7starcloud.com:1935/sangamagold/sangamagold/playlist.m3u8
+#EXTINF:-1 ,Sevenstar
+http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
+#EXTINF:-1 ,Sevenstarplus
+http://hdserver.7starcloud.com:1935/live/live/playlist.m3u8
+#EXTINF:-1 ",Sharvesh
+http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
+#EXTINF:-1 ,RASI TV
+http://singamcloud.in:1935/rasinetworks/rasitv/playlist.m3u8
+#EXTINF:-1 ,RASI TAMIL
+http://singamcloud.in:1935/rasinetworks/rasitamil/playlist.m3u8
+#EXTINF:-1 ,RASI MUSIC
+http://singamcloud.in:1935/rasinetworks/rasimusic/playlist.m3u8
+#EXTINF:-1 ,RASI MOVIES
+http://singamcloud.in:1935/rasinetworks/rasimovies/playlist.m3u8
+#EXTINF:-1 ,RASI HOLLYWOOD
+http://singamcloud.in:1935/rasinetworks/rasihollywood/playlist.m3u8
+#EXTINF:-1 ,RASI CASSIC
+http://singamcloud.in:1935/rasinetworks/rasiclassic/playlist.m3u8
+#EXTINF:-1 ,RASI tamil1
+http://singamcloud.in:1935/rasinetworks/rasitamil/chunklist_w442012745.m3u8
+#EXTINF:-1 ,RASI TV1
+http://singamcloud.in:1935/rasinetworks/rasitv/chunklist_w766878936.m3u8
+#EXTINF:-1 ,RASI movies1
+http://singamcloud.in:1935/rasinetworks/rasimovies/chunklist_w37448986.m3u8
