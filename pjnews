@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",Polime News
+#EXTINF:-1 tvg-logo="https://india.mom-rsf.org/typo3temp/_processed_/d/c/csm_16526-1592_import_d84315ad22.png",Polime News
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://singamcloud.com/tv/upload/1616307129_thanthi tv.png",Thanthi
@@ -9,7 +9,7 @@ https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/playlist.
 #EXTINF:-1 tvg-logo="https://singamcloud.com/tv/upload/1616305109_puthiya.png",Puthiyathalimurai
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/puthiyathalaimurai.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",News7
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/317-3178616_news-news-7-tamil-logo-hd-png-download.png",News7
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/tamilnews7.smil/chunklist_b1000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://singamcloud.com/tv/upload/1616305399_news j.png",NEWS J
