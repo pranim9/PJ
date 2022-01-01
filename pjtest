@@ -13,3 +13,68 @@ http://jupiter.bdcabletv.com/T-sports_ENC/video.m3u8
 #EXTINF:-1 group-title="Testing",T sport2
 http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/14020/500x750_SunTVHD_14020_6c8b0d77-dfb1-4456-8af8-6b219c28885d.jpg" group-title="SUNNXT (TechMax)",SUN TV HD
+https://cdn02.vidstrm.xyz:8096/s/SunTVHD/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/38926/500x750_SunNews_38926_d9234353-be56-4e69-8bbd-c3b15378e7cb.jpg" group-title="SUNNXT (TechMax)",SUN NEWS
+https://cdn02.vidstrm.xyz:8096/s/SunNews/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26566/500x750_KTVHD_26566_3f1d6cd3-6142-43b8-b78c-860477a91b90.jpg" group-title="SUNNXT (TechMax)",KTV HD
+https://cdn02.vidstrm.xyz:8096/s/KTVHD/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9013/500x750_SunMusicHD_9013_a1f6d6ac-015b-4e0f-b756-bc331824e590.jpg" group-title="SUNNXT (TechMax)",SUN MUSIC HD
+https://cdn02.vidstrm.xyz:8096/s/SunMusicHD/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26569/500x750_SunLife_26569_b149631f-04c2-41f5-bb30-c23d0127336b.jpg" group-title="SUNNXT (TechMax)",SUN LIFE
+https://cdn02.vidstrm.xyz:8096/s/SunLife/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9023/500x750_AdithyaTV_9023_8d1754a9-b044-4782-9bf6-f8eec1c7a165.jpg" group-title="SUNNXT (TechMax)",ADITHYA TV
+https://cdn02.vidstrm.xyz:8096/s/AdithyaTV/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26567/500x750_ChuttiTV_26567_f5c8f413-9a9c-4e75-ab9c-ae52e44230bf.jpg" group-title="SUNNXT (TechMax)",CHUTTI TV
+https://cdn02.vidstrm.xyz:8096/s/ChuttiTV/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9016/500x750_SunTV_9016_2f6432cf-c588-4fe3-a7d8-76ca4abe64b4.jpg" group-title="SUNNXT (TechMax)",SUN TV
+https://cdn02.vidstrm.xyz:8096/s/SunTV/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/32138/500x750_KTV_32138_d242116d-02e1-44d3-ae76-0e2096c8667d.jpg" group-title="SUNNXT (TechMax)",KTV
+https://cdn02.vidstrm.xyz:8096/s/KTV/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9025/500x750_SunMusic_9025_ce616d71-a7be-4895-9c88-26f6fb8e796f.jpg" group-title="SUNNXT (TechMax)",SUN MUSIC
+https://cdn02.vidstrm.xyz:8096/s/SunMusic/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/14019/500x750_GeminiTVHD_14019_5fa8aaf5-5e27-464c-872c-7e1bf293cf93.jpg" group-title="SUNNXT (TechMax)",GEMINI TV HD
+https://cdn02.vidstrm.xyz:8096/s/GeminiTVHD/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26570/500x750_GeminiMoviesHD_26570_743fe85a-9e51-4507-b702-c63590daa3d2.jpg" group-title="SUNNXT (TechMax)",GEMINI MOVIES HD
+https://cdn02.vidstrm.xyz:8096/s/GeminiMoviesHD/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26568/500x750_GeminiMusicHD_26568_cbcdc74e-84c6-45a0-b5ed-a5c0059464e1.jpg" group-title="SUNNXT (TechMax)",GEMINI MUSIC HD
+https://cdn02.vidstrm.xyz:8096/s/GeminiMusicHD/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9027/500x750_GeminiComedy_9027_d7c77356-6721-41c4-825a-8755000b40db.jpg" group-title="SUNNXT (TechMax)",GEMINI COMEDY
+https://cdn02.vidstrm.xyz:8096/s/GeminiComedy/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26572/500x750_GeminiLife_26572_5e588a65-6d80-4abe-a788-dd8e43f5fe14.jpg" group-title="SUNNXT (TechMax)",GEMINI LIFE
+https://cdn02.vidstrm.xyz:8096/s/GeminiLife/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26571/500x750_KushiTV_26571_6a972e5a-f624-4e0e-ac68-1689dab237db.jpg" group-title="SUNNXT (TechMax)",KUSHI TV
+https://cdn02.vidstrm.xyz:8096/s/KushiTV/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9017/500x750_GeminiTV_9017_4f62fbf5-46da-4d56-8998-0c2deb3b3797.jpg" group-title="SUNNXT (TechMax)",GEMINI TV
+https://cdn02.vidstrm.xyz:8096/s/GeminiTV/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9015/500x750_GeminiMovies_9015_59935728-bfc4-4dd1-ba3e-3f4c50c49bc6.jpg" group-title="SUNNXT (TechMax)",GEMINI MOVIES
+https://cdn02.vidstrm.xyz:8096/s/GeminiMovies/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9026/500x750_GeminiMusic_9026_ca0989a9-1c19-4bf7-a9a0-fcd7a85f13f7.jpg" group-title="SUNNXT (TechMax)",GEMINI MUSIC
+https://cdn02.vidstrm.xyz:8096/s/GeminiMusic/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26574/500x750_SuryaTVHD_26574_432e86f2-b88c-4244-921d-25fabf02be77.jpg" group-title="SUNNXT (TechMax)",SURYA TV HD
+https://cdn02.vidstrm.xyz:8096/s/SuryaTVHD/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9019/500x750_SuryaMovies_9019_5ec863e8-1c9e-4d68-9586-eea3d54869c3.jpg" group-title="SUNNXT (TechMax)",SURYA MOVIES
+https://cdn02.vidstrm.xyz:8096/s/SuryaMovies/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26575/500x750_SuryaMusic_26575_cc1fcfcf-7931-4b87-9ef7-1f74e60d00f7.jpg" group-title="SUNNXT (TechMax)",SURYA MUSIC
+https://cdn02.vidstrm.xyz:8096/s/SuryaMusic/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/30835/500x750_SuryaComedy_30835_4e038a42-fb24-467e-a388-4fd9ec1b108d.jpg" group-title="SUNNXT (TechMax)",SURYA COMEDY
+https://cdn02.vidstrm.xyz:8096/s/SuryaComedy/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26573/500x750_KochuTV_26573_b37e2b98-bc82-40b5-8e4d-e1a451d7411f.jpg" group-title="SUNNXT (TechMax)",KOCHU TV
+https://cdn02.vidstrm.xyz:8096/s/KochuTV/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9018/500x750_SuryaTV_9018_c8f09032-8b77-4cb7-98e6-6ecd2ed61aa1.jpg" group-title="SUNNXT (TechMax)",SURYA YV
+https://cdn02.vidstrm.xyz:8096/s/SuryaTV/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/30846/500x750_UdayaTVHD_30846_5192365f-e16e-41b0-9b55-cd371ca41318.jpg" group-title="SUNNXT (TechMax)",UDAYA TV HD
+https://cdn02.vidstrm.xyz:8096/s/UdayaTVHD/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26576/500x750_UdayaMovies_26576_3f01331f-a95e-444d-b25e-d386182b5d8c.jpg" group-title="SUNNXT (TechMax)",UDAYA MOVIES
+https://cdn02.vidstrm.xyz:8096/s/UdayaMovies/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9022/500x750_UdayaMusic_9022_e8012abd-c6b2-417c-8d3b-9f72167dab62.jpg" group-title="SUNNXT (TechMax)",UDAYA MUSIC
+https://cdn02.vidstrm.xyz:8096/s/UdayaMusic/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9014/500x750_UdayaComedy_9014_53e7de60-92f7-4e4c-bc84-01ca4becf6cc.jpg" group-title="SUNNXT (TechMax)",UDAYA COMEDY
+https://cdn02.vidstrm.xyz:8096/s/UdayaComedy/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26577/500x750_ChintuTV_26577_a6c3b102-c153-4752-bf8b-3699496028e6.jpg" group-title="SUNNXT (TechMax)",CHINTU TV
+https://cdn02.vidstrm.xyz:8096/s/ChintuTV/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9029/500x750_UdayaTV_9029_f4558ad3-730e-4d51-b2b1-4620bf69adac.jpg" group-title="SUNNXT (TechMax)",UDAYA TV
+https://cdn02.vidstrm.xyz:8096/s/UdayaTV/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/75117/500x750_SunBangla_75117_19765610-bfa4-4280-8a98-e28feddb3382.jpg" group-title="SUNNXT (TechMax)",SUN BANGLA
+https://cdn02.vidstrm.xyz:8096/s/SunBangla/index.m3u8
