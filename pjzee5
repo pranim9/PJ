@@ -1,28 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="0-9-zeetamil" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetamil/list/386x386/09zeetamilzeetamil.png",Zee Tamil
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeetamil
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetamil/channel_web/1170x658_1250786368.png",Zee Tamil HD
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=zeetamil
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-224/channel_web/1170x658withlogo_334138193.png",Zee Thirai
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=224
 
-#EXTINF:-1 tvg-id="0-9-224" tvg-logo="https://akamaividz.zee5.com/resources/0-9-224/list/386x386/09224zeethirai_2030446447.png",Zee Thirai
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-224
 
-#EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png",Zee TV HD
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeetvhd
-#EXTINF:-1 tvg-id="0-9-zeetv" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetv/list/386x386/09zeetvzeetv.png",Zee TV
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeetv
-#EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png",&TV HD
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-tvhd_0
-#EXTINF:-1 tvg-id="0-9-209" tvg-logo="https://akamaividz.zee5.com/resources/0-9-209/list/386x386/09209xplorhd.png",&xplorHD
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-209
-#EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png",Zee Cinema HD
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeecinemahd
-#EXTINF:-1 tvg-id="0-9-zeecinema" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinema/list/386x386/09zeecinemazeecinema.png",Zee Cinema
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeecinema
-#EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvpictureshd/list/386x386/09tvpictureshdpictureshd.png",&Pictures HD
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-tvpictureshd
-#EXTINF:-1 tvg-id="0-9-zing" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zing/list/386x386/09zingzing.png",Zing
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zing
-#EXTINF:-1 tvg-id="0-9-290" tvg-logo="https://akamaividz.zee5.com/resources/0-9-290/list/386x386/1170x658_zee5kid_983708240.png",ZEE5 Kids
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-290
-#EXTINF:-1 tvg-id="0-9-zeeyuva" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeyuva/list/386x386/09zeeyuvazeeyuva.png",Zee Yuva
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeeyuva
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zing/channel_web/1170x658withlogo_895666865.png",Zing
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=zing
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-133/channel_web/1170x658withlog_1438225875.png",9X Jalwa
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=133
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-131/channel_web/1170x658withlog_2074233892.png",9XM
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=131
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-134/channel_web/1170x658withlog_1510286564.png",9X Jhakaas
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=134
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-132/channel_web/1170x658withlogo_790675165.png",9X Tashan
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=132
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-296/channel_web/1170x658_419268810.png",Non-stop EDM
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=296
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-298/channel_web/1170x658psd_1468258188.png",Local Vocal
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=298
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-353/channel_web/1170x658withlog_1434429781.png",Zee Vajwa
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=353
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-375/channel_web/1170x658withlogo_976067553.png",Haryanvi Hits
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=375
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-376/channel_web/1170x658withlog_1062825349.png",Wah Punjabi
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=376
