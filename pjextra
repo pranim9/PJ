@@ -1,0 +1,105 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 group-title="",Zee Bollywood 
+http://208.86.19.21:80/701.stream/index.m3u8 
+ 
+#EXTINF:-1 group-title="",Sony SAB HD 
+http://208.86.19.21:80/702.stream/index.m3u8 
+ 
+#EXTINF:-1 group-title="",&Tv 
+http://208.86.19.21:80/703.stream/index.m3u8 
+ 
+#EXTINF:-1 group-title="",&Pictures 
+http://208.86.19.21:80/705.stream/index.m3u8 
+ 
+#EXTINF:-1 group-title="",Sony max hd  
+http://208.86.19.21:80/706.stream/index.m3u8 
+ 
+#EXTINF:-1 group-title="",Zee Bangla Cinema 
+http://208.86.19.21:80/708.stream/index.m3u8 
+ 
+#EXTINF:-1 group-title="",Star Gold Select HD 
+http://208.86.19.21:80/709.stream/index.m3u8 
+ 
+#EXTINF:-1 group-title="",Star Sports 1 HD 
+http://208.86.19.21:80/710.stream/index.m3u8 
+ 
+#EXTINF:-1 group-title="",Ten Sports 
+http://208.86.19.21:80/711.stream/index.m3u8 
+ 
+#EXTINF:-1 group-title="",Sony ten 2 
+http://208.86.19.21:80/712.stream/index.m3u8 
+ 
+#EXTINF:-1 group-title="",Sony Ten 3 
+http://208.86.19.21:80/713.stream/index.m3u8 
+ 
+#EXTINF:-1 group-title="",Star Sports 2 
+http://208.86.19.21:80/715.stream/index.m3u8 
+ 
+#EXTINF:-1 group-title="",Jalsha Movies HD 
+http://208.86.19.21:80/716.stream/index.m3u8 
+   
+#EXTINF:-1 group-title="",ASTRO CRICKET 
+http://208.86.19.21:80/720.stream/index.m3u8 
+ 
+#EXTINF:-1 group-title="",Star bharat  
+http://208.86.19.21:80/721.stream/index.m3u8 
+ 
+#EXTINF:-1 group-title="",UTV  
+http://208.86.19.21:80/723.stream/index.m3u8 
+ 
+#EXTINF:-1 group-title="",Star Sports 1 HD Hindi 
+http://208.86.19.21:80/724.stream/index.m3u8 
+ 
+#EXTINF:-1 group-title="",Sony ten 1 
+http://208.86.19.21:80/726.stream/index.m3u8 
+ 
+#EXTINF:-1 group-title="",Zee Action 
+http://208.86.19.21:80/728.stream/index.m3u8 
+ 
+#EXTINF:-1 group-title="",Willow HD 
+http://208.86.19.21:80/731.stream/index.m3u8 
+ 
+#EXTINF:-1 group-title="",Star Sports 3 
+http://208.86.19.21:80/732.stream/index.m3u8 
+ 
+#EXTINF:-1 group-title="",B4U music 
+http://208.86.19.21:80/733.stream/index.m3u8 
+ 
+#EXTINF:-1 group-title="",Colors Cineplex HD 
+http://208.86.19.21:80/735.stream/index.m3u8 
+ 
+#EXTINF:-1 group-title="",Star Sports Select 1 HD 
+http://208.86.19.21:80/736.stream/index.m3u8 
+ 
+#EXTINF:-1 group-title="",Star Sports Select 2 HD 
+http://208.86.19.21:80/737.stream/index.m3u8 
+ 
+#EXTINF:-1 group-title="",Sony Six HD 
+http://208.86.19.21:80/740.stream/index.m3u8  
+ 
+#EXTINF:-1 group-title="",Ekattor TV 
+http://208.86.19.21:80/604.stream/index.m3u8 
+ 
+#EXTINF:-1 group-title="",Colors HD 
+http://208.86.19.21:80/605.stream/index.m3u8 
+ 
+#EXTINF:-1 group-title="",Zee tv hd 
+http://208.86.19.21:80/606.stream/index.m3u8 
+ 
+#EXTINF:-1 group-title="",Star Plus HD 
+http://208.86.19.21:80/607.stream/index.m3u8 
+ 
+#EXTINF:-1 group-title="",PTV Sports 
+http://208.86.19.21:80/610.stream/index.m3u8 
+ 
+#EXTINF:-1 group-title="",Hum tv 
+http://208.86.19.21:80/611.stream/index.m3u8 
+ 
+#EXTINF:-1 group-title="",Zee Bangla 
+http://208.86.19.21:80/906.stream/index.m3u8 
+ 
+#EXTINF:-1 group-title="",Star Jalsha 
+http://208.86.19.21:80/908.stream/index.m3u8
