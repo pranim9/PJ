@@ -73,30 +73,6 @@ https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt.php?id=9023&e=.m3u8
 
 
 
-######------------RStreams-------------------------
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png" tvg-country="IN" tvg-url="" group-title="RStreams",Sun TV HD
-https://bit.ly/3sMP8KT
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" tvg-country="IN" tvg-url="" group-title="RStreams",Sun Music HD
-https://bit.ly/3EBJ3Du
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png" tvg-country="IN" tvg-url="" group-title="RStreams",KTV HD
-https://bit.ly/32Q6MTf
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png" group-title="RStreams",History TV18 HD Tamil
-https://bit.ly/3HqTnzI
-
-#EXTINF:-1 tvg-id="0-9-zeetamil" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetamil/list/386x386/09zeetamilzeetamil.png" group-title="RStreams",Zee Tamil
-https://bit.ly/3EGYMBh
-
-#EXTINF:-1 tvg-id="0-9-224" tvg-logo="https://akamaividz.zee5.com/resources/0-9-224/list/386x386/09224zeethirai_2030446447.png" group-title="RStreams",Zee Thirai
-https://bit.ly/3sLrLl6
-
-
-
-
-
 
 ##############--------------185.246.209.207-----------------------------
 
