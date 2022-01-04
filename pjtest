@@ -24,9 +24,8 @@ http://183.178.58.115:8019/0.m3u8?token=@LiveTvLinksForFree
 #EXTINF:-1 ,Star Sports 1 Hindi HD 👍👍
 http://183.178.58.115:8016/0.m3u8?token=@LiveTvLinksForFree
 
-#EXTINF:-1 , Sky Sports Cricket👍👍
+#EXTINF:-1 ,Sky Sports Cricket👍👍
 http://93.152.174.144:4000/play/skysports2/index.m3u8
 
-
-#EXTINF:-1 ,Star Sport Live
-https://prod-fastly-ap-south-1.video.pscp.tv/Transcoding/v1/hls/FvoPdTWrOzZFx1zSQGrPiR_fOEoHjynMS7lBa0AMJxhjPfI2kg8YiQAuSa7XN3VVrNgx0rwbYIJpPpKcHmmuKA/transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 ,Vijay tv
+http://58.27.219.166:8000/play/a0ds/index.m3u8
