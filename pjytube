@@ -111,3 +111,6 @@ https://utube.psrutube.workers.dev/stream/UCoMdktPbSTixAyNGwb-UYkQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSkYRQKSBrhs0ov1qmAG0xWhlouqLlqYm6M10UYCLs=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Nasa
 https://utube.arapurayil.com/stream/UCLA_DiR1FfKNvjuUpBHmylQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR3uHlD-z_JoaGtAPHXtrbd66fa0a9q8A3w1giLbA=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Earth View
+https://utube.arapurayil.com/stream/UCakgsb0w7QB0VHdnCc-OVEA/master.m3u8
