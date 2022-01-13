@@ -1,25 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 ,"Hungama Hits"
+#EXTINF:-1 ,Hungama Hits
 https://live.hungama.com/linear/dil-se/playlist_720p/index.m3u8 
 
-#EXTINF:-1 ,"Fox News"
+#EXTINF:-1 ,Fox News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
-#EXTINF:-1 ,"Colors Hd"
+#EXTINF:-1 ,Colors Hd
 http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/Playlist.m3u8
 
-#EXTINF:-1 ,"Astro Cricket"
+#EXTINF:-1 ,Astro Cricket
 https://cdn.durbinlive.com/707.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 ,"Sun Music"
+#EXTINF:-1 ,Sun Music
 http://uk1.zecast.com:1935/star-live/smusic/chunklist_w2139407510.m3u8
 
-#EXTINF:-1 ,"T Sports"
+#EXTINF:-1 ,T Sports
 http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8     
 
-#EXTINF:-1 ,"Adsports"
+#EXTINF:-1 ,Adsports
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
 
-#EXTINF:-1 ,"Travelxp"
+#EXTINF:-1 ,Travelxp
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
