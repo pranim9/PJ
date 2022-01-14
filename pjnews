@@ -1,25 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://india.mom-rsf.org/typo3temp/_processed_/d/c/csm_16526-1592_import_d84315ad22.png",Polime News
+#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1616305215_polimer.png", Polimer News
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://singamcloud.com/tv/upload/1616307129_thanthi tv.png",Thanthi
-https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://singamcloud.com/tv/upload/1616305109_puthiya.png",Puthiyathalimurai
+#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1616305109_puthiya.png", Puthiyathalimurai 
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/puthiyathalaimurai.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRyJtZWzCR1s-DdSpRqroabLviMntak5YCDMF9Y=s88-c-k-c0x00ffffff-no-rj",News7
+#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1616305166_news 7.png", News7 
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/tamilnews7.smil/chunklist_b1000000.m3u8
 
-#EXTINF:-1 tvg-logo="https://singamcloud.com/tv/upload/1616305399_news j.png",NEWS J
-http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:newsj_,b256,b512,b1024,b1824,.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1616312705_sathiyam tv.png", Sathiyam 
+http://hdserver.7starcloud.com:1935/sathiyamtv/livestreaming/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://7starcloud.in/NB.png",News18 Tamilnadu
-https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1616308266_kalaingar news.png", Kalaignar News
+http://versewsa.pc.cdn.bitgravity.com:80/versewsa/live//kalaignar_tv.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1616307129_thanthi tv.png", Thanthi TV 
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1616305063_news18 tamilnadu.png", News18 
+http://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1616305399_news j.png", NEWS J
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:newsj_,b256,b512,b1024,b1824,.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.asianetnews.com/v1/images/tamil_logo.png",Asianet News Tamil
 https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://singamcloud.com/tv/upload/1616308266_kalaingar news.png",Kalaignar NEWS
-http://versewsa.pc.cdn.bitgravity.com:80/versewsa/live//kalaignar_tv.smil/chunklist.m3u8
