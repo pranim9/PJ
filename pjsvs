@@ -143,80 +143,161 @@ https://cdn02.vidstrm.xyz:8096/s/SunBangla/index.m3u8
 
 
 
-##########---------SonyLiv-------------------
-
-#EXTINF: -1 tvg-id="762" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/SonyPIx.jpg" group-title="SonyLiv",Pix HD
-https://bit.ly/3Ilm6Xb
-
-#EXTINF: -1 tvg-id="162" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_HD.png" group-title="SonyLiv",Ten1 HD
-https://bit.ly/3tH1sNi
-
-#EXTINF: -1 tvg-id="891" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN2_HD.png" group-title="SonyLiv",Ten2 HD
-https://bit.ly/3qJRKrn
-
-#EXTINF: -1 tvg-id="892" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN3_HD.png" group-title="SonyLiv",Ten3 HD
-https://bit.ly/3FFMj16
-
-#EXTINF: -1 tvg-id="892" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4HD_Masthead_Logo.png" group-title="SonyLiv",Ten4 HD
-https://bit.ly/3KFFOiH
-
-#EXTINF: -1 tvg-id="155" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_HD.png" group-title="SonyLiv", Six HD
-https://bit.ly/3KtQWPq
-
-#EXTINF: -1 tvg-id="514" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_SD.png" group-title="SonyLiv",Ten1
-https://bit.ly/32ncTi0
-
-#EXTINF: -1 tvg-id="523" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN2_SD.png" group-title="SonyLiv",Ten2
-https://bit.ly/3fKz1FU
-
-#EXTINF: -1 tvg-id="524" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/SonyTEN3HD.jpg" group-title="SonyLiv",Ten3
-https://bit.ly/3nLeLIS
-
-#EXTINF: -1 tvg-id="892" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4SD_Masthead_Logo.png" group-title="SonyLiv",Ten4
-https://bit.ly/3tHrGPB
-
-#EXTINF: -1 tvg-id="525" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_SD.png" group-title="SonyLiv",Six
-https://bit.ly/3GN7G1H
-
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="SonyLiv",SONY HD
-https://bit.ly/3o5dpZJ
-
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="SonyLiv",SONY MAX HD
-https://bit.ly/3o5dpZJ
-
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="SonyLiv",SONY PIX HD
-https://bit.ly/3Ilm6Xb
-
-#EXTINF: -1 tvg-id="525" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="SonyLiv",BBC EARTH
-https://bit.ly/3qKW49Z
-
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="SonyLiv",SAB HD
-https://bit.ly/3KtKAj1
-
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="SonyLiv",SONY PAL
-https://bit.ly/3FTdw0w
-
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="SonyLiv",SONY YAY
-https://bit.ly/3qJVbyj
-
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="SonyLiv",SONY MAX
-https://bit.ly/3fKflSx
-
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="SonyLiv",SONY MAX2
-https://bit.ly/3tHsLa7
-
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="SonyLiv",SONY MARATHI
-https://bit.ly/3IhTyxK
-
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="SonyLiv",SONY AATH
-https://bit.ly/3IhTyxK
-
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="SonyLiv",SONY WAH
-https://bit.ly/358LEsu
-
-#EXTINF: -1 tvg-id="525" tvg-logo="https://i.imgur.com/s1jdNAS.png" group-title="SonyLiv",Sony Liv Feed
-https://bit.ly/3nLkBtw
+########--------------------------Local----------------------------------------------------
 
 
+#EXTINF:-1  tvg-logo="" group-title="Local" group-title="Local",3 Tamil TV
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1  group-title="Local",MON TAMIL TV
+http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
+#EXTINF:-1  tvg-logo="" group-title="Local",Abinaya HD
+http://singamcloud.in:1935/purpletv/purpletv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Local",Apple Digital
+http://singamcloud.in:1935/rasinetwork/appledigitel/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Local",AUS TAMIL
+https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Local",Capital TV
+http://89.187.162.89/Capital_TV-LIVE/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Local",CTN TV
+http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Local",EET TV
+https://eu.streamjo.com/eetlive/eettv.m3u8?token=GTR
+https://live.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Local",Ezhil TV
+http://198.144.149.82:8080/NOTV/EZHILTV/index.m3u8?token=GTR
+#EXTINF:-1  tvg-logo="" group-title="Local",GTA Tamil
+http://142.44.213.115:8888/gta_tamil/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Local",IBC Tamil
+https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Local",Jawahar TV
+http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Local",BELL TV
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/belltv123_low/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Local",MAYA TV
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/mayatv_low/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Local",JAYEM TV
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/jayamtvtvm_low/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Local",MN TV
+http://mntv.livebox.co.in/mntvhls/mntv.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Local",Palar TV
+http://account13.livebox.co.in/palartvhls/live.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Local",Sana TV
+http://7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Local",Maa TV
+http://live.singamcloud.in:1935/maatv/maatv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Local",VVN TV
+http://stream.singamcloud.in:1935/panchayathutv/panchayathutv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Local",Krishna Media
+http://stream.singamcloud.in:1935/krishnamedia/krishnamedia/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Local",Kanchi TV
+http://198.144.149.82:8080/NOTV/KANCHITV/tracks-v1a1/mono.m3u8?token=GTR
+#EXTINF:-1  tvg-logo="" group-title="Local",Aarya TV
+http://7starcloud.com:1935/aarya/aaryatv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Local",Anbu TV
+http://nextgeninfotech.ddns.net:8080/anbu/anbu.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Local",MSN TV
+http://media.7starcloud.com:1935/msntv/live/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Local",Ram TV
+http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Local",Phoenix TV
+http://198.144.149.82:8080/NOTV/PHOENIXTV/index.m3u8?token=GTR
+#EXTINF:-1  group-title="Local",Anu TV
+http://139.99.96.93:1935/anutv/anutv/mono.m3u8
+#EXTINF:-1  group-title="Local",Tdcto TV
+http://139.99.96.93:1935/applemusic/applemusic/mono.m3u8
+#EXTINF:-1  group-title="Local",Krishna TV
+http://51.79.158.179:1935/erodekrishnatv/livestream/mono.m3u8
+#EXTINF:-1  group-title="Local",Durais TV
+http://51.79.158.179:1935/harimedia/duraistv/mono.m3u8
+#EXTINF:-1  group-title="Local",Hari TV
+http://51.79.158.179:1935/harimedia/haritv/mono.m3u8
+#EXTINF:-1  group-title="Local",Ram TV
+http://51.79.158.179:1935/harimedia/live5/mono.m3u8
+#EXTINF:-1  group-title="Local",Sana TV 2
+http://51.79.158.179:1935/live/sanatv2/mono.m3u8
+#EXTINF:-1  group-title="Local",MSN TV
+http://51.79.158.179:1935/msntv/live/mono.m3u8
+#EXTINF:-1  group-title="Local",Thirumalai TV
+http://51.79.158.179:1935/tirumalaitv/stream/mono.m3u8
+#EXTINF:-1  group-title="Local",Abinaya HD
+http://51.79.207.150:1935/purpletv/purpletv/mono.m3u8
+#EXTINF:-1  group-title="Local",Apple Digital
+http://51.79.207.150:1935/rasinetwork/appledigitel/mono.m3u8
+#EXTINF:-1  group-title="Local",Sachin Music
+http://51.79.207.150:1935/sachinmusichd/sachinmusichd/mono.m3u8
+#EXTINF:-1  group-title="Local",SMS TV
+http://51.79.207.150:1935/smstvtsy/smstvtsy/mono.m3u8
+#EXTINF:-1  group-title="Local",TTV
+http://51.79.207.150:1935/ttv/ttv/mono.m3u8
+#EXTINF:-1  group-title="Local",Krishna Media
+http://51.195.220.104/krishnamedia/krishnamedia/mono.m3u8
+#EXTINF:-1  group-title="Local",VVN TV
+http://51.195.220.104/panchayathutv/panchayathutv/mono.m3u8
+#EXTINF:-1  group-title="Local",Aarya TV
+http://51.79.158.179:1935/aarya/aaryatv/mono.m3u8
+#EXTINF:-1  group-title="Local",SS TV
+http://51.79.158.179:1935/live/sstv2/mono.m3u8
+#EXTINF:-1  group-title="Local",N TV
+http://51.79.158.179:1935/ntv/live/mono.m3u8
+#EXTINF:-1  group-title="Local",Prakalya TV
+http://51.79.158.179:1935/pragalya/pragalyatv/mono.m3u8
+#EXTINF:-1  group-title="Local",Sana TV
+http://51.79.158.179:1935/sanatv/sanatv/mono.m3u8
+#EXTINF:-1  group-title="Local",SD Media
+http://51.79.158.179:1935/sd/sdmedia/mono.m3u8
+#EXTINF:-1  group-title="Local",JEYAM TV PLUS TAMIL
+http://198.144.149.82:8080/NOTV/JEYAMTVPLUS/index.m3u8?token=GTR
+#EXTINF:-1  group-title="Local",Analai Express TV TAMIL
+http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
+#EXTINF:-1  group-title="Local",Marutam tv
+https://mntv.livebox.co.in/mntvhls/mntv.m3u8
+#EXTINF:-1  group-title="Local",Jawahar tv
+http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/chunklist_w1329828768.m3u8
+#EXTINF:-1  group-title="Local",RCN TV
+https://5c75277727cd1.streamlock.net:443/rcntv/rcntv/playlist.m3u8
+#EXTINF:-1  group-title="Local",Tirupur pragalya tv
+http://7starcloud.com:1935/pragalya/pragalyatv/playlist.m3u8
+#EXTINF:-1  group-title="Local",Sooriyan TV
+http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
+#EXTINF:-1  group-title="Local",IBC Tamil
+https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
+#EXTINF:-1  group-title="Local",IBC Tamil Canada
+https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
+#EXTINF:-1  group-title="Local",IBC ISAI
+https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
+#EXTINF:-1  group-title="Local",IBC Comedy
+https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8
+#EXTINF:-1  group-title="Local",MK Six
+http://14.199.164.20:4001/play/a0ks/index.m3u8
+#EXTINF:-1  group-title="Local",MK TELEVISION
+http://14.199.164.20:4001/play/a0lh/index.m3u8
+#EXTINF:-1  group-title="Local",MK TUNES
+http://14.199.164.20:4001/play/a0kr/index.m3u8
 
 
+#EXTINF:-1  group-title="Local",Sevenstar
+http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
+#EXTINF:-1  group-title="Local",Sevenstarplus
+http://hdserver.7starcloud.com:1935/live/live/playlist.m3u8
+#EXTINF:-1 " group-title="Local",Sharvesh
+http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
+#EXTINF:-1  group-title="Local",Rasi Lifestyle
+http://singamcloud.in:1935/rasinetwork/cookings/playlist.m3u8
+#EXTINF:-1  group-title="Local",RASI TV
+http://singamcloud.in:1935/rasinetworks/rasitv/playlist.m3u8
+#EXTINF:-1  group-title="Local",RASI TAMIL
+http://singamcloud.in:1935/rasinetworks/rasitamil/playlist.m3u8
+#EXTINF:-1  group-title="Local",RASI MUSIC
+http://singamcloud.in:1935/rasinetworks/rasimusic/playlist.m3u8
+#EXTINF:-1  group-title="Local",RASI MOVIES
+http://singamcloud.in:1935/rasinetworks/rasimovies/playlist.m3u8
+#EXTINF:-1  group-title="Local",RASI HOLLYWOOD
+http://singamcloud.in:1935/rasinetworks/rasihollywood/playlist.m3u8
+#EXTINF:-1  group-title="Local",RASI CASSIC
+http://singamcloud.in:1935/rasinetworks/rasiclassic/playlist.m3u8
+#EXTINF:-1  group-title="Local",RASI TAMIL2
+http://singamcloud.in:1935/rasinetworks/rasitamil/chunklist_w442012745.m3u8
+#EXTINF:-1  group-title="Local",RASI TV2
+http://singamcloud.in:1935/rasinetworks/rasitv/chunklist_w766878936.m3u8
+#EXTINF:-1  group-title="Local",RASI MOVIES2
+http://singamcloud.in:1935/rasinetworks/rasimovies/chunklist_w37448986.m3u8
