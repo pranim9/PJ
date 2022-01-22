@@ -175,6 +175,38 @@ https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
 
 
 
+#######--------------------Zee5----------------------------
+
+
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetamil/channel_web/1170x658_1250786368.png" group-title="Zee5",Zee Tamil HD
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=zeetamil
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-224/channel_web/1170x658withlogo_334138193.png" group-title="Zee5",Zee Thirai
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=224
+
+
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zing/channel_web/1170x658withlogo_895666865.png" group-title="Zee5",Zing
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=zing
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-133/channel_web/1170x658withlog_1438225875.png" group-title="Zee5",9X Jalwa
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=133
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-131/channel_web/1170x658withlog_2074233892.png" group-title="Zee5",9XM
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=131
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-134/channel_web/1170x658withlog_1510286564.png" group-title="Zee5",9X Jhakaas
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=134
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-132/channel_web/1170x658withlogo_790675165.png" group-title="Zee5",9X Tashan
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=132
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-296/channel_web/1170x658_419268810.png" group-title="Zee5",Non-stop EDM
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=296
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-298/channel_web/1170x658psd_1468258188.png" group-title="Zee5",Local Vocal
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=298
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-353/channel_web/1170x658withlog_1434429781.png" group-title="Zee5",Zee Vajwa
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=353
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-375/channel_web/1170x658withlogo_976067553.png" group-title="Zee5",Haryanvi Hits
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=375
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-376/channel_web/1170x658withlog_1062825349.png" group-title="Zee5",Wah Punjabi
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=376
+
+
+
 
 
 
