@@ -438,8 +438,6 @@ http://singamcloud.in:1935/purpletv/purpletv/playlist.m3u8
 http://singamcloud.in:1935/rasinetwork/appledigitel/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Local",AUS TAMIL
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Local",Capital TV
-http://89.187.162.89/Capital_TV-LIVE/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Local",CTN TV
 http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Local",EET TV
@@ -453,8 +451,6 @@ http://142.44.213.115:8888/gta_tamil/index.m3u8
 https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Local",Jawahar TV
 http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Local",BELL TV
-http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/belltv123_low/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Local",MAYA TV
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/mayatv_low/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Local",JAYEM TV
@@ -467,14 +463,10 @@ http://account13.livebox.co.in/palartvhls/live.m3u8
 http://7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Local",Maa TV
 http://live.singamcloud.in:1935/maatv/maatv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Local",VVN TV
-http://stream.singamcloud.in:1935/panchayathutv/panchayathutv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Local",Krishna Media
 http://stream.singamcloud.in:1935/krishnamedia/krishnamedia/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Local",Kanchi TV
 http://198.144.149.82:8080/NOTV/KANCHITV/tracks-v1a1/mono.m3u8?token=GTR
-#EXTINF:-1  tvg-logo="" group-title="Local",Aarya TV
-http://7starcloud.com:1935/aarya/aaryatv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Local",Anbu TV
 http://nextgeninfotech.ddns.net:8080/anbu/anbu.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Local",MSN TV
@@ -495,8 +487,6 @@ http://51.79.158.179:1935/harimedia/duraistv/mono.m3u8
 http://51.79.158.179:1935/harimedia/haritv/mono.m3u8
 #EXTINF:-1  group-title="Local",Ram TV
 http://51.79.158.179:1935/harimedia/live5/mono.m3u8
-#EXTINF:-1  group-title="Local",Sana TV 2
-http://51.79.158.179:1935/live/sanatv2/mono.m3u8
 #EXTINF:-1  group-title="Local",MSN TV
 http://51.79.158.179:1935/msntv/live/mono.m3u8
 #EXTINF:-1  group-title="Local",Thirumalai TV
@@ -507,16 +497,8 @@ http://51.79.207.150:1935/purpletv/purpletv/mono.m3u8
 http://51.79.207.150:1935/rasinetwork/appledigitel/mono.m3u8
 #EXTINF:-1  group-title="Local",Sachin Music
 http://51.79.207.150:1935/sachinmusichd/sachinmusichd/mono.m3u8
-#EXTINF:-1  group-title="Local",SMS TV
-http://51.79.207.150:1935/smstvtsy/smstvtsy/mono.m3u8
 #EXTINF:-1  group-title="Local",TTV
 http://51.79.207.150:1935/ttv/ttv/mono.m3u8
-#EXTINF:-1  group-title="Local",Krishna Media
-http://51.195.220.104/krishnamedia/krishnamedia/mono.m3u8
-#EXTINF:-1  group-title="Local",VVN TV
-http://51.195.220.104/panchayathutv/panchayathutv/mono.m3u8
-#EXTINF:-1  group-title="Local",Aarya TV
-http://51.79.158.179:1935/aarya/aaryatv/mono.m3u8
 #EXTINF:-1  group-title="Local",SS TV
 http://51.79.158.179:1935/live/sstv2/mono.m3u8
 #EXTINF:-1  group-title="Local",N TV
@@ -527,10 +509,6 @@ http://51.79.158.179:1935/pragalya/pragalyatv/mono.m3u8
 http://51.79.158.179:1935/sanatv/sanatv/mono.m3u8
 #EXTINF:-1  group-title="Local",SD Media
 http://51.79.158.179:1935/sd/sdmedia/mono.m3u8
-#EXTINF:-1  group-title="Local",JEYAM TV PLUS TAMIL
-http://198.144.149.82:8080/NOTV/JEYAMTVPLUS/index.m3u8?token=GTR
-#EXTINF:-1  group-title="Local",Analai Express TV TAMIL
-http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
 #EXTINF:-1  group-title="Local",Marutam tv
 https://mntv.livebox.co.in/mntvhls/mntv.m3u8
 #EXTINF:-1  group-title="Local",Jawahar tv
@@ -688,9 +666,6 @@ http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Test",Sun Music
 http://uk1.zecast.com:1935/star-live/smusic/chunklist_w2139407510.m3u8
-
-#EXTINF:-1 group-title="Test",T Sports
-http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8     
 
 #EXTINF:-1 group-title="Test",Adsports
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
