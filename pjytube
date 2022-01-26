@@ -22,6 +22,12 @@ https://www.youtube.com/channel/UCmyKnNRH0wH-r8I-ceP-dsg/live
 #https://utube.psrutube.workers.dev/stream/UC-JFyL0zDFOsPMpuWu39rPA/master.m3u8
 https://www.youtube.com/channel/UC-JFyL0zDFOsPMpuWu39rPA/live
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/4MyB_zEvyfKpVf5x6OOEt-D_i3wqK9CskjUjjiJ3n1dTKqzQKP7xBE-7EcAdpuVG9FD0Phdb5w=s48-c-k-c0x00ffffff-no-rj" tvg-id="", News Tamil
+https://www.youtube.com/channel/UCtbo6_eDG7zEtaOtcSltJkA/live
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/MPb4QnBdKH7D-108aBq4dyi2tnSsR5FWRROz7HRw_Rq7qGEK0FUJq13_zjV__FVd-0jMnQtd--w=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Zee News
+https://www.youtube.com/channel/UCxRRfF6qIoYntp3zNOozonQ/live
+
 #EXTINF:-1 tvg-logo="http://7starcloud.in/NB.png" tvg-id="", New18 TamilNadu
 #https://utube.psrutube.workers.dev/stream/UCat88i6_rELqI_prwvjspRA/master.m3u8
 https://www.youtube.com/channel/UCat88i6_rELqI_prwvjspRA/live
