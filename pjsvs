@@ -707,3 +707,9 @@ http://live.flixhub.net/hls/mnx-hd.m3u8
 
 #EXTINF:-1 group-title="Test",Star World
 http://live.flixhub.net/hls/star-worldhd.m3u8
+
+#EXTINF:-1 group-title="Test", Discovery Hd
+http://live.flixhub.net/hls/discovery.m3u8
+
+#EXTINF:-1 group-title="Test",National Geo
+http://live.flixhub.net/hls/ngohd.m3u8
