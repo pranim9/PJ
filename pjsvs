@@ -373,6 +373,8 @@ http://singamcloud.in:1935/rasinetwork/appledigitel/playlist.m3u8
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Local",Gta Tamil
 http://142.44.213.115:8888/gta_tamil/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Local",Sana plus HD
+http://51.79.158.179:1935/live/sanatv2/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Local",CTN TV
 http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Local",EET TV
