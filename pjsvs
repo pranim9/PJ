@@ -668,3 +668,42 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m
 
 #EXTINF:-1 group-title="Test",Travelxp
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Test",T SPORTS HD
+http://live.flixhub.net/hls/t-sports.m3u8
+
+#EXTINF:-1 group-title="Test",GAZI TV HD
+http://live.flixhub.net/hls/Gazi-TV.m3u8
+
+#EXTINF:-1 group-title="Test",Star Sport1
+http://live.flixhub.net/hls/stersports1hd.m3u8
+
+#EXTINF:-1 group-title="Test",Star Sport Select1HD
+http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
+
+#EXTINF:-1 group-title="Test", Sony Six
+http://live.flixhub.net/hls/sonysix.m3u8
+
+#EXTINF:-1 group-title="Test",Ten1
+http://live.flixhub.net/hls/sonyten1.m3u8
+
+#EXTINF:-1 group-title="Test",Pixhd
+http://live.flixhub.net/hls/sonypixhd.m3u8
+
+#EXTINF:-1 group-title="Test", Movies Now
+http://live.flixhub.net/hls/movies-now.m3u8
+
+#EXTINF:-1 group-title="Test",Star Movies
+http://live.flixhub.net/hls/starmovies.m3u8
+
+#EXTINF:-1 group-title="Test", Mn+
+http://live.flixhub.net/hls/mn+.m3u8
+
+#EXTINF:-1 group-title="Test",Animal Planet
+http://live.flixhub.net/hls/animalplanent.m3u8
+
+#EXTINF:-1 group-title="Test",Mnx Hd
+http://live.flixhub.net/hls/mnx-hd.m3u8
+
+#EXTINF:-1 group-title="Test",Star World
+http://live.flixhub.net/hls/star-worldhd.m3u8
