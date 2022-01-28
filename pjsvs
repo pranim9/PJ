@@ -363,73 +363,103 @@ https://livevoot-i.akamaihd.net/dash/live/876252/colorsinfinity/master.mpd
 
 #EXTINF:-1  tvg-logo="" group-title="Local" group-title="Local",3 Tamil TV
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+
 #EXTINF:-1  group-title="Local",MON TAMIL TV
 http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
+
 #EXTINF:-1  tvg-logo="" group-title="Local",Abinaya HD
 http://singamcloud.in:1935/purpletv/purpletv/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="Local",Apple Digital
 http://singamcloud.in:1935/rasinetwork/appledigitel/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="Local",AUS TAMIL
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="Local",Gta Tamil
 http://142.44.213.115:8888/gta_tamil/index.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="Local",Sana plus HD
 http://51.79.158.179:1935/live/sanatv2/mono.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="Local",CTN TV
 http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="Local",EET TV
 https://eu.streamjo.com/eetlive/eettv.m3u8?token=GTR
-https://live.streamjo.com/eetlive/eettv.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="Local",Ezhil TV
 http://198.144.149.82:8080/NOTV/EZHILTV/index.m3u8?token=GTR
-#EXTINF:-1  tvg-logo="" group-title="Local",GTA Tamil
-http://142.44.213.115:8888/gta_tamil/index.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="Local",IBC Tamil
 https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="Local",Jawahar TV
 http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="Local",MAYA TV
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/mayatv_low/index.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="Local",JAYEM TV
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/jayamtvtvm_low/index.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="Local",MN TV
 http://mntv.livebox.co.in/mntvhls/mntv.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="Local",Palar TV
 http://account13.livebox.co.in/palartvhls/live.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="Local",Sana TV
 http://7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="Local",Maa TV
 http://live.singamcloud.in:1935/maatv/maatv/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="Local",Krishna Media
 http://stream.singamcloud.in:1935/krishnamedia/krishnamedia/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="Local",Kanchi TV
 http://198.144.149.82:8080/NOTV/KANCHITV/tracks-v1a1/mono.m3u8?token=GTR
+
 #EXTINF:-1  tvg-logo="" group-title="Local",Anbu TV
 http://nextgeninfotech.ddns.net:8080/anbu/anbu.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="Local",MSN TV
 http://media.7starcloud.com:1935/msntv/live/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="Local",Ram TV
 http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="Local",Phoenix TV
 http://198.144.149.82:8080/NOTV/PHOENIXTV/index.m3u8?token=GTR
+
 #EXTINF:-1  group-title="Local",Anu TV
 http://139.99.96.93:1935/anutv/anutv/mono.m3u8
+
 #EXTINF:-1  group-title="Local",Tdcto TV
 http://139.99.96.93:1935/applemusic/applemusic/mono.m3u8
+
 #EXTINF:-1  group-title="Local",Krishna TV
 http://51.79.158.179:1935/erodekrishnatv/livestream/mono.m3u8
+
 #EXTINF:-1  group-title="Local",Durais TV
 http://51.79.158.179:1935/harimedia/duraistv/mono.m3u8
+
 #EXTINF:-1  group-title="Local",Hari TV
 http://51.79.158.179:1935/harimedia/haritv/mono.m3u8
+
 #EXTINF:-1  group-title="Local",Ram TV
 http://51.79.158.179:1935/harimedia/live5/mono.m3u8
+
 #EXTINF:-1  group-title="Local",MSN TV
 http://51.79.158.179:1935/msntv/live/mono.m3u8
+
 #EXTINF:-1  group-title="Local",Thirumalai TV
 http://51.79.158.179:1935/tirumalaitv/stream/mono.m3u8
+
 #EXTINF:-1  group-title="Local",Abinaya HD
 http://51.79.207.150:1935/purpletv/purpletv/mono.m3u8
+
 #EXTINF:-1  group-title="Local",Apple Digital
 http://51.79.207.150:1935/rasinetwork/appledigitel/mono.m3u8
 #EXTINF:-1  group-title="Local",Sachin Music
