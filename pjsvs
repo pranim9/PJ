@@ -713,3 +713,6 @@ http://live.flixhub.net/hls/discovery.m3u8
 
 #EXTINF:-1 group-title="Test",National Geo
 http://live.flixhub.net/hls/ngohd.m3u8
+
+#EXTINF:-1 group-title="Test", Nick
+http://live.flixhub.net/hls/nick.m3u8
