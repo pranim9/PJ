@@ -417,4 +417,8 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
 
 
+#EXTINF:-1 group-title="Test",Jio Zee tv
+http://thoptv.in1.bitmana.io/jioo.php?c=Zee_TV_HD&q=800&e=.m3u8
 
+#EXTINF:-1 group-title="Test",jio Colors
+https://tvstream.fun/jtv/m3uu8.php?c=Colors_HD&q=800&e=ishanjtv.m3u8
