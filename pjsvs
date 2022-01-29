@@ -78,7 +78,6 @@ https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt.php?id=9023&e=.m3u8
 ######-------------------News--------------------------------
 
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1616305215_polimer.png" group-title="News", Polimer News
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist.m3u8
 
@@ -116,7 +115,6 @@ https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=zeetamil
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-224/channel_web/1170x658withlogo_334138193.png" group-title="Zee5",Zee Thirai
 https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=224
 
-
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zing/channel_web/1170x658withlogo_895666865.png" group-title="Zee5",Zing
 https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=zing
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-133/channel_web/1170x658withlog_1438225875.png" group-title="Zee5",9X Jalwa
@@ -140,6 +138,77 @@ https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=376
 
 
 
+#####------------------------FlexHub-----------------------------------------
+
+
+#EXTINF:-1 group-title="Flexhub",T SPORTS HD
+http://live.flixhub.net/hls/t-sports.m3u8
+
+#EXTINF:-1 group-title="Flexhub",GAZI TV HD
+http://live.flixhub.net/hls/Gazi-TV.m3u8
+
+#EXTINF:-1 group-title="Flexhub",Star Sports1
+http://live.flixhub.net/hls/stersports1hd.m3u8
+
+#EXTINF:-1 group-title="Flexhub",Star Sports2
+http://live.flixhub.net/hls/starsports2.m3u8
+
+
+#EXTINF:-1 group-title="Flexhub",Star Sport Select1
+http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
+
+#EXTINF:-1 group-title="Flexhub",Star Sport Select2
+http://live.flixhub.net/hls/select2.m3u8
+
+
+#EXTINF:-1 group-title="Flexhub", Sony Six
+http://live.flixhub.net/hls/sonysix.m3u8
+
+#EXTINF:-1 group-title="Flexhub",Ten1
+http://live.flixhub.net/hls/sonyten1.m3u8
+
+#EXTINF:-1 group-title="Flexhub",Ten2
+http://live.flixhub.net/hls/sonyten2.m3u8
+
+#EXTINF:-1 group-title="Flexhub",Ten3
+http://live.flixhub.net/hls/sonyten3.m3u8
+
+#EXTINF:-1 group-title="Flexhub",Euro Sports
+http://live.flixhub.net/hls/euro.m3u8
+
+
+#EXTINF:-1 group-title="Flexhub",Pix Hd
+http://live.flixhub.net/hls/sonypixhd.m3u8
+
+#EXTINF:-1 group-title="Flexhub", Movies Now
+http://live.flixhub.net/hls/movies-now.m3u8
+
+#EXTINF:-1 group-title="Flexhub",Star Movies
+http://live.flixhub.net/hls/starmovies.m3u8
+
+#EXTINF:-1 group-title="Flexhub", Mn+
+http://live.flixhub.net/hls/mn+.m3u8
+
+#EXTINF:-1 group-title="Flexhub",Animal Planet
+http://live.flixhub.net/hls/animalplanent.m3u8
+
+#EXTINF:-1 group-title="Flexhub",Mnx Hd
+http://live.flixhub.net/hls/mnx-hd.m3u8
+
+#EXTINF:-1 group-title="Flexhub",Star World
+http://live.flixhub.net/hls/star-worldhd.m3u8
+
+#EXTINF:-1 group-title="Flexhub", Discovery Hd
+http://live.flixhub.net/hls/discovery.m3u8
+
+#EXTINF:-1 group-title="Flexhub",National Geo
+http://live.flixhub.net/hls/ngohd.m3u8
+
+#EXTINF:-1 group-title="Flexhub", BBC Earth
+http://live.flixhub.net/hls/bbcearth.m3u8
+
+#EXTINF:-1 group-title="Flexhub", Nick
+http://live.flixhub.net/hls/nick.m3u8
 
 
 
@@ -335,22 +404,11 @@ https://live.hungama.com/linear/dil-se/playlist_720p/index.m3u8
 #EXTINF:-1 group-title="Test",Fox News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
-#EXTINF:-1 group-title="Test",Colors Hd
-#http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/Playlist.m3u8
-http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="Test",Sun Music
 http://uk1.zecast.com:1935/star-live/smusic/chunklist_w2139407510.m3u8
 
-#EXTINF:-1 group-title="Test",Adsports
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="Test",Travelxp
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Test",PBL
-https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/ylQRGcjsZqDWwKyqCSoTgxRSvFWURT9k9XDs3tTYlSXq9Oar5MDBVJ1aHUuSCuzwqP-mvaJlsTrcAzQ7iHkY9g/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live@live_cricketmatch_free
-
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -360,10 +418,3 @@ https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
 
 
 
-#EXTINF: -1 tvg-id="762" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/SonyPIx.jpg" group-title="Test",Pix HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; M2010J19SG Build/QKQ1.200830.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4664.104 Mobile Safari/537.36 Vinebre
-https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
-
-
-#EXTINF:-1 group-title="Test", Pixhd 1
-https://bit.ly/3Ilm6Xb
