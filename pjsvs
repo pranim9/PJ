@@ -370,6 +370,9 @@ http://uk1.zecast.com:1935/star-live/smusic/chunklist_w2139407510.m3u8
 #EXTINF:-1 group-title="Test",Travelxp
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="Test",A Sports
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODgyNjk2MyIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJtdHZiZWF0c19kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmTjNKWUtvaTFUYmU2Tmh4Zk5hUzVvTC1MMmx2bW8xT3dYZDRISHFpVm9INEpDVDJCWkpaZlFRMTZjQmMwTXo2YWZaeWdQUVJicldhcHVhNXRsR3l2UHo3SUtxeFg4Nnd2cDZIUlBrUHpjYnFSYVo3R0xpLWxmNjA4WE9YbWZWWkcxUWRPZlUteGc4WjRCNlVPa0Rrc1pRZk1WdHJwcWpRaFVIdXhnQm9aUjUyZTY3V3ZMZVJVNHRpM2hiNng1WTZYWG9fZC1va0Z0VDBEUU1VSEh1NlNLNFdfN3ZNSHRCZm15UW9kT1pXTjdIVVl0ZUEycms0akZ5NW1jd1dXUGx5VXAtekh4cXh5RXhMaHY0MmJSZjJDc1cxd2JIOElqdWlrenUzWWFzeVV2cnQxcGcyblhzT3QzcHg3ZmNWdFJqeHc3ZVc5SGxPanZtZ25DRVFsQmhYNjI4PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=OG1hOAa72zbU10Rajz5hYJ7miAc%3d
@@ -382,26 +385,3 @@ http://thoptv.in1.bitmana.io/jioo.php?c=Zee_TV_HD&q=800&e=.m3u8
 
 #EXTINF:-1 group-title="Test",jio Colors
 https://tvstream.fun/jtv/m3uu8.php?c=Colors_HD&q=800&e=ishanjtv.m3u8
-
-
-#EXTINF:-1 group-title="Test",T SPORTS🏏🏏
-http://live.flixhub.net/hls/t-sports.m3u8
-
-
-#EXTINF:-1 group-title="Test",🔗A SPORTS 🏏🏏
-http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
-
-
-#EXTINF:-1 group-title="Test",🔗FOX CRICKET 501🏏🏏
-https://list.iptvcat.com/my_list/s/07795f44de39a6376504dda54a21e251.m3u8
-
-
-#EXTINF:-1 group-title="Test",🔗PTV SPORTS🏏🏏
-http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
-
-
-#EXTINF:-1 group-title="Test",🔗SUPER SPORTS VARIETY 2🏏🏏
-https://list.iptvcat.com/my_list/s/899aa1179fc569195f331320423026e9.m3u8
-
-#EXTINF:-1 group-title="Test",🔗WILLOW CRICKET🏏🏏
-https://list.iptvcat.com/my_list/s/ad880d382eb71c2fa999f9b9d1586452.m3u8
