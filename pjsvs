@@ -397,10 +397,95 @@ http://live.flixhub.net/hls/bbcearth.m3u8
 #EXTINF:-1 group-title="Flexhub", Nick
 http://live.flixhub.net/hls/nick.m3u8
 
+#EXTINF:-1 group-title="Flexhub",Bindaass 
+http://live.flixhub.net/hls/bindass.m3u8 
+
+#EXTINF:-1 group-title="Flexhub",Colors HD 
+http://live.flixhub.net/hls/colore-tv-hd.m3u8 
+
+#EXTINF:-1 group-title="Flexhub",Colors Cineplex 
+http://live.flixhub.net/hls/colorscineplex.m3u8 
+
+#EXTINF:-1 group-title="Flexhub",Sony Max 
+http://live.flixhub.net/hls/sonymax.m3u8 
+
+#EXTINF:-1 group-title="Flexhub",Sony Max HD 
+http://live.flixhub.net/hls/sony-maxhd.m3u8 
+
+#EXTINF:-1 group-title="Flexhub",Sony Entertainment 
+http://live.flixhub.net/hls/sonyen.m3u8 
+
+#EXTINF:-1 group-title="Flexhub",Star Gold HD 
+http://live.flixhub.net/hls/stargold.m3u8 
+
+#EXTINF:-1 group-title="Flexhub",Star Gold 2 HD 
+http://live.flixhub.net/hls/stargold2hd.m3u8 
+
+#EXTINF:-1 group-title="Flexhub",Star Plus HD 
+http://live.flixhub.net/hls/starplus.m3u8
+
+#EXTINF:-1 group-title="Flexhub",UTV Movies 
+http://live.flixhub.net/hls/utv.m3u8 
+
+#EXTINF:-1 group-title="Flexhub",UTV Action 
+http://live.flixhub.net/hls/utvaction.m3u8
+
+#EXTINF:-1 group-title="Flexhub",Zee Cinema HD 
+http://live.flixhub.net/hls/zeecinemahd.m3u8
+
+
+#EXTINF:-1 group-title="Flexhub",Zee TV HD 
+http://live.flixhub.net/hls/zeetv.m3u8
 
 
 
+######-------------4K--------------------------------
 
+#EXTINF:-1 group-title="4K" tvg-logo="https://i.imgur.com/oYYncnc.png" tvg-id="", Loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
+#EXTINF:-1 group-title="4K" tvg-logo="https://i.imgur.com/C9UDwli.png" tvg-id="", Clarity 4K
+https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClarityTV4K2-prod/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
+#EXTINF:-1 group-title="4K" tvg-logo="https://i.imgur.com/ufQEuaF.png" tvg-id="", Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
+#EXTINF:-1 group-title="4K" tvg-logo="https://i.imgur.com/oTPJYPO.png" tvg-id="", Bloomberg TV+ UHD
+https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Bloomberg/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
+
+
+
+############-------------------Music --------------------------------------
+
+
+#EXTINF:-1  group-title="Music",9X Music
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8 
+
+#EXTINF:-1  group-title="Music",B4U Music
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
+
+#EXTINF:-1  group-title="Music",MTV Beats (TATA PLAY)
+http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  group-title="Music",Music Masti
+http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  group-title="Music",Zoom music 
+http://live.flixhub.net/hls/zoom.m3u8
+
+#EXTINF:-1  group-title="Music",9X Jalwa
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
+
+#EXTINF:-1  group-title="Music",9X Jhakaas
+https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
+
+#EXTINF:-1  group-title="Music",Music India
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8 
+
+#EXTINF:-1  group-title="Music",MTV HD+
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
+ 
+ 
+ 
+ 
+ 
 ########--------------------------Local----------------------------------------------------
 
 
