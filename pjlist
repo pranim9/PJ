@@ -71,3 +71,130 @@ https://airtelindia.cf/sunnxt/sunnxt.m3u8?id=9029
 https://airtelindia.cf/sunnxt/sunnxt.m3u8?id=75117
 #EXTINF:-1 tvg-id="sun64067" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/64067/1000x1500_SunNews_64067_f3c5dac8-568f-415b-865d-3a0ce0c4336d.jpg", Sun News
 https://airtelindia.cf/sunnxt/sunnxt.m3u8?id=6406
+
+
+#####------------------------FlexHub-----------------------------------------
+
+#EXTINF:-1 group-title="Flexhub",T SPORTS HD
+http://live.flixhub.net/hls/t-sports.m3u8
+
+#EXTINF:-1 group-title="Flexhub",GAZI TV HD
+http://live.flixhub.net/hls/Gazi-TV.m3u8
+
+#EXTINF:-1 group-title="Flexhub",Star Sports1
+http://live.flixhub.net/hls/stersports1hd.m3u8
+
+#EXTINF:-1 group-title="Flexhub",Star Sports2
+http://live.flixhub.net/hls/starsports2.m3u8
+
+
+#EXTINF:-1 group-title="Flexhub",Star Sport Select1
+http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
+
+#EXTINF:-1 group-title="Flexhub",Star Sport Select2
+http://live.flixhub.net/hls/select2.m3u8
+
+
+#EXTINF:-1 group-title="Flexhub", Sony Six
+http://live.flixhub.net/hls/sonysix.m3u8
+
+#EXTINF:-1 group-title="Flexhub",Ten1
+http://live.flixhub.net/hls/sonyten1.m3u8
+
+#EXTINF:-1 group-title="Flexhub",Ten2
+http://live.flixhub.net/hls/sonyten2.m3u8
+
+#EXTINF:-1 group-title="Flexhub",Ten3
+http://live.flixhub.net/hls/sonyten3.m3u8
+
+#EXTINF:-1 group-title="Flexhub",Euro Sports
+http://live.flixhub.net/hls/euro.m3u8
+
+
+#EXTINF:-1 group-title="Flexhub",Pix Hd
+http://live.flixhub.net/hls/sonypixhd.m3u8
+
+#EXTINF:-1 group-title="Flexhub", Movies Now
+http://live.flixhub.net/hls/movies-now.m3u8
+
+#EXTINF:-1 group-title="Flexhub",Star Movies
+http://live.flixhub.net/hls/starmovies.m3u8
+
+#EXTINF:-1 group-title="Flexhub", Mn+
+http://live.flixhub.net/hls/mn+.m3u8
+
+#EXTINF:-1 group-title="Flexhub",Animal Planet
+http://live.flixhub.net/hls/animalplanent.m3u8
+
+#EXTINF:-1 group-title="Flexhub",Mnx Hd
+http://live.flixhub.net/hls/mnx-hd.m3u8
+
+#EXTINF:-1 group-title="Flexhub",Star World
+http://live.flixhub.net/hls/star-worldhd.m3u8
+
+#EXTINF:-1 group-title="Flexhub", Discovery Hd
+http://live.flixhub.net/hls/discovery.m3u8
+
+#EXTINF:-1 group-title="Flexhub",National Geo
+http://live.flixhub.net/hls/ngohd.m3u8
+
+#EXTINF:-1 group-title="Flexhub", BBC Earth
+http://live.flixhub.net/hls/bbcearth.m3u8
+
+#EXTINF:-1 group-title="Flexhub", Nick
+http://live.flixhub.net/hls/nick.m3u8
+
+#EXTINF:-1 group-title="Flexhub",Bindaass 
+http://live.flixhub.net/hls/bindass.m3u8 
+
+#EXTINF:-1 group-title="Flexhub",Colors HD 
+http://live.flixhub.net/hls/colore-tv-hd.m3u8 
+
+#EXTINF:-1 group-title="Flexhub",Colors Cineplex 
+http://live.flixhub.net/hls/colorscineplex.m3u8 
+
+#EXTINF:-1 group-title="Flexhub",Sony Max 
+http://live.flixhub.net/hls/sonymax.m3u8 
+
+#EXTINF:-1 group-title="Flexhub",Sony Max HD 
+http://live.flixhub.net/hls/sony-maxhd.m3u8 
+
+#EXTINF:-1 group-title="Flexhub",Sony Entertainment 
+http://live.flixhub.net/hls/sonyen.m3u8 
+
+#EXTINF:-1 group-title="Flexhub",Star Gold HD 
+http://live.flixhub.net/hls/stargold.m3u8 
+
+#EXTINF:-1 group-title="Flexhub",Star Gold 2 HD 
+http://live.flixhub.net/hls/stargold2hd.m3u8 
+
+#EXTINF:-1 group-title="Flexhub",Star Plus HD 
+http://live.flixhub.net/hls/starplus.m3u8
+
+#EXTINF:-1 group-title="Flexhub",UTV Movies 
+http://live.flixhub.net/hls/utv.m3u8 
+
+#EXTINF:-1 group-title="Flexhub",UTV Action 
+http://live.flixhub.net/hls/utvaction.m3u8
+
+#EXTINF:-1 group-title="Flexhub",Zee Cinema HD 
+http://live.flixhub.net/hls/zeecinemahd.m3u8
+
+
+#EXTINF:-1 group-title="Flexhub",Zee TV HD 
+http://live.flixhub.net/hls/zeetv.m3u8
+
+
+
+######-------------4K--------------------------------
+
+#EXTINF:-1 group-title="4K" tvg-logo="https://i.imgur.com/oYYncnc.png" tvg-id="", Loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
+#EXTINF:-1 group-title="4K" tvg-logo="https://i.imgur.com/C9UDwli.png" tvg-id="", Clarity 4K
+https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClarityTV4K2-prod/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
+#EXTINF:-1 group-title="4K" tvg-logo="https://i.imgur.com/ufQEuaF.png" tvg-id="", Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
+#EXTINF:-1 group-title="4K" tvg-logo="https://i.imgur.com/oTPJYPO.png" tvg-id="", Bloomberg TV+ UHD
+https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Bloomberg/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
+
+
