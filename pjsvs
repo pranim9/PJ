@@ -5,73 +5,72 @@
 ####--------------SunNxt---------------------
 
 
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/125944/200x200_SUNMarathi_125944_5e5a0ad1-23ed-4577-a331-791c6fa0e746.jpg" , Sun Marathi
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/125944.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg" , Sun TV HD
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg" group-title="SunNxt", Sun TV HD
 https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/14020.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9013/1000x1000_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg" , Sun Music HD
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9013/1000x1000_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg" group-title="SunNxt", Sun Music HD
 https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9013.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/38926/1000x1000_SunNews_38926_5921657d-45b6-445e-9e26-f0cd67be9d39.jpg" , Sun News
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/38926/1000x1000_SunNews_38926_5921657d-45b6-445e-9e26-f0cd67be9d39.jpg" group-title="SunNxt", Sun News
 https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/38926.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/75117/200x200_4b19b530-f0bb-4b26-a9de-f3cdd5f8be20.jpg" , Sun Bangla
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/75117/200x200_4b19b530-f0bb-4b26-a9de-f3cdd5f8be20.jpg" group-title="SunNxt", Sun Bangla
 https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/75117.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9016/1000x1000_4522d18b-56cc-42be-8365-c54e21a6e394.jpg" , Sun TV
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9016/1000x1000_4522d18b-56cc-42be-8365-c54e21a6e394.jpg" group-title="SunNxt", Sun TV
 https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9016.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26569/1000x1000_SunLife_26569_1e6604fc-2df9-4598-8f1c-dcbda46254ab.jpg" , Sun Life
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26569/1000x1000_SunLife_26569_1e6604fc-2df9-4598-8f1c-dcbda46254ab.jpg" group-title="SunNxt", Sun Life
 https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26569.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9025/1000x1000_c8897f06-b2c0-4856-9d81-02181b821cf7.jpg" , Sun Music
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9025/1000x1000_c8897f06-b2c0-4856-9d81-02181b821cf7.jpg" group-title="SunNxt", Sun Music
 https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9025.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" , Gemini TV HD
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="SunNxt", Gemini TV HD
 https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/14019.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26570/1000x1000_285efca5-02f3-40a1-8f8c-d913e8f6b989.jpg" , Gemini Movies HD
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26570/1000x1000_285efca5-02f3-40a1-8f8c-d913e8f6b989.jpg" group-title="SunNxt", Gemini Movies HD
 https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26570.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26568/1000x1000_eaa4e437-cce0-4411-8e46-13640be94c55.jpg" , Gemini Music HD
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26568/1000x1000_eaa4e437-cce0-4411-8e46-13640be94c55.jpg" group-title="SunNxt", Gemini Music HD
 https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26568.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9026/1000x1000_4cca05ef-46eb-4076-af6b-a8fdc1b88a27.jpg" , Gemini Music
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9026/1000x1000_4cca05ef-46eb-4076-af6b-a8fdc1b88a27.jpg" group-title="SunNxt", Gemini Music
 https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9026.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9015/1000x1000_a4023b29-e49b-4c98-9621-95b7e5c39a19.jpg" , Gemini Movies
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9015/1000x1000_a4023b29-e49b-4c98-9621-95b7e5c39a19.jpg" group-title="SunNxt", Gemini Movies
 https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9015.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26572/1000x1000_da07159f-fa9c-45d0-beb2-685bedc12e33.jpg" , Gemini Life
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26572/1000x1000_da07159f-fa9c-45d0-beb2-685bedc12e33.jpg" group-title="SunNxt", Gemini Life
 https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26572.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9027/1000x1000_5cb5b903-f1a0-4590-bb90-8cfa529322e2.jpg" , Gemini Comedy
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9027/1000x1000_5cb5b903-f1a0-4590-bb90-8cfa529322e2.jpg" group-title="SunNxt", Gemini Comedy
 https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9027.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9017/1000x1000_66d46fd1-643f-429f-9e19-db603fa0e5e4.jpg" , Gemini TV
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9017/1000x1000_66d46fd1-643f-429f-9e19-db603fa0e5e4.jpg" group-title="SunNxt", Gemini TV
 https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9017.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/30846/1000x1000_efb20223-e677-49fd-985e-806e7b162c6b.jpg" , Udaya TV HD
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/30846/1000x1000_efb20223-e677-49fd-985e-806e7b162c6b.jpg" group-title="SunNxt", Udaya TV HD
 https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/30846.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9029/1000x1000_9f0bcf68-5025-43af-8e60-b83fea67215c.jpg" , Udaya TV
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9029/1000x1000_9f0bcf68-5025-43af-8e60-b83fea67215c.jpg" group-title="SunNxt", Udaya TV
 https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9029.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9022/1000x1000_d85b4dcc-ad0c-4a5b-84fd-6dd91dc585e2.jpg" , Udaya Music
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9022/1000x1000_d85b4dcc-ad0c-4a5b-84fd-6dd91dc585e2.jpg" group-title="SunNxt", Udaya Music
 https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9022.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26576/1000x1000_4ad767d2-e5d7-45f2-a95a-ab99f56cc2bf.jpg" , Udaya Movies
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26576/1000x1000_4ad767d2-e5d7-45f2-a95a-ab99f56cc2bf.jpg" group-title="SunNxt", Udaya Movies
 https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26576.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9014/1000x1000_8a47fe5c-81a8-42a4-8a05-f168e6a3c868.jpg" , Udaya Comedy
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9014/1000x1000_8a47fe5c-81a8-42a4-8a05-f168e6a3c868.jpg" group-title="SunNxt", Udaya Comedy
 https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9014.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26574/1000x1000_6ed3be47-b8bf-45ee-adf1-fb5ae9621e08.jpg" , Surya TV HD
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26574/1000x1000_6ed3be47-b8bf-45ee-adf1-fb5ae9621e08.jpg" group-title="SunNxt", Surya TV HD
 https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26574.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9018/1000x1000_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg" , Surya TV
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9018/1000x1000_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg" group-title="SunNxt", Surya TV
 https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9018.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/30835/1000x1000_143a4af4-2f02-4c9c-814b-af149e6a5a95.jpg" , Surya Comedy
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/30835/1000x1000_143a4af4-2f02-4c9c-814b-af149e6a5a95.jpg" group-title="SunNxt", Surya Comedy
 https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/30835.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26575/1000x1000_a73efcfb-e350-491c-94e0-bd75f0d9d5f2.jpg" , Surya Music
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26575/1000x1000_a73efcfb-e350-491c-94e0-bd75f0d9d5f2.jpg" group-title="SunNxt", Surya Music
 https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26575.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg" , Surya Movies
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg" group-title="SunNxt", Surya Movies
 https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9019.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg" , KTV HD
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg" group-title="SunNxt", KTV HD
 https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26566.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/32138/1000x1000_84b30aac-654e-4dd5-b5ee-bd8204254735.jpg" , KTV
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/32138/1000x1000_84b30aac-654e-4dd5-b5ee-bd8204254735.jpg" group-title="SunNxt", KTV
 https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/32138.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26577/1000x1000_4a0f4f2f-e317-4230-9fb6-6169ef66991d.jpg" , Chintu TV
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26577/1000x1000_4a0f4f2f-e317-4230-9fb6-6169ef66991d.jpg" group-title="SunNxt", Chintu TV
 https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26577.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26571/1000x1000_d0545f75-f99b-4375-8f42-6120c95fc55c.jpg" , Kushi TV
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26571/1000x1000_d0545f75-f99b-4375-8f42-6120c95fc55c.jpg" group-title="SunNxt", Kushi TV
 https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26571.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26573/1000x1000_5787336f-08b9-480f-9c97-3db09999b558.jpg" , Kochu TV
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26573/1000x1000_5787336f-08b9-480f-9c97-3db09999b558.jpg" group-title="SunNxt", Kochu TV
 https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26573.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26567/1000x1000_c103e59e-217e-44fd-a087-651fcf8e6278.jpg" , Chutti TV
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26567/1000x1000_c103e59e-217e-44fd-a087-651fcf8e6278.jpg" group-title="SunNxt", Chutti TV
 https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26567.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_30878292-a63e-4414-acbc-902c0afb4b9b.jpg" , Adithya TV
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_30878292-a63e-4414-acbc-902c0afb4b9b.jpg" group-title="SunNxt", Adithya TV
 https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9023.m3u8
-
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/125944/200x200_SUNMarathi_125944_5e5a0ad1-23ed-4577-a331-791c6fa0e746.jpg" group-title="SunNxt", Sun Marathi
+https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/125944.m3u8
 
 
 
