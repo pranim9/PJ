@@ -1,25 +1,25 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="sun14020" group-title="" tvg-logo="https://sund-images.sunnxt.com/14020/1000x1500_SunTVHD_14020_6c8b0d77-dfb1-4456-8af8-6b219c28885d.jpg", Sun TV HD
-https://airtelindia.cf/sunnxt/sunnxt.m3u8?id=14020
+https://airtelindia.cf/sunnxt/sunnxt.m3u8?id=14020|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="sun38926" group-title="" tvg-logo="https://sund-images.sunnxt.com/38926/1000x1500_SunNews_38926_d9234353-be56-4e69-8bbd-c3b15378e7cb.jpg", Sun News
-https://airtelindia.cf/sunnxt/sunnxt.m3u8?id=38926
+https://airtelindia.cf/sunnxt/sunnxt.m3u8?id=38926|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="sun26566" group-title="" tvg-logo="https://sund-images.sunnxt.com/26566/1000x1500_KTVHD_26566_3f1d6cd3-6142-43b8-b78c-860477a91b90.jpg", KTV HD
-https://airtelindia.cf/sunnxt/sunnxt.m3u8?id=26566
+https://airtelindia.cf/sunnxt/sunnxt.m3u8?id=26566|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="sun9013" group-title="" tvg-logo="https://sund-images.sunnxt.com/9013/1000x1500_SunMusicHD_9013_a1f6d6ac-015b-4e0f-b756-bc331824e590.jpg", Sun Music HD
-https://airtelindia.cf/sunnxt/sunnxt.m3u8?id=9013
+https://airtelindia.cf/sunnxt/sunnxt.m3u8?id=9013|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="sun26569" group-title="" tvg-logo="https://sund-images.sunnxt.com/26569/1000x1500_SunLife_26569_b149631f-04c2-41f5-bb30-c23d0127336b.jpg", Sun Life
-https://airtelindia.cf/sunnxt/sunnxt.m3u8?id=26569
+https://airtelindia.cf/sunnxt/sunnxt.m3u8?id=26569|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="sun9023" group-title="" tvg-logo="https://sund-images.sunnxt.com/9023/1000x1500_AdithyaTV_9023_8d1754a9-b044-4782-9bf6-f8eec1c7a165.jpg", Adithya TV
-https://airtelindia.cf/sunnxt/sunnxt.m3u8?id=9023
+https://airtelindia.cf/sunnxt/sunnxt.m3u8?id=9023|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="sun26567" group-title="" tvg-logo="https://sund-images.sunnxt.com/26567/1000x1500_ChuttiTV_26567_f5c8f413-9a9c-4e75-ab9c-ae52e44230bf.jpg", Chutti TV
-https://airtelindia.cf/sunnxt/sunnxt.m3u8?id=26567
+https://airtelindia.cf/sunnxt/sunnxt.m3u8?id=26567|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="sun9016" group-title="" tvg-logo="https://sund-images.sunnxt.com/9016/1000x1500_SunTV_9016_2f6432cf-c588-4fe3-a7d8-76ca4abe64b4.jpg", Sun TV
-https://airtelindia.cf/sunnxt/sunnxt.m3u8?id=9016
+https://airtelindia.cf/sunnxt/sunnxt.m3u8?id=9016|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="sun32138" group-title="" tvg-logo="https://sund-images.sunnxt.com/32138/1000x1500_KTV_32138_d242116d-02e1-44d3-ae76-0e2096c8667d.jpg", KTV
-https://airtelindia.cf/sunnxt/sunnxt.m3u8?id=32138
+https://airtelindia.cf/sunnxt/sunnxt.m3u8?id=32138|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="sun9025" group-title="" tvg-logo="https://sund-images.sunnxt.com/9025/1000x1500_SunMusic_9025_ce616d71-a7be-4895-9c88-26f6fb8e796f.jpg", Sun Music
-https://airtelindia.cf/sunnxt/sunnxt.m3u8?id=9025
+https://airtelindia.cf/sunnxt/sunnxt.m3u8?id=9025|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="sun14019" group-title="" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1500_GeminiTVHD_14019_5fa8aaf5-5e27-464c-872c-7e1bf293cf93.jpg", Gemini TV HD
 https://airtelindia.cf/sunnxt/sunnxt.m3u8?id=14019
 #EXTINF:-1 tvg-id="sun26570" group-title="" tvg-logo="https://sund-images.sunnxt.com/26570/1000x1500_GeminiMoviesHD_26570_743fe85a-9e51-4507-b702-c63590daa3d2.jpg", Gemini Movies HD
