@@ -1,135 +1,10 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="",3 Tamil TV
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:-1 ,MON TAMIL TV
-http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
-#EXTINF:-1  tvg-logo="",Abinaya HD
-http://singamcloud.in:1935/purpletv/purpletv/playlist.m3u8
-#EXTINF:-1  tvg-logo="",Apple Digital
-http://singamcloud.in:1935/rasinetwork/appledigitel/playlist.m3u8
-#EXTINF:-1  tvg-logo="",AUS TAMIL
-https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
-#EXTINF:-1  tvg-logo="",Capital TV
-http://89.187.162.89/Capital_TV-LIVE/index.m3u8
-#EXTINF:-1  tvg-logo="",CTN TV
-http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8
-#EXTINF:-1  tvg-logo="",EET TV
-https://eu.streamjo.com/eetlive/eettv.m3u8?token=GTR
-https://live.streamjo.com/eetlive/eettv.m3u8
-#EXTINF:-1  tvg-logo="",Ezhil TV
-http://198.144.149.82:8080/NOTV/EZHILTV/index.m3u8?token=GTR
-#EXTINF:-1  tvg-logo="",GTA Tamil
-http://142.44.213.115:8888/gta_tamil/index.m3u8
-#EXTINF:-1  tvg-logo="",IBC Tamil
-https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
-#EXTINF:-1  tvg-logo="",Jawahar TV
-http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
-#EXTINF:-1  tvg-logo="",BELL TV
-http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/belltv123_low/index.m3u8
-#EXTINF:-1  tvg-logo="",MAYA TV
-http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/mayatv_low/index.m3u8
-#EXTINF:-1  tvg-logo="",JAYEM TV
-http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/jayamtvtvm_low/index.m3u8
-#EXTINF:-1  tvg-logo="",MN TV
-http://mntv.livebox.co.in/mntvhls/mntv.m3u8
-#EXTINF:-1  tvg-logo="",Palar TV
-http://account13.livebox.co.in/palartvhls/live.m3u8
-#EXTINF:-1  tvg-logo="",Sana TV
-http://7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
-#EXTINF:-1  tvg-logo="",Maa TV
-http://live.singamcloud.in:1935/maatv/maatv/playlist.m3u8
-#EXTINF:-1  tvg-logo="",VVN TV
-http://stream.singamcloud.in:1935/panchayathutv/panchayathutv/playlist.m3u8
-#EXTINF:-1  tvg-logo="",Krishna Media
-http://stream.singamcloud.in:1935/krishnamedia/krishnamedia/playlist.m3u8
-#EXTINF:-1  tvg-logo="",Kanchi TV
-http://198.144.149.82:8080/NOTV/KANCHITV/tracks-v1a1/mono.m3u8?token=GTR
-#EXTINF:-1  tvg-logo="",Aarya TV
-http://7starcloud.com:1935/aarya/aaryatv/playlist.m3u8
-#EXTINF:-1  tvg-logo="",Anbu TV
-http://nextgeninfotech.ddns.net:8080/anbu/anbu.m3u8
-#EXTINF:-1  tvg-logo="",MSN TV
-http://media.7starcloud.com:1935/msntv/live/playlist.m3u8
-#EXTINF:-1  tvg-logo="",Ram TV
-http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8
-#EXTINF:-1  tvg-logo="",Phoenix TV
-http://198.144.149.82:8080/NOTV/PHOENIXTV/index.m3u8?token=GTR
-#EXTINF:-1 ,Anu TV
-http://139.99.96.93:1935/anutv/anutv/mono.m3u8
-#EXTINF:-1 ,Tdcto TV
-http://139.99.96.93:1935/applemusic/applemusic/mono.m3u8
-#EXTINF:-1 ,Krishna TV
-http://51.79.158.179:1935/erodekrishnatv/livestream/mono.m3u8
-#EXTINF:-1 ,Durais TV
-http://51.79.158.179:1935/harimedia/duraistv/mono.m3u8
-#EXTINF:-1 ,Hari TV
-http://51.79.158.179:1935/harimedia/haritv/mono.m3u8
-#EXTINF:-1 ,Ram TV
-http://51.79.158.179:1935/harimedia/live5/mono.m3u8
-#EXTINF:-1 ,Sana TV 2
-http://51.79.158.179:1935/live/sanatv2/mono.m3u8
-#EXTINF:-1 ,MSN TV
-http://51.79.158.179:1935/msntv/live/mono.m3u8
-#EXTINF:-1 ,Thirumalai TV
-http://51.79.158.179:1935/tirumalaitv/stream/mono.m3u8
-#EXTINF:-1 ,Abinaya HD
-http://51.79.207.150:1935/purpletv/purpletv/mono.m3u8
-#EXTINF:-1 ,Apple Digital
-http://51.79.207.150:1935/rasinetwork/appledigitel/mono.m3u8
-#EXTINF:-1 ,Sachin Music
-http://51.79.207.150:1935/sachinmusichd/sachinmusichd/mono.m3u8
-#EXTINF:-1 ,SMS TV
-http://51.79.207.150:1935/smstvtsy/smstvtsy/mono.m3u8
-#EXTINF:-1 ,TTV
-http://51.79.207.150:1935/ttv/ttv/mono.m3u8
-#EXTINF:-1 ,Krishna Media
-http://51.195.220.104/krishnamedia/krishnamedia/mono.m3u8
-#EXTINF:-1 ,VVN TV
-http://51.195.220.104/panchayathutv/panchayathutv/mono.m3u8
-#EXTINF:-1 ,Aarya TV
-http://51.79.158.179:1935/aarya/aaryatv/mono.m3u8
-#EXTINF:-1 ,SS TV
-http://51.79.158.179:1935/live/sstv2/mono.m3u8
-#EXTINF:-1 ,N TV
-http://51.79.158.179:1935/ntv/live/mono.m3u8
-#EXTINF:-1 ,Prakalya TV
-http://51.79.158.179:1935/pragalya/pragalyatv/mono.m3u8
-#EXTINF:-1 ,Sana TV
-http://51.79.158.179:1935/sanatv/sanatv/mono.m3u8
-#EXTINF:-1 ,SD Media
-http://51.79.158.179:1935/sd/sdmedia/mono.m3u8
-#EXTINF:-1 ,JEYAM TV PLUS TAMIL
-http://198.144.149.82:8080/NOTV/JEYAMTVPLUS/index.m3u8?token=GTR
-#EXTINF:-1 ,Analai Express TV TAMIL
-http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
-#EXTINF:-1 ,Marutam tv
-https://mntv.livebox.co.in/mntvhls/mntv.m3u8
-#EXTINF:-1 ,Jawahar tv
-http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/chunklist_w1329828768.m3u8
-#EXTINF:-1 ,RCN TV
-https://5c75277727cd1.streamlock.net:443/rcntv/rcntv/playlist.m3u8
-#EXTINF:-1 ,Tirupur pragalya tv
-http://7starcloud.com:1935/pragalya/pragalyatv/playlist.m3u8
-#EXTINF:-1 ,Sooriyan TV
-http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
-#EXTINF:-1 ,IBC Tamil
-https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
-#EXTINF:-1 ,IBC Tamil Canada
-https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
-#EXTINF:-1 ,IBC ISAI
-https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
-#EXTINF:-1 ,IBC Comedy
-https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8
-#EXTINF:-1 ,MK Six
-http://14.199.164.20:4001/play/a0ks/index.m3u8
-#EXTINF:-1 ,MK TELEVISION
-http://14.199.164.20:4001/play/a0lh/index.m3u8
-#EXTINF:-1 ,MK TUNES
-http://14.199.164.20:4001/play/a0kr/index.m3u8
 
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG35713.png" tvg-id="", Sana TV
+http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG43856.png" tvg-id="", 3Tamil TV
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
-#EXTINF:-1 ,Sevenstar
-http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
 #EXTINF:-1 ,Sevenstarplus
 http://hdserver.7starcloud.com:1935/live/live/playlist.m3u8
 #EXTINF:-1 ",Sharvesh
@@ -154,3 +29,174 @@ http://singamcloud.in:1935/rasinetworks/rasitamil/chunklist_w442012745.m3u8
 http://singamcloud.in:1935/rasinetworks/rasitv/chunklist_w766878936.m3u8
 #EXTINF:-1 ,RASI MOVIES2
 http://singamcloud.in:1935/rasinetworks/rasimovies/chunklist_w37448986.m3u8
+
+
+
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG80573.png" tvg-id="", 7Star TV
+http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG58756.png" tvg-id="", Sharvesh 7Star TV
+http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG244.png" tvg-id="", 7STAR PLUS
+http://hdserver.7starcloud.com:1935/live/live/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG39297.png" tvg-id="", CTN 
+http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG5530.png" tvg-id="", Polimer Channel
+http://hdserver.7starcloud.com:1935/polimer/live/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG99048.png" tvg-id="", SS Varma TV
+http://hdserver.7starcloud.com:1935/ssvarmatv/ssvarmatv/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG28145.png" tvg-id="", TEN TV
+http://51.79.158.179:1935/tentv/tentv/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG34271.png" tvg-id="", Jawahar Channel
+http://hdserver.7starcloud.com:1935/jawaharchannel/livetv/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG40848.png" tvg-id="", Jawahar TV
+http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG18653.png" tvg-id="", SS TV
+http://hdserver.7starcloud.com:1935/live/ss/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG66942.png" tvg-id="", DEEPAM TV 
+http://hdserver.7starcloud.com:1935//live/deepam/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG9905.png" tvg-id="", Sana Plus
+http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG91933.png" tvg-id="", Ashoka Channel
+http://hdserver.7starcloud.com:1935/ashoka/channel/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG49043.png" tvg-id="", Ashoka Channel 2
+http://hdserver.7starcloud.com:1935/ashoka/channel2/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG32565.png" tvg-id="", Shalini TV
+https://gvjygr2jloem-hls-live.5centscdn.com/shalini/live.stream/chunks.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" tvg-id="", Vani TV
+http://hdserver.7starcloud.com:1935/vanitv/livemedia/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG95865.png" tvg-id="", S TV
+http://hdserver.7starcloud.com:1935/stv/live/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG97465.png" tvg-id="", SAR TV
+http://7starcloud.com:1935/live/sartv/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG69533.png" tvg-id="", Shree TV
+http://hdserver.7starcloud.com:1935/shree/tv/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" tvg-id="", N TV
+http://7starcloud.com:1935/ntv/live/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG3523.png" tvg-id="", MK Six
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" tvg-id="", CTN(Connor)
+http://bmlive.net:8000/ctn/ctn/bms.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG49462.png" tvg-id="", Polimer TV
+http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG90839.png" tvg-id="", AAKHASH TV
+http://hdserver.7starcloud.com:1935/live/bmstv/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG99767.png" tvg-id="", MADHIMUGAM TV
+http://51.79.158.179:1935/madhimugamtv/madhimugamtv/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG11646.png" tvg-id="", Prakalya TV
+http://7starcloud.com:1935/pragalya/pragalyatv/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" tvg-id="", ACN TV
+https://stream1.playbox.co.in:1936/babatv/babatv/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG53656.png" tvg-id="", SR MUSIX
+http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG66916.png" tvg-id="", Isai Saral
+http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG26501.png" tvg-id="", SS TV
+http://7starcloud.com:1935/live/sstv2/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG76890.png" tvg-id="", VAANAVIL TV
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG47835.png" tvg-id="", Sri Krishna TV
+http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG96815.png" tvg-id="", Nila TV
+http://hdserver.7starcloud.com:1935/nilatv/livetv/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG53779.png" tvg-id="", MSN TV
+http://media.7starcloud.com:1935/msntv/live/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG74398.png" tvg-id="", Sri Krishna TV(T.kode)
+http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG85725.png" tvg-id="", Arunai Tv
+http://7starcloud.com:1935/live/arunaitv/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG81454.png" tvg-id="", News Plus TV
+http://hdserver.7starcloud.com:1935/newsplus/live/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG26347.png" tvg-id="", DD PODHIGAI
+https://m-c15-j2apps.s.llnwi.net/hls/0250.DDPodhigai.in.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG18927.png" tvg-id="", RCN TV
+https://5c75277727cd1.streamlock.net:443/rcntv/rcntv/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG65772.png" tvg-id="", GTA TAMIL TV
+http://142.44.213.115:8888/gta_tamil/index.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG59189.png" tvg-id="", Captain TV
+http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG31950.png" tvg-id="", Hari TV
+http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG6334.png" tvg-id="", Vaanavil Plus
+http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" tvg-id="", Anuman TV
+http://media.7starcloud.com:1935/harimedia/anumantv/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" tvg-id="", Aarya TV
+http://7starcloud.com:1935/aarya/aaryatv/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG36575.png" tvg-id="", Udhayam TV
+http://media.7starcloud.com:1935/harimedia/live3/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG2227.png" tvg-id="", Bass TV
+http://hdserver.7starcloud.com:1935/basstv/live/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG93380.png" tvg-id="", Surya TV
+http://media.7starcloud.com:1935/suryatv/mystream/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG37758.png" tvg-id="", TUNES 6 MUSIC
+https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG93824.png" tvg-id="", Sai TV
+https://streaming37.worldbbtv.com/hls/saitv.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG61964.png" tvg-id="", SVBC TAMIUL
+https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" tvg-id="", SIVAN TV
+http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG67366.png" tvg-id="", IBC BAKTHI
+https://tx1.ibctamil.tv/CDN_IBC_Bhakthi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" tvg-id="", IBC SILUVAI
+https://tx1.ibctamil.tv/CDN_IBC_Siluvai/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG54067.png" tvg-id="", Imayam TV
+https://idvd.multitvsolution.com/idvo/imayamtv_540p/index.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG96716.png" tvg-id="", Chithiram TV
+https://m-c049-j2apps.s.llnwi.net/hls/0614.Chithiram.in_480p/index.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG57807.png" tvg-id="", Isai Aruvi
+http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG93564.png" tvg-id="", Moon TV
+https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG98289.png" tvg-id="", Vendhar TV
+https://m-c06-j2apps.s.llnwi.net/hls/7077.VendarTV.in_480p/index.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG51760.png" tvg-id="", IBC CANADA
+https://tx1.ibctamil.tv/CDN_IBC_Canada/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG43539.png" tvg-id="", IBC TAMIL
+https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG74540.png" tvg-id="", IBC KIDS
+https://tx1.ibctamil.tv/CDN_IBC_Kids/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG18482.png" tvg-id="", IBC COMEDY
+https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" tvg-id="", DAN COMEDY
+https://askmedia.livebox.co.in/DanComodyhls/9.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG39050.png" tvg-id="", IBC MUSIC
+https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG49141.png" tvg-id="", SHAKTHI TV
+http://88.150.197.10:1935/star-live/shakthi/chunklist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG40826.png" tvg-id="", TVI HD
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG40000.png" tvg-id="", DAN NEWS
+https://askmedia.livebox.co.in/DanNewshls/3.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG70178.png" tvg-id="", DAN TAMILOLI
+https://askmedia.livebox.co.in/DANTAMILOLIhls/1.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG71898.png" tvg-id="", Athavan TV
+http://45.77.66.224:1935/athavantv/live_360p/chunklist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" tvg-id="", D  JEYAM TV
+http://198.144.149.82:8080/NOTV/JEYAMTVCOVAI/tracks-v1a1/mono.m3u8?token=GTR
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG3887.png" tvg-id="", Vaigai TV
+http://account9.livebox.co.in/vaigaitvhls/live.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" tvg-id="", KING TV
+http://account26.livebox.co.in/kinghls/live.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" tvg-id="", DEEPAM TV 
+http://139.99.96.85:1935/stvs/livestream2/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" tvg-id="", V TV
+http://198.144.149.82:8080/NOTV/VTV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" tvg-id="", CITY TV
+http://streaming.livebox.co.in/citytvhls/live.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" tvg-id="", Nanban TV
+http://hdserver.7starcloud.com:1935/nanban/live/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG51065.png" tvg-id="", Vaanavil Plus
+https://server.iptelevision.in/hls/vanaviltv.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG36010.png" tvg-id="",  MK TV
+http://14.199.164.20:4001/play/a0lh/index.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" tvg-id="", PC TV
+http://pctv.livebox.co.in/pctvhls/live.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" tvg-id="", S TV
+http://139.99.96.85:1935/stvs/livestream/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG96639.png" tvg-id="", GTA TAMIL TV
+http://142.44.213.115:8888/gta_tamil/index.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" tvg-id="", Santhora Short Film
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
+#EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG15109.png" tvg-id="", EET TV
+https://live.streamjo.com/eetlive/eettv.m3u8
