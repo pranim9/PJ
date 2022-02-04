@@ -1,19 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png" group-title="",History TV18 HD Tamil
-https://airtelindia.cf/jiotv/m3u8.m3u8?c=History_18_Tamil
+https://airtelindia.cf/jiotv/m3u8.m3u8?c=History_18_Tamil|User-Agent=ExoPlayerLib/2.9.6
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Tamil.png" group-title="",Sony BBC Earth HD Tamil
-https://airtelindia.cf/jiotv/m3u8.m3u8?c=Sony_BBC_Earth_HD_Tamil
+https://airtelindia.cf/jiotv/m3u8.m3u8?c=Sony_BBC_Earth_HD_Tamil|User-Agent=ExoPlayerLib/2.9.6
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="",D Tamil
-https://airtelindia.cf/jiotv/m3u8.m3u8?c=Discovery_Channel_Tamil
+https://airtelindia.cf/jiotv/m3u8.m3u8?c=Discovery_Channel_Tamil|User-Agent=ExoPlayerLib/2.9.6
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png" group-title="",Animal Planet HD Tamil
-https://airtelindia.cf/jiotv/m3u8.m3u8?c=Animal_Planet_HD_Tamil
+https://airtelindia.cf/jiotv/m3u8.m3u8?c=Animal_Planet_HD_Tamil|User-Agent=ExoPlayerLib/2.9.6
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_Tamil.png" group-title="",Travel XP Tamil
-https://airtelindia.cf/jiotv/m3u8.m3u8?c=Travel_XP_Tamil
+https://airtelindia.cf/jiotv/m3u8.m3u8?c=Travel_XP_Tamil|User-Agent=ExoPlayerLib/2.9.6
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="",Colors Tamil HD
 https://airtelindia.cf/jiotv/m3u8.m3u8?c=Colors_Tamil_HD
