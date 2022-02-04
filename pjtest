@@ -20,58 +20,11 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m
 #EXTINF:-1 group-title="Test",Travelxp
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Test",T SPORTS HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; M2010J19SG Build/QKQ1.200830.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4664.104 Mobile Safari/537.36 Vinebre
-http://live.flixhub.net/hls/t-sports.m3u8
-
-#EXTINF:-1 group-title="Test",GAZI TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; M2010J19SG Build/QKQ1.200830.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4664.104 Mobile Safari/537.36 Vinebre
-http://live.flixhub.net/hls/Gazi-TV.m3u8
-
-#EXTINF:-1 group-title="Test",Star Sport1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; M2010J19SG Build/QKQ1.200830.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4664.104 Mobile Safari/537.36 Vinebre
-http://live.flixhub.net/hls/stersports1hd.m3u8
-
-#EXTINF:-1 group-title="Test",Star Sport Select1HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; M2010J19SG Build/QKQ1.200830.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4664.104 Mobile Safari/537.36 Vinebre
-http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
-
-#EXTINF:-1 group-title="Test", Sony Six
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; M2010J19SG Build/QKQ1.200830.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4664.104 Mobile Safari/537.36 Vinebre
-http://live.flixhub.net/hls/sonysix.m3u8
-
-#EXTINF:-1 group-title="Test",Ten1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; M2010J19SG Build/QKQ1.200830.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4664.104 Mobile Safari/537.36 Vinebre
-http://live.flixhub.net/hls/sonyten1.m3u8
-
-#EXTINF:-1 group-title="Test",Pixhd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; M2010J19SG Build/QKQ1.200830.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4664.104 Mobile Safari/537.36 Vinebre
-http://live.flixhub.net/hls/sonypixhd.m3u8
-
-#EXTINF:-1 group-title="Test", Movies Now
-http://live.flixhub.net/hls/movies-now.m3u8
-
-#EXTINF:-1 group-title="Test",Star Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; M2010J19SG Build/QKQ1.200830.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4664.104 Mobile Safari/537.36 Vinebre
-http://live.flixhub.net/hls/starmovies.m3u8
-
-#EXTINF:-1 group-title="Test", Mn+
-http://live.flixhub.net/hls/mn+.m3u8
-
-#EXTINF:-1 group-title="Test",Animal Planet
-http://live.flixhub.net/hls/animalplanent.m3u8
-
-#EXTINF:-1 group-title="Test",Mnx Hd
-http://live.flixhub.net/hls/mnx-hd.m3u8
-
-#EXTINF:-1 group-title="Test",Star World
-http://live.flixhub.net/hls/star-worldhd.m3u8
-
-#EXTINF:-1 group-title="Test", Discovery Hd
-http://live.flixhub.net/hls/discovery.m3u8
-
-#EXTINF:-1 group-title="Test",National Geo
-http://live.flixhub.net/hls/ngohd.m3u8
-
-#EXTINF:-1 group-title="Test", Nick
-http://live.flixhub.net/hls/nick.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" , MTV HD Plus
+https://livevoot-i.akamaihd.net/dash/live/828545/mtvhd/master.mpd
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" , MTV HD Plus
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=MTV_HD_Plus&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" , MTV HD Plus
+https://livevoot-i.akamaihd.net/dash/live/828545/mtvhd/master.mpd
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" , MTV Beats HD
+https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
