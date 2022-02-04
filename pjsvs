@@ -669,10 +669,10 @@ http://thoptv.in1.bitmana.io/jioo.php?c=Zee_TV_HD&q=800&e=.m3u8
 https://tvstream.fun/jtv/m3uu8.php?c=Colors_HD&q=800&e=ishanjtv.m3u8
 
 #EXTINF:-1 group-title="Test",Sun Tv
-http://dream8k.pro:80/play/eAgAsmhYbwk-SqJ7_2zf8HKx2pkSnkOBzEOYY1rW2T4
+http://dream8k.pro:80/play/eAgAsmhYbwk-SqJ7_2zf8HKx2pkSnkOBzEOYY1rW2T4|User-Agent=ExoPlayerLib/2.9.6
 
 #EXTINF:-1 group-title="Test",K TV
-http://dream8k.pro:80/play/eAgAsmhYbwk-SqJ7_2zf8DHeKQ9tY3pmFGt1BV4-Tk8
+http://dream8k.pro:80/play/eAgAsmhYbwk-SqJ7_2zf8DHeKQ9tY3pmFGt1BV4-Tk8|User-Agent=ExoPlayerLib/2.9.6
 
 #EXTINF:-1 group-title="Test",Zethirai
-http://dream8k.pro:80/play/eAgAsmhYbwk-SqJ7_2zf8KuTY4_44iCNwHNbYrsLyfk
+http://dream8k.pro:80/play/eAgAsmhYbwk-SqJ7_2zf8KuTY4_44iCNwHNbYrsLyfk|User-Agent=ExoPlayerLib/2.9.6
