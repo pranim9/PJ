@@ -18,3 +18,57 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 group-title="Test",Travelxp
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
+
+
+
+
+#######---------------------------------------
+
+
+
+#EXTINF:-1 timeshift="7" xui-id="20019" tvg-id="colorstamilhd.in" tvg-name="IN-TM | D2H COLORS FHD" tvg-logo="http://webo.asia/logos/colors-tamil-in-uk.png" group-title="[ IN ] TAMIL",IN-TM | D2H COLORS FHD
+http://dream8k.pro:80/play/eOkPHmRX3pm1X9o_DlJ7MpK8YHHJfoWNlOPEJxPOSDU/ts
+#EXTINF:-1 xui-id="17471" tvg-id="colorstamilhd.in" tvg-name="IN-TM | TS COLORS FHD" tvg-logo="http://webo.asia/logos/colors-tamil-in-uk.png" group-title="[ IN ] TAMIL",IN-TM | TS COLORS FHD
+http://dream8k.pro:80/play/eOkPHmRX3pm1X9o_DlJ7MoynPadyFYP1reCtkq7Yug4/ts
+#EXTINF:-1 xui-id="164444" tvg-id="colorstamilhd.in" tvg-name="IN-TM | AT COLORS TAMIL FHD" tvg-logo="http://webo.asia/logos/colors-tamil-in-uk.png" group-title="[ IN ] TAMIL",IN-TM | AT COLORS TAMIL FHD
+http://dream8k.pro:80/play/eOkPHmRX3pm1X9o_DlJ7MvsvbN1FtCgY7N9fbJLwWoI/ts
+#EXTINF:-1 timeshift="7" xui-id="16572" tvg-id="zeetamilhd.in" tvg-name="IN-TM | TS ZEE TV FHD" tvg-logo="http://webo.asia/logos/zee-tamil-hd-logo-300x300.jpg" group-title="[ IN ] TAMIL",IN-TM | TS ZEE TV FHD
+http://dream8k.pro:80/play/eOkPHmRX3pm1X9o_DlJ7MnuDbzUQT1UVQ7R16KfSwT4/ts
+#EXTINF:-1 xui-id="164442" tvg-id="zeetamilhd.in" tvg-name="IN-TM | D2H ZEE TAMIL FHD" tvg-logo="" group-title="[ IN ] TAMIL",IN-TM | D2H ZEE TAMIL FHD
+http://dream8k.pro:80/play/eOkPHmRX3pm1X9o_DlJ7Mik3um4dhDJcuIKlgLT-Fog/ts
+#EXTINF:-1 timeshift="7" xui-id="161847" tvg-id="starvijay.in" tvg-name="IN-TM | D2H STAR VIJAY FHD" tvg-logo="" group-title="[ IN ] TAMIL",IN-TM | D2H STAR VIJAY FHD
+http://dream8k.pro:80/play/eOkPHmRX3pm1X9o_DlJ7Mk_7m6d1J-BMM8MZkY_Ci6E/ts
+#EXTINF:-1 xui-id="8536" tvg-id="starvijay.in" tvg-name="IN-TM | TS STAR VIJAY FHD" tvg-logo="http://b1g.me:80/images/6a01347edab72bc28d97b1fe592de916.png" group-title="[ IN ] TAMIL",IN-TM | TS STAR VIJAY FHD
+http://dream8k.pro:80/play/eOkPHmRX3pm1X9o_DlJ7Mma7uj-S5cAu11i-WKV4dJc/ts
+#EXTINF:-1 xui-id="164443" tvg-id="vijaysuper.in" tvg-name="IN-TM | D2H VIJAY SUPER" tvg-logo="" group-title="[ IN ] TAMIL",IN-TM | D2H VIJAY SUPER
+http://dream8k.pro:80/play/eOkPHmRX3pm1X9o_DlJ7Ml2xr0NFnx3-mif2c5e5o2M/ts
+#EXTINF:-1 xui-id="8494" tvg-id="suntvhd.in" tvg-name="IN-TM | TS SUN TV FHD" tvg-logo="http://webo.asia/logos/38f12b49871e9e0d38c0c82dd232c0e6.png" group-title="[ IN ] TAMIL",IN-TM | TS SUN TV FHD
+http://dream8k.pro:80/play/eOkPHmRX3pm1X9o_DlJ7Mgj0i8-LE34zmz2PpZZ_A3I/ts
+#EXTINF:-1 timeshift="7" xui-id="161944" tvg-id="suntvhd.in" tvg-name="IN-TM | D2H SUN TV FHD" tvg-logo="" group-title="[ IN ] TAMIL",IN-TM | D2H SUN TV FHD
+http://dream8k.pro:80/play/eOkPHmRX3pm1X9o_DlJ7MmnZfjU7216ce-RVXp9jk4U/ts
+#EXTINF:-1 xui-id="20797" tvg-id="sunlife.in" tvg-name="IN-TM | SUN LIFE" tvg-logo="http://webo.asia/logos/sun_life.png" group-title="[ IN ] TAMIL",IN-TM | SUN LIFE
+http://dream8k.pro:80/play/eOkPHmRX3pm1X9o_DlJ7MquX4M6nqTE2SkXlk6V3EYM/ts
+#EXTINF:-1 xui-id="164445" tvg-id="sunlife.in" tvg-name="IN-TM | D2H SUN LIFE" tvg-logo="" group-title="[ IN ] TAMIL",IN-TM | D2H SUN LIFE
+http://dream8k.pro:80/play/eOkPHmRX3pm1X9o_DlJ7MocHvTf5PEq8VynnX-kMf6A/ts
+#EXTINF:-1 xui-id="8495" tvg-id="sunmusichd.in" tvg-name="IN-TM | SUN MUSIC HD" tvg-logo="http://webo.asia/logos/636928288240842877_sun-music-hd.png" group-title="[ IN ] TAMIL",IN-TM | SUN MUSIC HD
+http://dream8k.pro:80/play/eOkPHmRX3pm1X9o_DlJ7MqZwlt25HHAdNLNLDI60lPk/ts
+#EXTINF:-1 xui-id="161943" tvg-id="sunmusichd.in" tvg-name="IN-TM | D2H SUN MUSIC FHD" tvg-logo="" group-title="[ IN ] TAMIL",IN-TM | D2H SUN MUSIC FHD
+http://dream8k.pro:80/play/eOkPHmRX3pm1X9o_DlJ7MrUdZ4x8bk9kZ1IX9qy34ZQ/ts
+#EXTINF:-1 xui-id="20796" tvg-id="sunnews.in" tvg-name="IN-TM | SUN NEWS" tvg-logo="http://webo.asia/logos/sunnews.png" group-title="[ IN ] TAMIL",IN-TM | SUN NEWS
+http://dream8k.pro:80/play/eOkPHmRX3pm1X9o_DlJ7Mk96Ucqv7TUXgmy_uyUyh_A/ts
+#EXTINF:-1 xui-id="58992" tvg-id="6.in" tvg-name="IN-TM |  TVI" tvg-logo="http://webo.asia/logos/picture.png" group-title="[ IN ] TAMIL",IN-TM |  TVI
+http://dream8k.pro:80/play/eOkPHmRX3pm1X9o_DlJ7Moh6nxbzuDDU7Rto9TCR51E/ts
+#EXTINF:-1 xui-id="58940" tvg-id="" tvg-name="IN-TM | IBC CANADA (INTL)" tvg-logo="http://b1g.me:80/images/99bcfab8ecb6cd785bf08f2a4147fa06.png" group-title="[ IN ] TAMIL",IN-TM | IBC CANADA (INTL)
+http://dream8k.pro:80/play/eOkPHmRX3pm1X9o_DlJ7Moz_23g4pgmYKCd0qLdgKLo/ts
+#EXTINF:-1 xui-id="58939" tvg-id="ibc24.in" tvg-name="IN-TM | IBC INTL" tvg-logo="https://media-exp1.licdn.com/dms/image/C510BAQGams2v3oVr_g/company-logo_200_200/0?e=2159024400&v=beta&t=7XOfZsixVaVFUTagAPCXXGovmQxdK6cN-2yEIaJ1ii0" group-title="[ IN ] TAMIL",IN-TM | IBC INTL
+http://dream8k.pro:80/play/eOkPHmRX3pm1X9o_DlJ7MiRF_mTvJW_sxyepeEiaPSY/ts
+#EXTINF:-1 xui-id="58941" tvg-id="" tvg-name="IN-TM | IBC COMEDY" tvg-logo="http://b1g.me:80/images/1257945373a8bbf0c28f4509e5f9d86d.png" group-title="[ IN ] TAMIL",IN-TM | IBC COMEDY
+http://dream8k.pro:80/play/eOkPHmRX3pm1X9o_DlJ7Mlp1mFbSpFax3kSM3jVpYKE/ts
+#EXTINF:-1 xui-id="58993" tvg-id="" tvg-name="IN-TM | IBC KIDS" tvg-logo="http://b1g.me:80/images/3c0b850404a9873b73f1298868404d66.png" group-title="[ IN ] TAMIL",IN-TM | IBC KIDS
+http://dream8k.pro:80/play/eOkPHmRX3pm1X9o_DlJ7MtA-nIkcq3DsmtkcjphXge8/ts
+#EXTINF:-1 xui-id="58994" tvg-id="1sports.in" tvg-name="IN-TM | IBC MUSIC" tvg-logo="http://b1g.me:80/images/8064ffc9151ffe9eaee97c144ba806a0.png" group-title="[ IN ] TAMIL",IN-TM | IBC MUSIC
+http://dream8k.pro:80/play/eOkPHmRX3pm1X9o_DlJ7MgZ-DWfJOwMXth_M-D65IgE/ts
+#EXTINF:-1 xui-id="58995" tvg-id="1sports.in" tvg-name="IN-TM | IBC ISAI" tvg-logo="http://b1g.me:80/images/42abf0593d616b859a1cf62db1cfe62c.png" group-title="[ IN ] TAMIL",IN-TM | IBC ISAI
+http://dream8k.pro:80/play/eOkPHmRX3pm1X9o_DlJ7MoN1cIqPkoCEKOlvWoi0mdU/ts
+#EXTINF:-1 xui-id="21140" tvg-id="angeltv.in" tvg-name="IN-TM | ANGEL TV HD" tvg-logo="http://webo.asia/logos/angel_tv.png" group-title="[ IN ] TAMIL",IN-TM | ANGEL TV HD
+http://dream8k.pro:80/play/eOkPHmRX3pm1X9o_DlJ7MgsmIQNcFKME6XKZxFED4rU/ts
