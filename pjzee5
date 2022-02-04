@@ -1,14 +1,14 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="0-9-zeetamil" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zeetamil/channel_list/1170x6581250786368.png", Zee Tamil HD
-https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-zeetamil
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-zeetamil|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="0-9-224" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-224/channel_list/1170x658withlogo_334138193.png", Zee Thirai
-https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-224
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-224|User-Agent=ExoPlayerLib/2.9.6
 
 #EXTINF:-1 tvg-id="0-9-24ghantatv" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-24ghantatv/channel_list/anchorbanners117074b09be61e5a4f27b38cbbdc9527fc02.png", 24 Ghanta
-https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-24ghantatv
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-24ghantatv|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="0-9-zeenews" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zeenews/channel_list/zeenews117058a10e260ccf453885b0b866b6efcf8c.png", Zee News
-https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-zeenews
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-zeenews|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="0-9-162" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-162/channel_list/anchorbanners11704f82e6a64233425f9ccc065f88214e34.png", Republic Bharat
 https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-162
 #EXTINF:-1 tvg-id="0-9-170" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-170/channel_list/newsnation1170c28d164cac8b46d48dd03c24f22a2611.png", News Nation
