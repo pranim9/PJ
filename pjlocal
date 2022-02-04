@@ -1,45 +1,45 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG35713.png" tvg-id="", Sana TV
-http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
+http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 group-title="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG43856.png" tvg-id="", 3Tamil TV
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
 
 #EXTINF:-1 ,Sevenstarplus
-http://hdserver.7starcloud.com:1935/live/live/playlist.m3u8
+http://hdserver.7starcloud.com:1935/live/live/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 ",Sharvesh
-http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
+http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 ,Rasi Lifestyle
-http://singamcloud.in:1935/rasinetwork/cookings/playlist.m3u8
+http://singamcloud.in:1935/rasinetwork/cookings/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 ,RASI TV
-http://singamcloud.in:1935/rasinetworks/rasitv/playlist.m3u8
+http://singamcloud.in:1935/rasinetworks/rasitv/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 ,RASI TAMIL
-http://singamcloud.in:1935/rasinetworks/rasitamil/playlist.m3u8
+http://singamcloud.in:1935/rasinetworks/rasitamil/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 ,RASI MUSIC
-http://singamcloud.in:1935/rasinetworks/rasimusic/playlist.m3u8
+http://singamcloud.in:1935/rasinetworks/rasimusic/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 ,RASI MOVIES
-http://singamcloud.in:1935/rasinetworks/rasimovies/playlist.m3u8
+http://singamcloud.in:1935/rasinetworks/rasimovies/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 ,RASI HOLLYWOOD
-http://singamcloud.in:1935/rasinetworks/rasihollywood/playlist.m3u8
+http://singamcloud.in:1935/rasinetworks/rasihollywood/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 ,RASI CASSIC
-http://singamcloud.in:1935/rasinetworks/rasiclassic/playlist.m3u8
+http://singamcloud.in:1935/rasinetworks/rasiclassic/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 ,RASI TAMIL2
-http://singamcloud.in:1935/rasinetworks/rasitamil/chunklist_w442012745.m3u8
+http://singamcloud.in:1935/rasinetworks/rasitamil/chunklist_w442012745.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 ,RASI TV2
-http://singamcloud.in:1935/rasinetworks/rasitv/chunklist_w766878936.m3u8
+http://singamcloud.in:1935/rasinetworks/rasitv/chunklist_w766878936.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 ,RASI MOVIES2
-http://singamcloud.in:1935/rasinetworks/rasimovies/chunklist_w37448986.m3u8
+http://singamcloud.in:1935/rasinetworks/rasimovies/chunklist_w37448986.m3u8|User-Agent=ExoPlayerLib/2.9.6
 
 
 
 #EXTINF:-1 group-title="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG80573.png" tvg-id="", 7Star TV
-http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
+http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 group-title="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG58756.png" tvg-id="", Sharvesh 7Star TV
-http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
+http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 group-title="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG244.png" tvg-id="", 7STAR PLUS
-http://hdserver.7starcloud.com:1935/live/live/playlist.m3u8
+http://hdserver.7starcloud.com:1935/live/live/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 group-title="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG39297.png" tvg-id="", CTN 
-http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8
+http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 group-title="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG5530.png" tvg-id="", Polimer Channel
 http://hdserver.7starcloud.com:1935/polimer/live/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG99048.png" tvg-id="", SS Varma TV
