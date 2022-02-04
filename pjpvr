@@ -213,3 +213,25 @@ https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 #EXTINF: -1 tvg-id="525" tvg-logo="https://i.imgur.com/s1jdNAS.png" group-title="SonyLiv",Sony Liv Feed
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; M2010J19SG Build/QKQ1.200830.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4664.104 Mobile Safari/537.36 Vinebre
 https://pubads.g.doubleclick.net/ssai/event/OTz3QN8XQ7KzSvdh3uSfKw/master.m3u8
+
+
+########--------- Test---------------------
+
+
+#EXTINF:-1 group-title="Test",Hungama Hits
+https://live.hungama.com/linear/dil-se/playlist_720p/index.m3u8 
+
+#EXTINF:-1 group-title="Test",Fox News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+
+#EXTINF:-1 group-title="Test",Sun Music
+http://uk1.zecast.com:1935/star-live/smusic/chunklist_w2139407510.m3u8
+
+#EXTINF:-1 group-title="Test",Travelxp
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/C9UDwli.png" tvg-id="", Clarity 4K
+https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClarityTV4K2-prod/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
+
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/ufQEuaF.png" tvg-id="", Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
