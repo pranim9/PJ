@@ -124,3 +124,35 @@ https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 group-title="4K" tvg-logo="https://i.imgur.com/oTPJYPO.png" tvg-id="", Bloomberg TV+ UHD
 https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Bloomberg/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
+
+
+
+############-------------------Music --------------------------------------
+
+
+#EXTINF:-1  group-title="Music",9X Music
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8 
+
+#EXTINF:-1  group-title="Music",B4U Music
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
+
+#EXTINF:-1  group-title="Music",MTV Beats (TATA PLAY)
+http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  group-title="Music",Music Masti
+http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  group-title="Music",Zoom music 
+http://live.flixhub.net/hls/zoom.m3u8
+
+#EXTINF:-1  group-title="Music",9X Jalwa
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
+
+#EXTINF:-1  group-title="Music",9X Jhakaas
+https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
+
+#EXTINF:-1  group-title="Music",Music India
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8 
+
+#EXTINF:-1  group-title="Music",MTV HD+
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
