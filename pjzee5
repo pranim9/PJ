@@ -1,28 +1,339 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetamil/channel_web/1170x658_1250786368.png",Zee Tamil HD
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=zeetamil
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-224/channel_web/1170x658withlogo_334138193.png",Zee Thirai
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=224
+#EXTINF:-1 tvg-id="0-9-zeetamil" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zeetamil/channel_list/1170x6581250786368.png", Zee Tamil HD
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-zeetamil
+#EXTINF:-1 tvg-id="0-9-224" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-224/channel_list/1170x658withlogo_334138193.png", Zee Thirai
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-224
 
-
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zing/channel_web/1170x658withlogo_895666865.png",Zing
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=zing
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-133/channel_web/1170x658withlog_1438225875.png",9X Jalwa
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=133
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-131/channel_web/1170x658withlog_2074233892.png",9XM
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=131
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-134/channel_web/1170x658withlog_1510286564.png",9X Jhakaas
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=134
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-132/channel_web/1170x658withlogo_790675165.png",9X Tashan
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=132
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-296/channel_web/1170x658_419268810.png",Non-stop EDM
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=296
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-298/channel_web/1170x658psd_1468258188.png",Local Vocal
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=298
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-353/channel_web/1170x658withlog_1434429781.png",Zee Vajwa
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=353
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-375/channel_web/1170x658withlogo_976067553.png",Haryanvi Hits
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=375
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-376/channel_web/1170x658withlog_1062825349.png",Wah Punjabi
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=376
+#EXTINF:-1 tvg-id="0-9-24ghantatv" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-24ghantatv/channel_list/anchorbanners117074b09be61e5a4f27b38cbbdc9527fc02.png", 24 Ghanta
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-24ghantatv
+#EXTINF:-1 tvg-id="0-9-zeenews" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zeenews/channel_list/zeenews117058a10e260ccf453885b0b866b6efcf8c.png", Zee News
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-zeenews
+#EXTINF:-1 tvg-id="0-9-162" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-162/channel_list/anchorbanners11704f82e6a64233425f9ccc065f88214e34.png", Republic Bharat
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-162
+#EXTINF:-1 tvg-id="0-9-170" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-170/channel_list/newsnation1170c28d164cac8b46d48dd03c24f22a2611.png", News Nation
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-170
+#EXTINF:-1 tvg-id="0-9-aajtak" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-aajtak/channel_list/aajtak117075e453cde75a4fcbbd98b890266dcb21.png", Aaj Tak
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-aajtak
+#EXTINF:-1 tvg-id="0-9-306" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-306/channel_list/vendhartv1170ea466f03c5984481876c4200bd6bb22d.png", Vendhar TV
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-306
+#EXTINF:-1 tvg-id="0-9-258" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-258/channel_list/tv9telugu117006600b0482a24377bec3b6b67e0b48c9.png", TV9 Telugu
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-258
+#EXTINF:-1 tvg-id="0-9-222" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-222/channel_list/1170x658withlogo273514222953081f2a5264d2199171a94a0135187.png", TV5 News
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-222
+#EXTINF:-1 tvg-id="0-9-indiatoday" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-indiatoday/channel_list/indiatodayrajeevsardesdai117023f79b66b4d4466ea52534491c162c35.png", India Today
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-indiatoday
+#EXTINF:-1 tvg-id="0-9-257" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-257/channel_list/tv9marathi1170c5bded27d1644b18a5624c7dd3c33d3b.png", TV9 Marathi
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-257
+#EXTINF:-1 tvg-id="0-9-270" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-270/channel_list/saamtv117064848316bfb4424ab360060c0214cec9.png", Saam TV
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-270
+#EXTINF:-1 tvg-id="0-9-zeepunjabharyanahima" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zeepunjabharyanahima/channel_list/zphh14405b673f1d0f8a43969c82a3c67dff3dad.png", Zee Punjab Haryana Himachal Pradesh
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-zeepunjabharyanahima
+#EXTINF:-1 tvg-id="0-9-203" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-203/channel_list/polimer11704b7b60ab1a0b45e0a5e0fbe88f5089a0.png", Polimer News
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-203
+#EXTINF:-1 tvg-id="0-9-282" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-282/channel_list/indiatv1170598b3b1a8dde4800bcff6b4bc7ec02cc.png", India TV
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-282
+#EXTINF:-1 tvg-id="0-9-zeebusiness" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zeebusiness/channel_list/zeebusiness117088d767ebaf91485992201f5422d49bb1.png", Zee Business
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-zeebusiness
+#EXTINF:-1 tvg-id="0-9-251" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-251/channel_list/tv9bharatvarshb1170e3167ef254394aa0b6ff7a978bdbc921.png", TV9 Bharatvarsh
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-251
+#EXTINF:-1 tvg-id="0-9-206" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-206/channel_list/e24newslogob1170d070a62b9582496dbaaf4a73a3430376.png", News24
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-206
+#EXTINF:-1 tvg-id="0-9-channel_1422341819" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-channel_1422341819/channel_list/rtv11708043efd184cc497facd3cc4387cbb108.png", Republic TV
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-channel_1422341819
+#EXTINF:-1 tvg-id="0-9-260" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-260/channel_list/tv9gujarati1170f3923ce988484dd0a81cd0bec994e377.png", TV9 Gujarati
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-260
+#EXTINF:-1 tvg-id="0-9-zee24kalak" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zee24kalak/channel_list/zee24kalak117026f0ebf7a57941d79fd9fdd74a2d6f26.png", Zee 24 Kalak
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-zee24kalak
+#EXTINF:-1 tvg-id="0-9-259" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-259/channel_list/tv9kannada1170035730f6801c4ba0b1d905a61bbc9dcd.png", TV9 Kannada
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-259
+#EXTINF:-1 tvg-id="0-9-201" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-201/channel_list/1170x658_503553443.png", Suvarna News
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-201
+#EXTINF:-1 tvg-id="0-9-zee24taas" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zee24taas/channel_list/zee24taas11707d845042f4ef453a8568b6ba22b3f568.png", Zee 24 Taas
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-zee24taas
+#EXTINF:-1 tvg-id="0-9-255" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-255/channel_list/gnt11709b84a70ae43a4fcab837620b97c80f5f.png", Good News Today
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-255
+#EXTINF:-1 tvg-id="0-9-wion" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-wion/channel_list/wion117087793a1cce2d4dcaa4274d5bfc6d5a96.png", WION
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-wion
+#EXTINF:-1 tvg-id="0-9-zeehindustan" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zeehindustan/channel_list/zeehindustan1170c974f81944ad44988a3177ac8d927916.png", Zee Hindustan
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-zeehindustan
+#EXTINF:-1 tvg-id="0-9-zeebiharjharkhand" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zeebiharjharkhand/channel_list/zeebiharjharkhandb117099e2787548354a5abd1c2230a5bee898.png", Zee Bihar Jharkhand
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-zeebiharjharkhand
+#EXTINF:-1 tvg-id="0-9-171" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-171/channel_list/newsstateuttarpradeshuttrakhand117057fc4c96dc444886b421570253e13a6a.png", News State Uttar Pradesh Uttrakhand
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-171
+#EXTINF:-1 tvg-id="0-9-207" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-207/channel_list/09207e24_list.png", E24
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-207
+#EXTINF:-1 tvg-id="0-9-zeekalinganews" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zeekalinganews/channel_list/zeeodisha11707ef6fbab0159428bbe1a3196370fa851.png", Zee Odisha
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-zeekalinganews
+#EXTINF:-1 tvg-id="0-9-zeerajasthannews" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zeerajasthannews/channel_list/zeerajasthanb1170751ba3f9900e44b9a49f06e4e37042db.png", Zee Rajasthan News
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-zeerajasthannews
+#EXTINF:-1 tvg-id="0-9-zeemadhyapradeshchat" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zeemadhyapradeshchat/channel_list/zeemadhyapradeshchhattisgarh1170342c565feaf141ccb6e5b39d2ce0e71d.png", Zee Madhya Pradesh Chhattisgarh
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-zeemadhyapradeshchat
+#EXTINF:-1 tvg-id="0-9-zing" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zing/channel_list/1170x658withlogo895666865.png", Zing
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-zing
+#EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-bigmagic_1786965389/channel_list/1170x658withlog_2022520414.png", Big Magic
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-bigmagic_1786965389
+#EXTINF:-1 tvg-id="0-9-zeetvhd" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zeetvhd/channel_list/1170x658withlog1554775145.png", Zee TV HD
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-zeetvhd
+#EXTINF:-1 tvg-id="0-9-tvhd_0" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-tvhd_0/channel_list/1170x658withlogo378606665.png", &TV HD
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-tvhd_0
+#EXTINF:-1 tvg-id="0-9-zeemarathi" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zeemarathi/channel_list/1170x658withlogo551054149.png", Zee Marathi HD
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-zeemarathi
+#EXTINF:-1 tvg-id="0-9-zeeyuva" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zeeyuva/channel_list/1170x658withlogo_361849131.png", Zee Yuva
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-zeeyuva
+#EXTINF:-1 tvg-id="0-9-zeecafehd" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/channel_list/1170x658withlogo_325698699.png", Zee Caf須D
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-zeecafehd
+#EXTINF:-1 tvg-id="0-9-bigganga" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/channel_list/1170x6581735687172.png", Zee Ganga
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-bigganga
+#EXTINF:-1 tvg-id="0-9-zeetelugu" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zeetelugu/channel_list/1170x658593933473.png", Zee Telugu HD
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-zeetelugu
+#EXTINF:-1 tvg-id="0-9-zeekannada" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zeekannada/channel_list/1170x658611455469.png", Zee Kannada HD
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-zeekannada
+#EXTINF:-1 tvg-id="0-9-129" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-129/channel_list/1170x658withlogo268830785.png", Zee Keralam HD
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-129
+#EXTINF:-1 tvg-id="0-9-zeebangla" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zeebangla/channel_list/1170x658310781121.png", Zee Bangla HD
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-zeebangla
+#EXTINF:-1 tvg-id="0-9-zeeanmol" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zeeanmol/channel_list/1170x658withlog_1844143347.png", Zee Anmol
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-zeeanmol
+#EXTINF:-1 tvg-id="0-9-zeecinemahd" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinemahd/channel_list/1170x658withlogo_167952257.png", Zee Cinema HD
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-zeecinemahd
+#EXTINF:-1 tvg-id="0-9-zeecinemalu" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinemalu/channel_list/1170x658_1642453232.png", Zee Cinemalu HD
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-zeecinemalu
+#EXTINF:-1 tvg-id="0-9-tvpictureshd" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-tvpictureshd/channel_list/1170x658withlog1476130363.png", &Pictures HD
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-tvpictureshd
+#EXTINF:-1 tvg-id="0-9-zeetalkies" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zeetalkies/channel_list/1170x658_483062857.png", Zee Talkies HD
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-zeetalkies
+#EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zeebanglacinema/channel_list/1170x658withlog1238879598.png", Zee Bangla Cinema
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-zeebanglacinema
+#EXTINF:-1 tvg-id="0-9-215" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-215/channel_list/1170x658withlog1031170304.png", Zee Punjabi
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-215
+#EXTINF:-1 tvg-id="0-9-zeeanmolcinema" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zeeanmolcinema/channel_list/1170x658withlog_1721007595.png", Zee Anmol Cinema
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-zeeanmolcinema
+#EXTINF:-1 tvg-id="0-9-zeeclassic" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zeeclassic/channel_list/1170x658withlogo_218202605.png", Zee Bollywood
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-zeeclassic
+#EXTINF:-1 tvg-id="0-9-zeecinema" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinema/channel_list/1170x658withlogo_807278654.png", Zee Cinema
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-zeecinema
+#EXTINF:-1 tvg-id="0-9-pictures" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-pictures/channel_list/1170x658withlog_1269578414.png", &Pictures
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-pictures
+#EXTINF:-1 tvg-id="0-9-zeeaction" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zeeaction/channel_list/1170x658withlog_1953200347.png", Zee Action
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-zeeaction
+#EXTINF:-1 tvg-id="0-9-priv騤" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-priv騤/channel_list/1170x658withlogo_375086496.png", &Prive HD
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-priv騤
+#EXTINF:-1 tvg-id="0-9-ddodia" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-ddodia/channel_list/1170x658withlog_1372768736.png", DD Odia
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-ddodia
+#EXTINF:-1 tvg-id="0-9-chardiklatimetvtimet" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-chardiklatimetvtimet/channel_list/chardiklatimetv1170803e29eda81041f481cabfbcf63c406a.png", Chardikla Time TV
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-chardiklatimetvtimet
+#EXTINF:-1 tvg-id="0-9-ddnews" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-ddnews/channel_list/ddnews11705b93d38449604b94b8b715cef36f33c6.png", DD News
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-ddnews
+#EXTINF:-1 tvg-id="0-9-ddindia" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-ddindia/channel_list/ddindiab117082f1e0ff4e50404a97f9e4ea810d0d64.png", DD India
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-ddindia
+#EXTINF:-1 tvg-id="0-9-ddkisan" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-ddkisan/channel_list/ddkisan1170dd6893e0dd6d49c1aa725b8981c6ccdb.png", DD Kisan
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-ddkisan
+#EXTINF:-1 tvg-id="0-9-165" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-165/channel_list/1170x658withlog_1849594732.png", Boogle Bollywood
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-165
+#EXTINF:-1 tvg-id="0-9-channel_2105335046" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/channel_list/1170x658_379547401.png", &flix HD
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-channel_2105335046
+#EXTINF:-1 tvg-id="0-9-channel_2132977507" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2132977507/channel_list/1170x658withlog1071598760.png", Alpha ETC Punjabi
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-channel_2132977507
+#EXTINF:-1 tvg-id="0-9-channel_1144658965" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-channel_1144658965/channel_list/1170x658withlog_1152304152.png", Sanskar TV
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-channel_1144658965
+#EXTINF:-1 tvg-id="0-9-327" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-327/channel_list/1170x658withlog_2031259137.png", Shubh TV
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-327
+#EXTINF:-1 tvg-id="0-9-channel_1565694979" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-channel_1565694979/channel_list/1170x658withlogo_66703857.png", Satsang TV
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-channel_1565694979
+#EXTINF:-1 tvg-id="0-9-divyatv" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-divyatv/channel_list/1170x658withlog_2128007300.png", Divya TV
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-divyatv
+#EXTINF:-1 tvg-id="0-9-166" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-166/channel_list/1170x658withlogo_450865576.png", Krishna Vani
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-166
+#EXTINF:-1 tvg-id="0-9-zeesalaam" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zeesalaam/channel_list/zeesalaam1170007fc0a564444dd68d57bb1e95619dc2.png", Zee Salaam
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-zeesalaam
+#EXTINF:-1 tvg-id="0-9-zeetv" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zeetv/channel_list/1170x658withlogo_200095097.png", Zee TV
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-zeetv
+#EXTINF:-1 tvg-id="0-9-makkaltv" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-makkaltv/channel_list/1170x658withlogo_579936187.png", Makkal TV
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-makkaltv
+#EXTINF:-1 tvg-id="0-9-ddpodhigai" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-ddpodhigai/channel_list/1170x658withlog_1550486077.png", DD Podhigai
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-ddpodhigai
+#EXTINF:-1 tvg-id="0-9-ddmalayalam" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-ddmalayalam/channel_list/1170x658withlog_1300475155.png", DD Malayalam
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-ddmalayalam
+#EXTINF:-1 tvg-id="0-9-ddyadagiri" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-ddyadagiri/channel_list/ddyadagiri1170fb5c4623571b43a5b0fc6a728e6d6aa0.png", DD Yadagiri
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-ddyadagiri
+#EXTINF:-1 tvg-id="0-9-ddbangla" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-ddbangla/channel_list/1170x658withlog_1242891543.png", DD Bangla
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-ddbangla
+#EXTINF:-1 tvg-id="0-9-ddchandana" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-ddchandana/channel_list/1170x658withlogo_222569298.png", DD Chandana
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-ddchandana
+#EXTINF:-1 tvg-id="0-9-sarthaktv" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-sarthaktv/channel_list/1170x658withlog1150431941.png", Zee Sarthak
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-sarthaktv
+#EXTINF:-1 tvg-id="0-9-ddsahyadri" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-ddsahyadri/channel_list/1170x658withlog1078376781.png", DD Sahyadri
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-ddsahyadri
+#EXTINF:-1 tvg-id="0-9-ddgirnar" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-ddgirnar/channel_list/1170x658withlog_1445842484.png", DD Girnar
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-ddgirnar
+#EXTINF:-1 tvg-id="0-9-ddurdu" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-ddurdu/channel_list/1170x658withlog_1440959247.png", DD Urdu
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-ddurdu
+#EXTINF:-1 tvg-id="0-9-ddrajasthanjaipur" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-ddrajasthanjaipur/channel_list/1170x658withlog_1491909175.png", DD Rajasthan
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-ddrajasthanjaipur
+#EXTINF:-1 tvg-id="0-9-ddbharati" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-ddbharati/channel_list/1170x658withlog_1749264623.png", DD Bharati
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-ddbharati
+#EXTINF:-1 tvg-id="0-9-ddmadhyapradesh" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-ddmadhyapradesh/channel_list/1170x658withlog_1218231157.png", DD Madhya Pradesh
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-ddmadhyapradesh
+#EXTINF:-1 tvg-id="0-9-ddbihar" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-ddbihar/channel_list/1170x658withlog_1865440648.png", DD Bihar
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-ddbihar
+#EXTINF:-1 tvg-id="0-9-dduttarpradesh" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-dduttarpradesh/channel_list/1170x658withlog_1445486903.png", DD Uttar Pradesh
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-dduttarpradesh
+#EXTINF:-1 tvg-id="0-9-183" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-183/channel_list/1170x658withlog_1124442022.png", Hare Krsna
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-183
+#EXTINF:-1 tvg-id="0-9-channel_265145625" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-channel_265145625/channel_list/zeeupukb1170a14076402a564513b88b488a90421d59.png", Zee News Uttar Pradesh Uttrakhand
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-channel_265145625
+#EXTINF:-1 tvg-id="0-9-ddpunjabi" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-ddpunjabi/channel_list/1170x658withlog_1007647800.png", DD Punjabi
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-ddpunjabi
+#EXTINF:-1 tvg-id="0-9-172" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-172/channel_list/newsstatempch11705453127ff9284c43b982e7e52d76641c.png", News State Madhya Pradesh Chhattisgarh
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-172
+#EXTINF:-1 tvg-id="0-9-176" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-176/channel_list/1170x658withlogo_673971588.png", Zee Classic
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-176
+#EXTINF:-1 tvg-id="0-9-200" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-200/channel_list/pgsureshkumarne_1752938193.png", Asianet News
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-200
+#EXTINF:-1 tvg-id="0-9-209" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-209/channel_list/1170x658withlogo_358457080.png", &xplorHD
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-209
+#EXTINF:-1 tvg-id="0-9-216" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-216/channel_list/1170x658withlogo20909261.png", Zee Biskope
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-216
+#EXTINF:-1 tvg-id="0-9-227" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-227/channel_list/tv5kannada1170aaeef9c71d264307ae6263b453520611.png", TV5 Kannada
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-227
+#EXTINF:-1 tvg-id="0-9-348" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-348/channel_list/1170x658withlog_2096037619.png", Zee Zest HD
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-348
+#EXTINF:-1 tvg-id="0-9-241" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-241/channel_list/1170x658withlog_1692640342.png", Zee Picchar
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-241
+#EXTINF:-1 tvg-id="0-9-250" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-250/channel_list/1170x658withlogo_436360213.png", DD National HD
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-250
+#EXTINF:-1 tvg-id="0-9-271" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-271/channel_list/1170x658withlog_1625066572.png", Sugran TV
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-271
+#EXTINF:-1 tvg-id="0-9-272" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-272/channel_list/indianews117031f8a5ac002d4997aacd1577d390d3b0.png", India News
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-272
+#EXTINF:-1 tvg-id="0-9-273" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-273/channel_list/newsx11705f1b6520fc254daebac5828ac093b798.png", News X
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-273
+#EXTINF:-1 tvg-id="0-9-274" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-274/channel_list/indianewspunjabhimachal1170c83368ea85274c9984dfbb31a8d9619b.png", India News Punjabi Himachal
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-274
+#EXTINF:-1 tvg-id="0-9-275" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-275/channel_list/indianewsupuk1170699189b29da0419780b604b5b27a1d5e.png", India News UP
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-275
+#EXTINF:-1 tvg-id="0-9-276" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-276/channel_list/indianewsrajasthan11709eea0d2513e04c16b39ed265596df0e5.png", India News Rajasthan
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-276
+#EXTINF:-1 tvg-id="0-9-277" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-277/channel_list/indianewsmp1170cb5cf71c7f1141f8be18c083970cf4ed.png", India News MP
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-277
+#EXTINF:-1 tvg-id="0-9-278" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-278/channel_list/indianewsharyana11708fc221c14dcb40e389b3d9e1338a6c6c.png", India News Haryana
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-278
+#EXTINF:-1 tvg-id="0-9-279" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-279/channel_list/indianewsgujarat1170d81d0752eea04c669df2dc37c1bd4f97.png", India News Gujarat
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-279
+#EXTINF:-1 tvg-id="0-9-280" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-280/channel_list/nenews1170b76941073dff4b9382b14f80198b5105.png", NE News
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-280
+#EXTINF:-1 tvg-id="0-9-284" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-284/channel_list/1170x658withlogo_844800250.png", Sadhna TV
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-284
+#EXTINF:-1 tvg-id="0-9-285" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-285/channel_list/1170x658withlog_1126976137.png", Ishwar TV
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-285
+#EXTINF:-1 tvg-id="0-9-296" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-296/channel_list/1170x658_419268810.png", Non-stop EDM
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-296
+#EXTINF:-1 tvg-id="0-9-305" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-305/channel_list/livingindia1170df15a8430ba5461880eaec89eb8d05ef.png", Living India
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-305
+#EXTINF:-1 tvg-id="0-9-310" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-310/channel_list/pragnews11708e8cfbbd7cc342c09e27956a56a6084a.png", Prag News
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-310
+#EXTINF:-1 tvg-id="0-9-313" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-313/channel_list/sadhnaplusnews117044705e58ca9749d08603adeec06c299d.png", Sadhna Plus News
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-313
+#EXTINF:-1 tvg-id="0-9-314" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-314/channel_list/vipnews1170a39a47a1b0554f04ae96edb65b77d0fe.png", VIP News
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-314
+#EXTINF:-1 tvg-id="0-9-316" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-316/channel_list/1170x658withlog_1836335736.png", Awakening
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-316
+#EXTINF:-1 tvg-id="0-9-317" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-317/channel_list/time81170bcb518bfbd19440b8b482cad67ca7a8f.png", TIME8
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-317
+#EXTINF:-1 tvg-id="0-9-319" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-319/channel_list/sadhnanewsmpch11700de2a8f50653478c8a26b11904e279cc.png", Sadhna News MP/CG
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-319
+#EXTINF:-1 tvg-id="0-9-322" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-322/channel_list/1170x658withlog_1602476580.png", Rengoni
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-322
+#EXTINF:-1 tvg-id="0-9-345" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-345/channel_list/1170x658withlogo_361016754.png", Ek Onkar
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-345
+#EXTINF:-1 tvg-id="0-9-353" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-353/channel_list/1170x658withlog1434429781.png", Zee Vajwa
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-353
+#EXTINF:-1 tvg-id="0-9-354" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-354/channel_list/bharatsamachar1170db49df94773d486194cba05b2d712ffe.png", Bharat Samachar
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-354
+#EXTINF:-1 tvg-id="0-9-355" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-355/channel_list/abnandhrajyothy11700427e7d0f53343ca8612a9caa4ed1edd.png", ABN Andhra Jyothy
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-355
+#EXTINF:-1 tvg-id="0-9-356" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-356/channel_list/newsfirst11708cb92810a4b04225bfe3bf39503645e6.png", News First
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-356
+#EXTINF:-1 tvg-id="0-9-371" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-371/channel_list/10tv1170867ca01f83cd44a4b4e2c577590039f0.png", 10TV
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-371
+#EXTINF:-1 tvg-id="0-9-375" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-375/channel_list/1170x658withlogo_976067553.png", Haryanvi Hits
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-375
+#EXTINF:-1 tvg-id="0-9-376" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-376/channel_list/1170x658withlog_1062825349.png", Wah Punjabi
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-376
+#EXTINF:-1 tvg-id="0-9-377" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-377/channel_list/btv11705c93dad90aff47819fec69b43e1930de.png", BTV
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-377
+#EXTINF:-1 tvg-id="0-9-378" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-378/channel_list/tv9bangla11706bf79e5f4a8f4d98843af0a12f3c7b10.png", TV9 Bangla
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-378
+#EXTINF:-1 tvg-id="0-9-383" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-383/channel_list/sudarshantv1170ab2c3555bfa44317922f02d2bdea03de.png", Sudarshan TV
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-383
+#EXTINF:-1 tvg-id="0-9-384" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-384/channel_list/dainiksavera1170fba0f7f5e89c488c893f6b80a54603d6.png", Dainik Savera
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-384
+#EXTINF:-1 tvg-id="0-9-385" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-385/channel_list/cnewsbharat1170058694df1b4b4b3eac921b188dff69f6.png", C News Bharat
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-385
+#EXTINF:-1 tvg-id="0-9-386" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-386/channel_list/tv1001170ab5260f9aca74e2590f119c364bbf435.png", TV 100
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-386
+#EXTINF:-1 tvg-id="0-9-387" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-387/channel_list/abstarnews11702861f1381130457292da3bde6f1bf2fc.png", AB Star News
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-387
+#EXTINF:-1 tvg-id="0-9-388" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-388/channel_list/sanjhisoch11708b74fd15cc674b69aa715814bb0f7a0f.png", Sanjhi Soch
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-388
+#EXTINF:-1 tvg-id="0-9-389" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-389/channel_list/euronewsb117009692741d8254698a3a35f9cef914b2e.png", Euro News
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-389
+#EXTINF:-1 tvg-id="0-9-390" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-390/channel_list/euronewsb117038a3461f3abb417396b2ab2e2b627667.png", Africa News
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-390
+#EXTINF:-1 tvg-id="0-9-392" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-392/channel_list/1170x658_11759167.png", Fashion TV Mumbai
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-392
+#EXTINF:-1 tvg-id="0-9-393" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-393/channel_list/1170x658_1715566364.png", Fashion TV Paris
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-393
+#EXTINF:-1 tvg-id="0-9-394" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-394/channel_list/1170x658717187404.png", Zee Chitramandir
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-394
+#EXTINF:-1 tvg-id="0-9-398" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-398/channel_list/abpnewssumitawasthi21170ef3a0d5743ed479aab0111e2440ca87b.png", ABP News
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-398
+#EXTINF:-1 tvg-id="0-9-399" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-399/channel_list/abpganga1170e69c33f8e6d140fd8cd954177064b16b.png", ABP Ganga
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-399
+#EXTINF:-1 tvg-id="0-9-400" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-400/channel_list/abpmajha1170cb8e2b94f9244846a3be5bdaa87792f8.png", ABP Majha
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-400
+#EXTINF:-1 tvg-id="0-9-402" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-402/channel_list/abpananda11705c8689c56d774b93b297c2dec55368c3.png", ABP Ananda
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-402
+#EXTINF:-1 tvg-id="0-9-403" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-403/channel_list/abpasmita1170e9877d844ae74d54910d4a1798720913.png", ABP Asmita
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-403
+#EXTINF:-1 tvg-id="0-9-404" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-404/channel_list/abpsanjha1170e043143edf5f4fa3be291347ddd15311.png", ABP Sanjha
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-404
+#EXTINF:-1 tvg-id="0-9-407" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-407/channel_list/1170x658_671581899.png", News Time Assam
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-407
+#EXTINF:-1 tvg-id="0-9-408" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-408/channel_list/nd2411700106e77550ed4c70a5e578db7644f6a1.png", ND24
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-408
+#EXTINF:-1 tvg-id="0-9-410" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-410/channel_list/cvrnewstelugu117089dc3accd5114448a6db45530a8be68d.png", CVR News Telugu
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-410
+#EXTINF:-1 tvg-id="0-9-411" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-411/channel_list/cvrenglish11702e7a7b9730fb46c2ba5c37f06bcb3d22.png", CVR English
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-411
+#EXTINF:-1 tvg-id="0-9-412" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-412/channel_list/1170x658_1626283630.png", Devam
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-412
+#EXTINF:-1 tvg-id="0-9-413" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-413/channel_list/pratidintime1170afea806003d0418ab560e90ae675fb41.png", Pratidin Time
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-413
+#EXTINF:-1 tvg-id="0-9-417" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-417/channel_list/news1india117021bcedcc55e34d259ffce7b35189a0a3.png", News1 India
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-417
+#EXTINF:-1 tvg-id="0-9-418" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-418/channel_list/v611706da0a50feba64da09d710bfc70714d88.png", V6
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-418
+#EXTINF:-1 tvg-id="0-9-423" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-423/channel_list/1170x658_1426309917.png", Newsmax
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-423
+#EXTINF:-1 tvg-id="0-9-424" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-424/channel_list/1170x658_439820624.png", Ticker News
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-424
+#EXTINF:-1 tvg-id="0-9-425" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-425/channel_list/1170x658_220005254.png", Media One
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-425
+#EXTINF:-1 tvg-id="0-9-429" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-429/channel_list/english1170x658listdd79ff2b2a6c46d2b1b3e79f3042d32f.png", ZCL 2022 English
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-429
+#EXTINF:-1 tvg-id="0-9-430" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-430/channel_list/sarath_1170.png", Kairali News
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-430
+#EXTINF:-1 tvg-id="0-9-431" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-431/channel_list/rbangla_1170.png", Republic Bangla
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-431
+#EXTINF:-1 tvg-id="0-9-432" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-432/channel_list/hindi1170x658list5a3eac986b6d49d082e861e5eb13a4fc.png", ZCL 2022 Hindi
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-432
+#EXTINF:-1 tvg-id="0-9-433" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-433/channel_list/tamil1170x658list4c7c6f75527743cd929bed695fb6c96e.png", ZCL 2022 Tamil
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-433
+#EXTINF:-1 tvg-id="0-9-434" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-434/channel_list/1170x658zee5ki682000421.png", Live Test Global
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-434
+#EXTINF:-1 tvg-id="0-9-9z575356" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-9z575356/channel_list/1170x658withlogo74535036707809869609d4b4a80ca0cbe776476a4.png", Live TV Channel - Rabab Test
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-9z575356
+#EXTINF:-1 tvg-id="0-9-9z583386" group-title="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-9z583386/channel_list/timesnownavbharat1170e4f4cbfa707b40e19ca7748eb6b27449.png", Times Now Navbharat
+https://airtelindia.cf/zee5/zee5.m3u8?id=0-9-9z583386
