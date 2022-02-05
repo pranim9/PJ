@@ -1,12 +1,7 @@
 #EXTM3U
 
 
-
-
-
-########--------SonyLiv----------------------------
-
-
+########--------SonyLiv---------------------
 
 #EXTINF: -1 tvg-id="762" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/SonyPIx.jpg" group-title="SonyLiv",Pix HD
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
