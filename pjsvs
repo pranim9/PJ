@@ -2,108 +2,6 @@
 
 
 
-####--------------SunNxt---------------------
-
-
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg" group-title="SunNxt", Sun TV HD
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/14020.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9013/1000x1000_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg" group-title="SunNxt", Sun Music HD
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9013.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/38926/1000x1000_SunNews_38926_5921657d-45b6-445e-9e26-f0cd67be9d39.jpg" group-title="SunNxt", Sun News
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/38926.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/75117/200x200_4b19b530-f0bb-4b26-a9de-f3cdd5f8be20.jpg" group-title="SunNxt", Sun Bangla
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/75117.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9016/1000x1000_4522d18b-56cc-42be-8365-c54e21a6e394.jpg" group-title="SunNxt", Sun TV
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9016.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26569/1000x1000_SunLife_26569_1e6604fc-2df9-4598-8f1c-dcbda46254ab.jpg" group-title="SunNxt", Sun Life
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26569.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9025/1000x1000_c8897f06-b2c0-4856-9d81-02181b821cf7.jpg" group-title="SunNxt", Sun Music
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9025.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="SunNxt", Gemini TV HD
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/14019.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26570/1000x1000_285efca5-02f3-40a1-8f8c-d913e8f6b989.jpg" group-title="SunNxt", Gemini Movies HD
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26570.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26568/1000x1000_eaa4e437-cce0-4411-8e46-13640be94c55.jpg" group-title="SunNxt", Gemini Music HD
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26568.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9026/1000x1000_4cca05ef-46eb-4076-af6b-a8fdc1b88a27.jpg" group-title="SunNxt", Gemini Music
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9026.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9015/1000x1000_a4023b29-e49b-4c98-9621-95b7e5c39a19.jpg" group-title="SunNxt", Gemini Movies
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9015.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26572/1000x1000_da07159f-fa9c-45d0-beb2-685bedc12e33.jpg" group-title="SunNxt", Gemini Life
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26572.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9027/1000x1000_5cb5b903-f1a0-4590-bb90-8cfa529322e2.jpg" group-title="SunNxt", Gemini Comedy
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9027.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9017/1000x1000_66d46fd1-643f-429f-9e19-db603fa0e5e4.jpg" group-title="SunNxt", Gemini TV
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9017.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/30846/1000x1000_efb20223-e677-49fd-985e-806e7b162c6b.jpg" group-title="SunNxt", Udaya TV HD
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/30846.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9029/1000x1000_9f0bcf68-5025-43af-8e60-b83fea67215c.jpg" group-title="SunNxt", Udaya TV
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9029.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9022/1000x1000_d85b4dcc-ad0c-4a5b-84fd-6dd91dc585e2.jpg" group-title="SunNxt", Udaya Music
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9022.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26576/1000x1000_4ad767d2-e5d7-45f2-a95a-ab99f56cc2bf.jpg" group-title="SunNxt", Udaya Movies
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26576.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9014/1000x1000_8a47fe5c-81a8-42a4-8a05-f168e6a3c868.jpg" group-title="SunNxt", Udaya Comedy
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9014.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26574/1000x1000_6ed3be47-b8bf-45ee-adf1-fb5ae9621e08.jpg" group-title="SunNxt", Surya TV HD
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26574.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9018/1000x1000_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg" group-title="SunNxt", Surya TV
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9018.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/30835/1000x1000_143a4af4-2f02-4c9c-814b-af149e6a5a95.jpg" group-title="SunNxt", Surya Comedy
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/30835.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26575/1000x1000_a73efcfb-e350-491c-94e0-bd75f0d9d5f2.jpg" group-title="SunNxt", Surya Music
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26575.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg" group-title="SunNxt", Surya Movies
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9019.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg" group-title="SunNxt", KTV HD
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26566.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/32138/1000x1000_84b30aac-654e-4dd5-b5ee-bd8204254735.jpg" group-title="SunNxt", KTV
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/32138.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26577/1000x1000_4a0f4f2f-e317-4230-9fb6-6169ef66991d.jpg" group-title="SunNxt", Chintu TV
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26577.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26571/1000x1000_d0545f75-f99b-4375-8f42-6120c95fc55c.jpg" group-title="SunNxt", Kushi TV
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26571.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26573/1000x1000_5787336f-08b9-480f-9c97-3db09999b558.jpg" group-title="SunNxt", Kochu TV
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26573.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26567/1000x1000_c103e59e-217e-44fd-a087-651fcf8e6278.jpg" group-title="SunNxt", Chutti TV
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26567.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_30878292-a63e-4414-acbc-902c0afb4b9b.jpg" group-title="SunNxt", Adithya TV
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9023.m3u8
-#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/125944/200x200_SUNMarathi_125944_5e5a0ad1-23ed-4577-a331-791c6fa0e746.jpg" group-title="SunNxt", Sun Marathi
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/125944.m3u8
-
-
-
-
-#######--------------------Zee5----------------------------
-
-
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetamil/channel_web/1170x658_1250786368.png" group-title="Zee5",Zee Tamil HD
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=zeetamil
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-224/channel_web/1170x658withlogo_334138193.png" group-title="Zee5",Zee Thirai
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=224
-
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zing/channel_web/1170x658withlogo_895666865.png" group-title="Zee5",Zing
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=zing
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-133/channel_web/1170x658withlog_1438225875.png" group-title="Zee5",9X Jalwa
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=133
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-131/channel_web/1170x658withlog_2074233892.png" group-title="Zee5",9XM
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=131
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-134/channel_web/1170x658withlog_1510286564.png" group-title="Zee5",9X Jhakaas
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=134
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-132/channel_web/1170x658withlogo_790675165.png" group-title="Zee5",9X Tashan
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=132
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-296/channel_web/1170x658_419268810.png" group-title="Zee5",Non-stop EDM
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=296
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-298/channel_web/1170x658psd_1468258188.png" group-title="Zee5",Local Vocal
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=298
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-353/channel_web/1170x658withlog_1434429781.png" group-title="Zee5",Zee Vajwa
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=353
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-375/channel_web/1170x658withlogo_976067553.png" group-title="Zee5",Haryanvi Hits
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=375
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-376/channel_web/1170x658withlog_1062825349.png" group-title="Zee5",Wah Punjabi
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=376
-
 
 
 ########--------SonyLiv----------------------------
@@ -352,8 +250,7 @@ http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/ind
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
  
  
- 
- 
+  
  
 ########--------------------------Local----------------------------------------------------
 
@@ -544,6 +441,12 @@ http://uk1.zecast.com:1935/star-live/smusic/chunklist_w2139407510.m3u8
 
 #EXTINF:-1 group-title="Test",Travelxp
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/C9UDwli.png" tvg-id="", Clarity 4K
+https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClarityTV4K2-prod/playlist.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/ufQEuaF.png" tvg-id="", Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 
 #EXTINF:-1 group-title="Test",Jio Zee tv
 http://thoptv.in1.bitmana.io/jioo.php?c=Zee_TV_HD&q=800&e=.m3u8
