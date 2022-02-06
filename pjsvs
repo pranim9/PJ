@@ -1,80 +1,151 @@
 #EXTM3U
 
+#####------------------SunNxt-------------------------------
+
+#EXTINF:-1 tvg-id="sun14020" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/14020/1000x1500_SunTVHD_14020_6c8b0d77-dfb1-4456-8af8-6b219c28885d.jpg", Sun TV HD
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=14020
+#EXTINF:-1 tvg-id="sun38926" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/38926/1000x1500_SunNews_38926_d9234353-be56-4e69-8bbd-c3b15378e7cb.jpg", Sun News
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=38926
+#EXTINF:-1 tvg-id="sun26566" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/26566/1000x1500_KTVHD_26566_3f1d6cd3-6142-43b8-b78c-860477a91b90.jpg", KTV HD
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=26566
+#EXTINF:-1 tvg-id="sun9013" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/9013/1000x1500_SunMusicHD_9013_a1f6d6ac-015b-4e0f-b756-bc331824e590.jpg", Sun Music HD
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=9013
+#EXTINF:-1 tvg-id="sun26569" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/26569/1000x1500_SunLife_26569_b149631f-04c2-41f5-bb30-c23d0127336b.jpg", Sun Life
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=26569
+#EXTINF:-1 tvg-id="sun9023" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/9023/1000x1500_AdithyaTV_9023_8d1754a9-b044-4782-9bf6-f8eec1c7a165.jpg", Adithya TV
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=9023
+#EXTINF:-1 tvg-id="sun26567" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/26567/1000x1500_ChuttiTV_26567_f5c8f413-9a9c-4e75-ab9c-ae52e44230bf.jpg", Chutti TV
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=26567
+#EXTINF:-1 tvg-id="sun9016" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/9016/1000x1500_SunTV_9016_2f6432cf-c588-4fe3-a7d8-76ca4abe64b4.jpg", Sun TV
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=9016
+#EXTINF:-1 tvg-id="sun32138" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/32138/1000x1500_KTV_32138_d242116d-02e1-44d3-ae76-0e2096c8667d.jpg", KTV
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=32138
+#EXTINF:-1 tvg-id="sun9025" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/9025/1000x1500_SunMusic_9025_ce616d71-a7be-4895-9c88-26f6fb8e796f.jpg", Sun Music
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=9025
+#EXTINF:-1 tvg-id="sun14019" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1500_GeminiTVHD_14019_5fa8aaf5-5e27-464c-872c-7e1bf293cf93.jpg", Gemini TV HD
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=14019
+#EXTINF:-1 tvg-id="sun26570" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/26570/1000x1500_GeminiMoviesHD_26570_743fe85a-9e51-4507-b702-c63590daa3d2.jpg", Gemini Movies HD
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=26570
+#EXTINF:-1 tvg-id="sun26568" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/26568/1000x1500_GeminiMusicHD_26568_cbcdc74e-84c6-45a0-b5ed-a5c0059464e1.jpg", Gemini Music HD
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=26568
+#EXTINF:-1 tvg-id="sun9027" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/9027/1000x1500_GeminiComedy_9027_d7c77356-6721-41c4-825a-8755000b40db.jpg", Gemini Comedy
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=9027
+#EXTINF:-1 tvg-id="sun26572" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/26572/1000x1500_GeminiLife_26572_5e588a65-6d80-4abe-a788-dd8e43f5fe14.jpg", Gemini Life
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=26572
+#EXTINF:-1 tvg-id="sun26571" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/26571/1000x1500_KushiTV_26571_6a972e5a-f624-4e0e-ac68-1689dab237db.jpg", Kushi TV
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=26571
+#EXTINF:-1 tvg-id="sun9017" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/9017/1000x1500_GeminiTV_9017_4f62fbf5-46da-4d56-8998-0c2deb3b3797.jpg", Gemini TV
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=9017
+#EXTINF:-1 tvg-id="sun9015" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/9015/1000x1500_GeminiMovies_9015_59935728-bfc4-4dd1-ba3e-3f4c50c49bc6.jpg", Gemini Movies
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=9015
+#EXTINF:-1 tvg-id="sun9026" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/9026/1000x1500_GeminiMusic_9026_ca0989a9-1c19-4bf7-a9a0-fcd7a85f13f7.jpg", Gemini Music
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=9026
+#EXTINF:-1 tvg-id="sun26574" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/26574/1000x1500_SuryaTVHD_26574_432e86f2-b88c-4244-921d-25fabf02be77.jpg", Surya TV HD
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=26574
+#EXTINF:-1 tvg-id="sun9019" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/9019/1000x1500_SuryaMovies_9019_5ec863e8-1c9e-4d68-9586-eea3d54869c3.jpg", Surya Movies
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=9019
+#EXTINF:-1 tvg-id="sun26575" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/26575/1000x1500_SuryaMusic_26575_cc1fcfcf-7931-4b87-9ef7-1f74e60d00f7.jpg", Surya Music
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=26575
+#EXTINF:-1 tvg-id="sun30835" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/30835/1000x1500_SuryaComedy_30835_4e038a42-fb24-467e-a388-4fd9ec1b108d.jpg", Surya Comedy
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=30835
+#EXTINF:-1 tvg-id="sun26573" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/26573/1000x1500_KochuTV_26573_b37e2b98-bc82-40b5-8e4d-e1a451d7411f.jpg", Kochu TV
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=26573
+#EXTINF:-1 tvg-id="sun9018" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/9018/1000x1500_SuryaTV_9018_c8f09032-8b77-4cb7-98e6-6ecd2ed61aa1.jpg", Surya TV
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=9018
+#EXTINF:-1 tvg-id="sun30846" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/30846/1000x1500_UdayaTVHD_30846_5192365f-e16e-41b0-9b55-cd371ca41318.jpg", Udaya TV HD
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=30846
+#EXTINF:-1 tvg-id="sun26576" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/26576/1000x1500_UdayaMovies_26576_3f01331f-a95e-444d-b25e-d386182b5d8c.jpg", Udaya Movies
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=26576
+#EXTINF:-1 tvg-id="sun9022" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/9022/1000x1500_UdayaMusic_9022_e8012abd-c6b2-417c-8d3b-9f72167dab62.jpg", Udaya Music
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=9022
+#EXTINF:-1 tvg-id="sun9014" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/9014/1000x1500_UdayaComedy_9014_53e7de60-92f7-4e4c-bc84-01ca4becf6cc.jpg", Udaya Comedy
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=9014
+#EXTINF:-1 tvg-id="sun26577" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/26577/1000x1500_ChintuTV_26577_a6c3b102-c153-4752-bf8b-3699496028e6.jpg", Chintu TV
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=26577
+#EXTINF:-1 tvg-id="sun125944" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/125944/1600x1200_SUNMarathi_125944_2605a13f-b392-4912-95ef-bedc34382d5f.jpg", Sun Marathi
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=125944
+#EXTINF:-1 tvg-id="sun9029" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/9029/1000x1500_UdayaTV_9029_f4558ad3-730e-4d51-b2b1-4620bf69adac.jpg", Udaya TV
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=9029
+#EXTINF:-1 tvg-id="sun75117" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/75117/1000x1500_SunBangla_75117_19765610-bfa4-4280-8a98-e28feddb3382.jpg", Sun Bangla
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=75117
+#EXTINF:-1 tvg-id="sun64067" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/64067/1000x1500_SunNews_64067_f3c5dac8-568f-415b-865d-3a0ce0c4336d.jpg", Sun News
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=64067
+
 
 ########--------SonyLiv---------------------
 
 
 #EXTINF: -1 tvg-id="762" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/SonyPIx.jpg" group-title="Sony",Pix HD
-https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8|user-agent="ExoPlayer"
 
 #EXTINF: -1 tvg-id="162" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_HD.png" group-title="Sony",Ten1 HD
-https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8|user-agent="ExoPlayer"
 
 #EXTINF: -1 tvg-id="891" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN2_HD.png" group-title="Sony",Ten2 HD
-https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8|user-agent="ExoPlayer"
 
 #EXTINF: -1 tvg-id="892" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN3_HD.png" group-title="Sony",Ten3 HD
-https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8|user-agent="ExoPlayer"
 
 #EXTINF: -1 tvg-id="892" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4HD_Masthead_Logo.png" group-title="Sony",Ten4 HD
-https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
+https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8|user-agent="ExoPlayer"
 
 #EXTINF: -1 tvg-id="155" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_HD.png" group-title="Sony", Six HD
-https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8|user-agent="ExoPlayer"
 
 #EXTINF: -1 tvg-id="514" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_SD.png" group-title="Sony",Ten1
-https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
+https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8|user-agent="ExoPlayer"
 
 #EXTINF: -1 tvg-id="523" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN2_SD.png" group-title="Sony",Ten2
-https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
+https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8|user-agent="ExoPlayer"
 
 #EXTINF: -1 tvg-id="524" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/SonyTEN3HD.jpg" group-title="Sony",Ten3
-https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
+https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8|user-agent="ExoPlayer"
 
 #EXTINF: -1 tvg-id="892" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4SD_Masthead_Logo.png" group-title="Sony",Ten4
-https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
+https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8|user-agent="ExoPlayer"
 
 #EXTINF: -1 tvg-id="525" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_SD.png" group-title="Sony",Six
-https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
+https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8|user-agent="ExoPlayer"
 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Sony",SONY HD
-https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8|user-agent="ExoPlayer"
 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Sony",SONY MAX HD
-https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8|user-agent="ExoPlayer"
 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Sony",SONY PIX HD
-https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8|user-agent="ExoPlayer"
 
 #EXTINF: -1 tvg-id="525" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="Sony",BBC EARTH
-https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8|user-agent="ExoPlayer"
 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Sony",SAB HD
-https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8|user-agent="ExoPlayer"
 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Sony",SONY PAL
-https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8|user-agent="ExoPlayer"
 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Sony",SONY YAY
-https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8|user-agent="ExoPlayer"
 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="Sony",SONY MAX
-https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8|user-agent="ExoPlayer"
 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Sony",SONY MAX2
-https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8|user-agent="ExoPlayer"
 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Sony",SONY MARATHI
-https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
+https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8|user-agent="ExoPlayer"
 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Sony",SONY AATH
-https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
+https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8|user-agent="ExoPlayer"
 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Sony",SONY WAH
-https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8|user-agent="ExoPlayer"
 
 #EXTINF: -1 tvg-id="525" tvg-logo="https://i.imgur.com/s1jdNAS.png" group-title="Sony",Sony Liv Feed
-https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8
+https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8|user-agent="ExoPlayer"
 
 
 
