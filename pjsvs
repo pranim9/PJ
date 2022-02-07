@@ -77,73 +77,50 @@ https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=64067
 
 #EXTINF: -1 tvg-id="762" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/SonyPIx.jpg" group-title="Sony",Pix HD
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8|user-agent="ExoPlayer"
-
 #EXTINF: -1 tvg-id="162" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_HD.png" group-title="Sony",Ten1 HD
 https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8|user-agent="ExoPlayer"
-
 #EXTINF: -1 tvg-id="891" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN2_HD.png" group-title="Sony",Ten2 HD
 https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8|user-agent="ExoPlayer"
-
 #EXTINF: -1 tvg-id="892" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN3_HD.png" group-title="Sony",Ten3 HD
 https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8|user-agent="ExoPlayer"
-
 #EXTINF: -1 tvg-id="892" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4HD_Masthead_Logo.png" group-title="Sony",Ten4 HD
 https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8|user-agent="ExoPlayer"
-
 #EXTINF: -1 tvg-id="155" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_HD.png" group-title="Sony", Six HD
 https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8|user-agent="ExoPlayer"
-
 #EXTINF: -1 tvg-id="514" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_SD.png" group-title="Sony",Ten1
 https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8|user-agent="ExoPlayer"
-
 #EXTINF: -1 tvg-id="523" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN2_SD.png" group-title="Sony",Ten2
 https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8|user-agent="ExoPlayer"
-
 #EXTINF: -1 tvg-id="524" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/SonyTEN3HD.jpg" group-title="Sony",Ten3
 https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8|user-agent="ExoPlayer"
-
 #EXTINF: -1 tvg-id="892" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4SD_Masthead_Logo.png" group-title="Sony",Ten4
 https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8|user-agent="ExoPlayer"
-
 #EXTINF: -1 tvg-id="525" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_SD.png" group-title="Sony",Six
 https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8|user-agent="ExoPlayer"
-
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Sony",SONY HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8|user-agent="ExoPlayer"
-
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Sony",SONY MAX HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8|user-agent="ExoPlayer"
-
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Sony",SONY PIX HD
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8|user-agent="ExoPlayer"
-
 #EXTINF: -1 tvg-id="525" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="Sony",BBC EARTH
 https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8|user-agent="ExoPlayer"
-
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Sony",SAB HD
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8|user-agent="ExoPlayer"
-
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Sony",SONY PAL
 https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8|user-agent="ExoPlayer"
-
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Sony",SONY YAY
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8|user-agent="ExoPlayer"
-
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="Sony",SONY MAX
 https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8|user-agent="ExoPlayer"
-
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Sony",SONY MAX2
 https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8|user-agent="ExoPlayer"
-
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Sony",SONY MARATHI
 https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8|user-agent="ExoPlayer"
-
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Sony",SONY AATH
 https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8|user-agent="ExoPlayer"
-
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Sony",SONY WAH
 https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8|user-agent="ExoPlayer"
-
 #EXTINF: -1 tvg-id="525" tvg-logo="https://i.imgur.com/s1jdNAS.png" group-title="Sony",Sony Liv Feed
 https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8|user-agent="ExoPlayer"
 
@@ -168,15 +145,16 @@ https://raw.githubusercontent.com/pranim9/Discv/main/101.php
 #EXTINF:-1 tvg-id="dp106" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/d187c23d-46da-4a59-8929-7534b7a01c0c.png" group-title="Discovery+",Eurosport 
 https://raw.githubusercontent.com/pranim9/Discv/main/106.php
 #EXTINF:-1 tvg-id="dp109" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/636b0db9-e298-43d3-97a2-f628986a0426.png" group-title="Discovery+",Discovery Kids 
-https://raw.githubusercontent.com/pranim9/Discv/main/109.php
-#EXTINF:-1 tvg-id="dp110" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/a297d103-9ac7-4a10-8359-1e65abb625cc.png" group-title="Discovery+",DMAX 
-https://raw.githubusercontent.com/pranim9/Discv/main/110.php
-#EXTINF:-1 tvg-id="dp111" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/05/967c038f-8703-4f64-9446-5a9032c86c87.png" group-title="Discovery+",TRVL Channel 
-https://raw.githubusercontent.com/pranim9/Discv/main/111.php
-#EXTINF:-1 tvg-id="dp112" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/df769200-cd93-420a-834a-f0426323787e.png" group-title="Discovery+",HGTV 
-https://raw.githubusercontent.com/pranim9/Discv/main/112.php
-#EXTINF:-1 tvg-id="dp113" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/512a525a-6841-4a53-bd25-22f5f055dd1a.png" group-title="Discovery+",Food Network
 https://raw.githubusercontent.com/pranim9/Discv/main/113.php
+#EXTINF:-1 tvg-id="dp110" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/a297d103-9ac7-4a10-8359-1e65abb625cc.png" group-title="Discovery+",DMAX 
+https://raw.githubusercontent.com/pranim9/Discv/main/109.php
+#EXTINF:-1 tvg-id="dp111" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/05/967c038f-8703-4f64-9446-5a9032c86c87.png" group-title="Discovery+",TRVL Channel 
+https://raw.githubusercontent.com/pranim9/Discv/main/110.php
+#EXTINF:-1 tvg-id="dp112" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/df769200-cd93-420a-834a-f0426323787e.png" group-title="Discovery+",HGTV 
+https://raw.githubusercontent.com/pranim9/Discv/main/111.php
+#EXTINF:-1 tvg-id="dp113" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/512a525a-6841-4a53-bd25-22f5f055dd1a.png" group-title="Discovery+",Food Network
+https://raw.githubusercontent.com/pranim9/Discv/main/112.php
+
 
 
 
@@ -287,14 +265,12 @@ http://live.flixhub.net/hls/utvaction.m3u8
 #EXTINF:-1 group-title="Flexhub",Zee Cinema HD 
 http://live.flixhub.net/hls/zeecinemahd.m3u8
 
-
 #EXTINF:-1 group-title="Flexhub",Zee TV HD 
 http://live.flixhub.net/hls/zeetv.m3u8
 
 
 
-############-------------------Music --------------------------------------
-
+############-------------------Music -----------------------
 
 #EXTINF:-1  group-title="Music",9X Music
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8 
@@ -321,219 +297,4 @@ https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8 
 
 #EXTINF:-1  group-title="Music",MTV HD+
-http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
- 
- 
-  
- 
-########--------------------------Local----------------------------------------------------
-
-
-#EXTINF:-1  tvg-logo="" group-title="Local" group-title="Local",3 Tamil TV
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-
-#EXTINF:-1  group-title="Local",MON TAMIL TV
-http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
-
-#EXTINF:-1  tvg-logo="" group-title="Local",Abinaya HD
-http://singamcloud.in:1935/purpletv/purpletv/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="Local",Apple Digital
-http://singamcloud.in:1935/rasinetwork/appledigitel/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="Local",AUS TAMIL
-https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="Local",Gta Tamil
-http://142.44.213.115:8888/gta_tamil/index.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="Local",Sana plus HD
-http://51.79.158.179:1935/live/sanatv2/mono.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="Local",CTN TV
-http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="Local",EET TV
-https://eu.streamjo.com/eetlive/eettv.m3u8?token=GTR
-
-#EXTINF:-1  tvg-logo="" group-title="Local",Ezhil TV
-http://198.144.149.82:8080/NOTV/EZHILTV/index.m3u8?token=GTR
-
-#EXTINF:-1  tvg-logo="" group-title="Local",IBC Tamil
-https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="Local",Jawahar TV
-http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="Local",MAYA TV
-http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/mayatv_low/index.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="Local",JAYEM TV
-http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/jayamtvtvm_low/index.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="Local",MN TV
-http://mntv.livebox.co.in/mntvhls/mntv.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="Local",Palar TV
-http://account13.livebox.co.in/palartvhls/live.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="Local",Sana TV
-http://7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="Local",Maa TV
-http://live.singamcloud.in:1935/maatv/maatv/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="Local",Krishna Media
-http://stream.singamcloud.in:1935/krishnamedia/krishnamedia/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="Local",Kanchi TV
-http://198.144.149.82:8080/NOTV/KANCHITV/tracks-v1a1/mono.m3u8?token=GTR
-
-#EXTINF:-1  tvg-logo="" group-title="Local",Anbu TV
-http://nextgeninfotech.ddns.net:8080/anbu/anbu.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="Local",MSN TV
-http://media.7starcloud.com:1935/msntv/live/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="Local",Ram TV
-http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="Local",Phoenix TV
-http://198.144.149.82:8080/NOTV/PHOENIXTV/index.m3u8?token=GTR
-
-#EXTINF:-1  group-title="Local",Anu TV
-http://139.99.96.93:1935/anutv/anutv/mono.m3u8
-
-#EXTINF:-1  group-title="Local",Tdcto TV
-http://139.99.96.93:1935/applemusic/applemusic/mono.m3u8
-
-#EXTINF:-1  group-title="Local",Krishna TV
-http://51.79.158.179:1935/erodekrishnatv/livestream/mono.m3u8
-
-#EXTINF:-1  group-title="Local",Durais TV
-http://51.79.158.179:1935/harimedia/duraistv/mono.m3u8
-
-#EXTINF:-1  group-title="Local",Hari TV
-http://51.79.158.179:1935/harimedia/haritv/mono.m3u8
-
-#EXTINF:-1  group-title="Local",Ram TV
-http://51.79.158.179:1935/harimedia/live5/mono.m3u8
-
-#EXTINF:-1  group-title="Local",MSN TV
-http://51.79.158.179:1935/msntv/live/mono.m3u8
-
-#EXTINF:-1  group-title="Local",Thirumalai TV
-http://51.79.158.179:1935/tirumalaitv/stream/mono.m3u8
-
-#EXTINF:-1  group-title="Local",Abinaya HD
-http://51.79.207.150:1935/purpletv/purpletv/mono.m3u8
-
-#EXTINF:-1  group-title="Local",Apple Digital
-http://51.79.207.150:1935/rasinetwork/appledigitel/mono.m3u8
-#EXTINF:-1  group-title="Local",Sachin Music
-http://51.79.207.150:1935/sachinmusichd/sachinmusichd/mono.m3u8
-#EXTINF:-1  group-title="Local",TTV
-http://51.79.207.150:1935/ttv/ttv/mono.m3u8
-#EXTINF:-1  group-title="Local",SS TV
-http://51.79.158.179:1935/live/sstv2/mono.m3u8
-#EXTINF:-1  group-title="Local",N TV
-http://51.79.158.179:1935/ntv/live/mono.m3u8
-#EXTINF:-1  group-title="Local",Prakalya TV
-http://51.79.158.179:1935/pragalya/pragalyatv/mono.m3u8
-#EXTINF:-1  group-title="Local",Sana TV
-http://51.79.158.179:1935/sanatv/sanatv/mono.m3u8
-#EXTINF:-1  group-title="Local",SD Media
-http://51.79.158.179:1935/sd/sdmedia/mono.m3u8
-#EXTINF:-1  group-title="Local",Marutam tv
-https://mntv.livebox.co.in/mntvhls/mntv.m3u8
-#EXTINF:-1  group-title="Local",Jawahar tv
-http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/chunklist_w1329828768.m3u8
-#EXTINF:-1  group-title="Local",RCN TV
-https://5c75277727cd1.streamlock.net:443/rcntv/rcntv/playlist.m3u8
-#EXTINF:-1  group-title="Local",Tirupur pragalya tv
-http://7starcloud.com:1935/pragalya/pragalyatv/playlist.m3u8
-#EXTINF:-1  group-title="Local",Sooriyan TV
-http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
-#EXTINF:-1  group-title="Local",IBC Tamil
-https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
-#EXTINF:-1  group-title="Local",IBC Tamil Canada
-https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
-#EXTINF:-1  group-title="Local",IBC ISAI
-https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
-#EXTINF:-1  group-title="Local",IBC Comedy
-https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8
-#EXTINF:-1  group-title="Local",MK Six
-http://14.199.164.20:4001/play/a0ks/index.m3u8
-#EXTINF:-1  group-title="Local",MK TELEVISION
-http://14.199.164.20:4001/play/a0lh/index.m3u8
-#EXTINF:-1  group-title="Local",MK TUNES
-http://14.199.164.20:4001/play/a0kr/index.m3u8
-
-
-#EXTINF:-1  group-title="Local",Sevenstar
-http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
-#EXTINF:-1  group-title="Local",Sevenstarplus
-http://hdserver.7starcloud.com:1935/live/live/playlist.m3u8
-#EXTINF:-1 " group-title="Local",Sharvesh
-http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
-#EXTINF:-1  group-title="Local",Rasi Lifestyle
-http://singamcloud.in:1935/rasinetwork/cookings/playlist.m3u8
-#EXTINF:-1  group-title="Local",RASI TV
-http://singamcloud.in:1935/rasinetworks/rasitv/playlist.m3u8
-#EXTINF:-1  group-title="Local",RASI TAMIL
-http://singamcloud.in:1935/rasinetworks/rasitamil/playlist.m3u8
-#EXTINF:-1  group-title="Local",RASI MUSIC
-http://singamcloud.in:1935/rasinetworks/rasimusic/playlist.m3u8
-#EXTINF:-1  group-title="Local",RASI MOVIES
-http://singamcloud.in:1935/rasinetworks/rasimovies/playlist.m3u8
-#EXTINF:-1  group-title="Local",RASI HOLLYWOOD
-http://singamcloud.in:1935/rasinetworks/rasihollywood/playlist.m3u8
-#EXTINF:-1  group-title="Local",RASI CASSIC
-http://singamcloud.in:1935/rasinetworks/rasiclassic/playlist.m3u8
-#EXTINF:-1  group-title="Local",RASI TAMIL2
-http://singamcloud.in:1935/rasinetworks/rasitamil/chunklist_w442012745.m3u8
-#EXTINF:-1  group-title="Local",RASI TV2
-http://singamcloud.in:1935/rasinetworks/rasitv/chunklist_w766878936.m3u8
-#EXTINF:-1  group-title="Local",RASI MOVIES2
-http://singamcloud.in:1935/rasinetworks/rasimovies/chunklist_w37448986.m3u8
-
-
-
-
-
-###########-----------------------------------Test----------------------------------------------
-
-
-#EXTINF:-1 group-title="Test",Hungama Hits
-https://live.hungama.com/linear/dil-se/playlist_720p/index.m3u8 
-
-#EXTINF:-1 group-title="Test",Fox News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-
-#EXTINF:-1 group-title="Test",Sun Music
-http://uk1.zecast.com:1935/star-live/smusic/chunklist_w2139407510.m3u8
-
-#EXTINF:-1 group-title="Test",Travelxp
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/C9UDwli.png" tvg-id="", Clarity 4K
-https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClarityTV4K2-prod/playlist.m3u8
-
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/ufQEuaF.png" tvg-id="", Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-
-#EXTINF:-1 group-title="Test",Jio Zee tv
-http://thoptv.in1.bitmana.io/jioo.php?c=Zee_TV_HD&q=800&e=.m3u8
-
-#EXTINF:-1 group-title="Test",jio Colors
-https://tvstream.fun/jtv/m3uu8.php?c=Colors_HD&q=800&e=ishanjtv.m3u8
-
-#EXTINF:-1 group-title="Test",Sun Tv
-http://dream8k.pro:80/play/eAgAsmhYbwk-SqJ7_2zf8HKx2pkSnkOBzEOYY1rW2T4
-
-#EXTINF:-1 group-title="Test",K TV
-http://dream8k.pro:80/play/eAgAsmhYbwk-SqJ7_2zf8DHeKQ9tY3pmFGt1BV4-Tk8
-
-#EXTINF:-1 group-title="Test",Zethirai
-http://dream8k.pro:80/play/eAgAsmhYbwk-SqJ7_2zf8KuTY4_44iCNwHNbYrsLyfk
-
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8 
