@@ -508,6 +508,8 @@ http://dream8k.pro:80/play/eAgAsmhYbwk-SqJ7_2zf8DHeKQ9tY3pmFGt1BV4-Tk8
 http://dream8k.pro:80/play/eAgAsmhYbwk-SqJ7_2zf8KuTY4_44iCNwHNbYrsLyfk
 
 
+#EXTINF:-1 group-title="Test",Discovery
+https://github.com/pranim9/PJ/raw/main/discovery.m3u8
 
 
 #EXTINF:-1 timeshift="7" xui-id="20019" tvg-id="colorstamilhd.in" tvg-name="IN-TM | D2H COLORS FHD" tvg-logo="http://webo.asia/logos/colors-tamil-in-uk.png" group-title="[ IN ] TAMIL",IN-TM | D2H COLORS FHD
