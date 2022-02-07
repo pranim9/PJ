@@ -511,4 +511,7 @@ http://dream8k.pro:80/play/eAgAsmhYbwk-SqJ7_2zf8KuTY4_44iCNwHNbYrsLyfk
 #EXTINF:-1 group-title="Test",Discovery Hd
 https://raw.githubusercontent.com/pranim9/PJ/main/discovery.m3u8
 
+#EXTINF:-1 group-title="Test",Discovery Hd222
+https://bitbucket.org/pranim/pj/raw/6412ba370500a3410a8f5d83a0fa572eee769245/discoveryhd.m3u8
+
 
