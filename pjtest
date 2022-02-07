@@ -1,23 +1,38 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Test",Hungama Hits
+https://live.hungama.com/linear/dil-se/playlist_720p/index.m3u8 
 
-#EXTINF:-1 group-title="",Hungama Hits
-https://live.hungama.com/linear/dil-se/playlist_720p/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
+#EXTINF:-1 group-title="Test",Fox News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
-#EXTINF:-1 group-title="",Fox News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8|User-Agent=ExoPlayerLib/2.9.6
-
-#EXTINF:-1 group-title="",Sun Music
-http://uk1.zecast.com:1935/star-live/smusic/chunklist_w2139407510.m3u8|User-Agent=ExoPlayerLib/2.9.6
-
-#EXTINF:-1 group-title="" tvg-logo="https://i.imgur.com/C9UDwli.png" tvg-id="", Clarity 4K
-https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClarityTV4K2-prod/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
-
-#EXTINF:-1 group-title="" tvg-logo="https://i.imgur.com/ufQEuaF.png" tvg-id="", Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
+#EXTINF:-1 group-title="Test",Sun Music
+http://uk1.zecast.com:1935/star-live/smusic/chunklist_w2139407510.m3u8
 
 #EXTINF:-1 group-title="Test",Travelxp
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/C9UDwli.png" tvg-id="", Clarity 4K
+https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClarityTV4K2-prod/playlist.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.imgur.com/ufQEuaF.png" tvg-id="", Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+
+#EXTINF:-1 group-title="Test",Jio Zee tv
+http://thoptv.in1.bitmana.io/jioo.php?c=Zee_TV_HD&q=800&e=.m3u8
+
+#EXTINF:-1 group-title="Test",jio Colors
+https://tvstream.fun/jtv/m3uu8.php?c=Colors_HD&q=800&e=ishanjtv.m3u8
+
+#EXTINF:-1 group-title="Test",Sun Tv
+http://dream8k.pro:80/play/eAgAsmhYbwk-SqJ7_2zf8HKx2pkSnkOBzEOYY1rW2T4
+
+#EXTINF:-1 group-title="Test",K TV
+http://dream8k.pro:80/play/eAgAsmhYbwk-SqJ7_2zf8DHeKQ9tY3pmFGt1BV4-Tk8
+
+#EXTINF:-1 group-title="Test",Zethirai
+http://dream8k.pro:80/play/eAgAsmhYbwk-SqJ7_2zf8KuTY4_44iCNwHNbYrsLyfk
+
 
 
 
