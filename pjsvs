@@ -149,6 +149,36 @@ https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8|u
 
 
 
+#######-----------Discovery+------------------------------
+
+
+
+#EXTINF:-1 tvg-id="dp95" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/328f4c6f-e0be-4c88-a39f-e19facc0bc0b.png" group-title="Discovery+",Discovery Channel 
+https://raw.githubusercontent.com/pranim9/Discv/main/95.php
+#EXTINF:-1 tvg-id="dp96" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/0ab4383a-aa67-4166-aeb6-fcc1c6e02e66.png" group-title="Discovery+",Discovery Science
+https://raw.githubusercontent.com/pranim9/Discv/main/96.php
+#EXTINF:-1 tvg-id="dp97" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/644fb820-4583-4141-b251-bb2a70f2ca80.png" group-title="Discovery+",TLC
+https://raw.githubusercontent.com/pranim9/Discv/main/97.php
+#EXTINF:-1 tvg-id="dp98" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/8104e113-f6d2-46b2-85e2-c2c497eb8307.png" group-title="Discovery+",Discovery Turbo
+https://raw.githubusercontent.com/pranim9/Discv/main/98.php
+#EXTINF:-1 tvg-id="dp99" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/6bfada34-767b-4654-a6a2-526173c6da8c.png" group-title="Discovery+",Animal Planet 
+https://raw.githubusercontent.com/pranim9/Discv/main/99.php
+#EXTINF:-1 tvg-id="dp101" tvg-logo="https://ap2-prod-images.disco-api.com/2020/09/06/3a1a78f6-ee48-46ff-a42a-9780d6f426e0.png" group-title="Discovery+",Investigation Discovery
+https://raw.githubusercontent.com/pranim9/Discv/main/101.php
+#EXTINF:-1 tvg-id="dp106" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/d187c23d-46da-4a59-8929-7534b7a01c0c.png" group-title="Discovery+",Eurosport 
+https://raw.githubusercontent.com/pranim9/Discv/main/106.php
+#EXTINF:-1 tvg-id="dp109" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/636b0db9-e298-43d3-97a2-f628986a0426.png" group-title="Discovery+",Discovery Kids 
+https://raw.githubusercontent.com/pranim9/Discv/main/109.php
+#EXTINF:-1 tvg-id="dp110" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/a297d103-9ac7-4a10-8359-1e65abb625cc.png" group-title="Discovery+",DMAX 
+https://raw.githubusercontent.com/pranim9/Discv/main/110.php
+#EXTINF:-1 tvg-id="dp111" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/05/967c038f-8703-4f64-9446-5a9032c86c87.png" group-title="Discovery+",TRVL Channel 
+https://raw.githubusercontent.com/pranim9/Discv/main/111.php
+#EXTINF:-1 tvg-id="dp112" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/df769200-cd93-420a-834a-f0426323787e.png" group-title="Discovery+",HGTV 
+https://raw.githubusercontent.com/pranim9/Discv/main/112.php
+#EXTINF:-1 tvg-id="dp113" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/512a525a-6841-4a53-bd25-22f5f055dd1a.png" group-title="Discovery+",Food Network
+https://raw.githubusercontent.com/pranim9/Discv/main/113.php
+
+
 
 #####------------------------FlexHub-----------------------------------------
 
@@ -506,11 +536,4 @@ http://dream8k.pro:80/play/eAgAsmhYbwk-SqJ7_2zf8DHeKQ9tY3pmFGt1BV4-Tk8
 
 #EXTINF:-1 group-title="Test",Zethirai
 http://dream8k.pro:80/play/eAgAsmhYbwk-SqJ7_2zf8KuTY4_44iCNwHNbYrsLyfk
-
-
-#EXTINF:-1 group-title="Test",Discovery Hd
-https://raw.githubusercontent.com/pranim9/PJ/main/discovery.m3u8
-
-#EXTINF:-1 group-title="Test",Discovery Hd222
-https://raw.githubusercontent.com/pranim9/Discv/main/95.php
 
