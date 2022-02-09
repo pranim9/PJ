@@ -344,6 +344,164 @@ http://103.166.253.222/hls/zeetv.m3u8|user-agent="ExoPlayer"
 
 
 
+
+
+##########------------- Eng Dish1--------------
+
+
+#EXTINF:-1 group-title="EngDish1",Discovery Science HD
+http://37.19.203.217:8085/udp/239.10.10.1:5000
+#EXTINF:-1 group-title="EngDish1",Nova Sport HD
+http://37.19.203.217:8085/udp/239.10.10.2:5000
+#EXTINF:-1 group-title="EngDish1",BNT 3 HD
+http://37.19.203.217:8085/udp/239.10.10.3:5000
+#EXTINF:-1 group-title="EngDish1",HBO 2 HD
+http://37.19.203.217:8085/udp/239.10.10.5:5000
+#EXTINF:-1 group-title="EngDish1",Cinemax HD
+http://37.19.203.217:8085/udp/239.10.10.6:5000
+#EXTINF:-1 group-title="EngDish1",Cinemax 2 HD
+http://37.19.203.217:8085/udp/239.10.10.7:5000
+#EXTINF:-1 group-title="EngDish1",Wild TV HD
+http://37.19.203.217:8085/udp/239.10.10.8:5000
+#EXTINF:-1 group-title="EngDish1",Food Network HD
+http://37.19.203.217:8085/udp/239.10.10.4:5000
+#EXTINF:-1 group-title="EngDish1",CI Network&
+http://37.19.203.217:8085/udp/239.10.10.10:5000
+#EXTINF:-1 group-title="EngDish1",amc
+http://37.19.203.217:8085/udp/239.10.10.11:5000
+#EXTINF:-1 group-title="EngDish1",MTV Live HD
+http://37.19.203.217:8085/udp/239.10.10.16:5000
+#EXTINF:-1 group-title="EngDish1",FOX HD
+http://37.19.203.217:8085/udp/239.10.10.18:5000
+#EXTINF:-1 group-title="EngDish1",Fashion TV HD
+http://37.19.203.217:8085/udp/239.10.10.15:5000
+#EXTINF:-1 group-title="EngDish1",Animal Planet HD
+http://37.19.203.217:8085/udp/239.10.10.24:5000
+#EXTINF:-1 group-title="EngDish1",Investigation Discovery
+http://37.19.203.217:8085/udp/239.10.10.29:5000
+#EXTINF:-1 group-title="EngDish1",BG-DNES HD
+http://37.19.203.217:8085/udp/239.10.10.27:5000
+#EXTINF:-1 group-title="EngDish1",Hobby lov
+http://37.19.203.217:8085/udp/239.10.10.34:5000
+#EXTINF:-1 group-title="EngDish1",Hobby TV
+http://37.19.203.217:8085/udp/239.10.10.35:5000
+#EXTINF:-1 group-title="EngDish1",Evrokom HD
+http://37.19.203.217:8085/udp/239.10.10.31:5000
+#EXTINF:-1 group-title="EngDish1",Hobby TV HD
+http://37.19.203.217:8085/udp/239.10.10.36:5000
+#EXTINF:-1 group-title="EngDish1",Nick Jr
+http://37.19.203.217:8085/udp/239.10.10.40:5000
+#EXTINF:-1 group-title="EngDish1",Nova TV HD
+http://37.19.203.217:8085/udp/239.10.10.42:5000
+#EXTINF:-1 group-title="EngDish1",CBS Reality
+http://37.19.203.217:8085/udp/239.10.10.41:5000
+#EXTINF:-1 group-title="EngDish1",AutoMotorSport HD
+http://37.19.203.217:8085/udp/239.10.10.43:5000
+#EXTINF:-1 group-title="EngDish1",Karussel
+http://37.19.203.217:8085/udp/239.10.10.50:5000
+#EXTINF:-1 group-title="EngDish1",Magic TV
+http://37.19.203.217:8085/udp/239.10.10.57:5000
+#EXTINF:-1 group-title="EngDish1",Nickelodeon
+http://37.19.203.217:8085/udp/239.10.10.58:5000
+#EXTINF:-1 group-title="EngDish1",Supertennis
+http://37.19.203.217:8085/udp/239.10.10.60:5000
+#EXTINF:-1 group-title="EngDish1",BangU
+http://37.19.203.217:8085/udp/239.10.10.68:5000
+#EXTINF:-1 group-title="EngDish1",Pure Babes
+http://37.19.203.217:8085/udp/239.10.10.70:5000
+#EXTINF:-1 group-title="EngDish1",Babes TV HD
+http://37.19.203.217:8085/udp/239.10.10.69:5000
+#EXTINF:-1 group-title="EngDish1",Duck TV
+http://37.19.203.217:8085/udp/239.10.10.71:5000
+#EXTINF:-1 group-title="EngDish1",Mezzo Live HD
+http://37.19.203.217:8085/udp/239.10.10.76:5000
+#EXTINF:-1 group-title="EngDish1",Reality Kings
+http://37.19.203.217:8085/udp/239.10.10.81:5000
+#EXTINF:-1 group-title="EngDish1",KCN Music 2
+http://37.19.203.217:8085/udp/239.10.10.83:5000
+#EXTINF:-1 group-title="EngDish1",Hustler TV
+http://37.19.203.217:8085/udp/239.10.10.88:5000
+#EXTINF:-1 group-title="EngDish1",DaVinci Learning
+http://37.19.203.217:8085/udp/239.10.10.87:5000
+#EXTINF:-1 group-title="EngDish1",Sunrise Music
+http://37.19.203.217:8085/udp/239.10.10.93:5000
+#EXTINF:-1 group-title="EngDish1",Folklor TV HD
+http://37.19.203.217:8085/udp/239.10.10.94:5000
+#EXTINF:-1 group-title="EngDish1",Diema Sport HD
+http://37.19.203.217:8085/udp/239.10.10.96:5000
+#EXTINF:-1 group-title="EngDish1",Trace Sport Stars HD
+http://37.19.203.217:8085/udp/239.10.10.97:5000
+#EXTINF:-1 group-title="EngDish1",FilmBox HD
+http://37.19.203.217:8085/udp/239.10.10.98:5000
+#EXTINF:-1 group-title="EngDish1",Eurosport 2 HD
+http://37.19.203.217:8085/udp/239.10.10.100:5000
+#EXTINF:-1 group-title="EngDish1",STS International
+http://37.19.203.217:8085/udp/239.10.10.116:5000
+#EXTINF:-1 group-title="EngDish1",2M Monde
+http://37.19.203.217:8085/udp/239.10.10.117:5000
+#EXTINF:-1 group-title="EngDish1",TV1 HD
+http://37.19.203.217:8085/udp/239.10.10.124:5000
+#EXTINF:-1 group-title="EngDish1",TVRUS
+http://37.19.203.217:8085/udp/239.10.10.130:5000
+#EXTINF:-1 group-title="EngDish1",Bulgaria 24
+http://37.19.203.217:8085/udp/239.10.10.128:5000
+#EXTINF:-1 group-title="EngDish1",Diema Sport
+http://37.19.203.217:8085/udp/239.10.10.135:5000
+#EXTINF:-1 group-title="EngDish1",Fox Life HD
+http://37.19.203.217:8085/udp/239.10.10.134:5000
+#EXTINF:-1 group-title="EngDish1",ID Xtra HD
+http://37.19.203.217:8085/udp/239.10.10.136:5000
+#EXTINF:-1 group-title="EngDish1",Trace Sport Stars
+http://37.19.203.217:8085/udp/239.10.10.137:5000
+#EXTINF:-1 group-title="EngDish1",24 Kitchen HD
+http://37.19.203.217:8085/udp/239.10.10.133:5000
+#EXTINF:-1 group-title="EngDish1",Fox Crime HD
+http://37.19.203.217:8085/udp/239.10.10.138:5000
+#EXTINF:-1 group-title="EngDish1",Diema Sport 2
+http://37.19.203.217:8085/udp/239.10.10.142:5000
+#EXTINF:-1 group-title="EngDish1",Bloomberg TV Bulgaria HD
+http://37.19.203.217:8085/udp/239.10.10.149:5000
+#EXTINF:-1 group-title="EngDish1",Diema Sport 2 HD
+http://37.19.203.217:8085/udp/239.10.10.141:5000
+#EXTINF:-1 group-title="EngDish1",CodeFashion TV HD
+http://37.19.203.217:8085/udp/239.10.10.144:5000
+#EXTINF:-1 group-title="EngDish1",Bloomberg TV Bulgaria
+http://37.19.203.217:8085/udp/239.10.10.150:5000
+#EXTINF:-1 group-title="EngDish1",Dorcel TV HD
+http://37.19.203.217:8085/udp/239.10.10.155:5000
+#EXTINF:-1 group-title="EngDish1",BNT 2 HD
+http://37.19.203.217:8085/udp/239.10.10.156:5000
+#EXTINF:-1 group-title="EngDish1",English Club HD
+http://37.19.203.217:8085/udp/239.10.10.158:5000
+#EXTINF:-1 group-title="EngDish1",BNT 4 HD
+http://37.19.203.217:8085/udp/239.10.10.157:5000
+#EXTINF:-1 group-title="EngDish1",BHTV
+http://37.19.203.217:8085/udp/239.10.10.159:5000
+#EXTINF:-1 group-title="EngDish1",WnessTV HD
+http://37.19.203.217:8085/udp/239.10.10.162:5000
+#EXTINF:-1 group-title="EngDish1",DocuBox HD
+http://37.19.203.217:8085/udp/239.10.10.166:5000
+#EXTINF:-1 group-title="EngDish1",FightBox HD
+http://37.19.203.217:8085/udp/239.10.10.167:5000
+#EXTINF:-1 group-title="EngDish1",Eroxxx HD
+http://37.19.203.217:8085/udp/239.10.10.164:5000
+#EXTINF:-1 group-title="EngDish1",N/A
+http://37.19.203.217:8085/udp/239.10.10.173:5000
+#EXTINF:-1 group-title="EngDish1",Nostalgia
+http://37.19.203.217:8085/udp/239.10.10.177:5000
+#EXTINF:-1 group-title="EngDish1",Nicktoons
+http://37.19.203.217:8085/udp/239.10.10.178:5000
+#EXTINF:-1 group-title="EngDish1",EDGE Sport
+http://37.19.203.217:8085/udp/239.10.10.181:5000
+#EXTINF:-1 group-title="EngDish1",EDGE Sport HD
+http://37.19.203.217:8085/udp/239.10.10.182:5000
+#EXTINF:-1 group-title="EngDish1",Timeless Drama Channel
+http://37.19.203.217:8085/udp/239.10.10.186:5000
+
+
+
+
+
 #######---------------------------------------
 
 
