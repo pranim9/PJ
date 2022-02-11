@@ -68,6 +68,129 @@ https://cdn02.vidstrm.xyz:8096/s/UdayaTV/index.m3u8
 https://cdn02.vidstrm.xyz:8096/s/SunBangla/index.m3u8
 
 
+######---------------Jio----------------------------
+
+
+
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png" group-title="Jio",History TV18 HD Tamil
+http://3.110.214.169/jio/live.php?c=History_18_Tamil&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Tamil.png" group-title="Jio",Sony BBC Earth HD Tamil
+http://3.110.214.169/jio/live.php?c=Sony_BBC_Earth_HD_Tamil&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="Jio",D Tamil
+http://3.110.214.169/jio/live.php?c=Discovery_Channel_Tamil&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png" group-title="Jio",Animal Planet HD Tamil
+http://3.110.214.169/jio/live.php?c=Animal_Planet_HD_Tamil&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_Tamil.png" group-title="Jio",Travel XP Tamil
+http://3.110.214.169/jio/live.php?c=Travel_XP_Tamil&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="Jio",Colors Tamil HD
+http://3.110.214.169/jio/live.php?c=Colors_Tamil_HD&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Jio",Zee Tamil
+http://3.110.214.169/jio/live.php?c=Zee_Tamil&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_TV.png" group-title="Jio",Kalaignar TV
+http://3.110.214.169/jio/live.php?c=Kalaignar_TV&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="Jio",Raj TV
+http://3.110.214.169/jio/live.php?c=Raj_TV&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png" group-title="Jio",Puthiya Thalimurai
+http://3.110.214.169/jio/live.php?c=Puthiya_Thalimurai&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png" group-title="Jio",Vasanth TV
+http://3.110.214.169/jio/live.php?c=Vasanth_TV&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="Jio",Jaya Max
+http://3.110.214.169/jio/live.php?c=Jaya_Max&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title="Jio",Polimer TV
+http://3.110.214.169/jio/live.php?c=Polimer_TV&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Thanthi_TV.png" group-title="Jio",Thanthi TV
+http://3.110.214.169/jio/live.php?c=Thanthi_TV&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Makkal_TV.png" group-title="Jio",Makkal TV
+http://3.110.214.169/jio/live.php?c=Makkal_TV&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Plus.png" group-title="Jio",Jaya Plus
+http://3.110.214.169/jio/live.php?c=Jaya_Plus&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" group-title="Jio",J Movies
+http://3.110.214.169/jio/live.php?c=J_Movies&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News7_Tamil.png" group-title="Jio",News7 Tamil
+http://3.110.214.169/jio/live.php?c=News7_Tamil&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png" group-title="Jio",Polimer News
+http://3.110.214.169/jio/live.php?c=Polimer_News&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="Jio",News 18 Tamilnadu
+http://3.110.214.169/jio/live.php?c=News_18_Tamilnadu&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_Seithigal_.png" group-title="Jio",Kalaignar Seithigal 
+http://3.110.214.169/jio/live.php?c=Kalaignar_Seithigal_&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png" group-title="Jio",Raj Digital Plus
+http://3.110.214.169/jio/live.php?c=Raj_Digital_Plus&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png" group-title="Jio",Raj Musix
+http://3.110.214.169/jio/live.php?c=Raj_Musix&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sathiyam.png" group-title="Jio",Sathiyam TV
+http://3.110.214.169/jio/live.php?c=Sathiyam
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Captain_News.png" group-title="Jio",Captain News
+http://3.110.214.169/jio/live.php?c=Captain_News&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Malai_Murasu.png" group-title="Jio",Malai Murasu
+http://3.110.214.169/jio/live.php?c=Malai_Murasu&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Captain_tv.png" group-title="Jio",Captain tv
+http://3.110.214.169/jio/live.php?c=Captain_tv&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sahana_Music.png" group-title="Jio",Sahana Music
+http://3.110.214.169/jio/live.php?c=Sahana_Music&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nambikkai.png" group-title="Jio",Nambikkai
+http://3.110.214.169/jio/live.php?c=Nambikkai&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vendhar_TV.png" group-title="Jio",Vendhar TV
+http://3.110.214.169/jio/live.php?c=Vendhar_TV&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD5_Podhigai.png" group-title="Jio",DD5 Podhigai
+http://3.110.214.169/jio/live.php?c=DD5_Podhigai&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="Jio",CN HD+ Tamil
+http://3.110.214.169/jio/live.php?c=CN_HD_Tamil&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" group-title="Jio",Cartoon Network Tamil
+http://3.110.214.169/jio/live.php?c=Cartoon_Network_Tamil&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" group-title="Jio",Pogo Tamil
+http://3.110.214.169/jio/live.php?c=Pogo_Tamil&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png" group-title="Jio",Nick Tamil
+http://3.110.214.169/jio/live.php?c=Nick_Tamil&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png" group-title="Jio",sonic Tamil
+http://3.110.214.169/jio/live.php?c=sonic_Tamil&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Tamil.png" group-title="Jio",Sony Yay Tamil
+http://3.110.214.169/jio/live.php?c=Sony_Yay_Tamil&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png" group-title="Jio",Discovery Kids Tamil
+http://3.110.214.169/jio/live.php?c=Discovery_Kids_Tamil&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Jio",Colors Cineplex HD
+http://3.110.214.169/jio/live.php?c=Colors_Cineplex_HD&q=1200&e=.m3u8
+
+
 ########--------SonyLiv---------------------
 
 
